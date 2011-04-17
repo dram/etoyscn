@@ -1,0 +1,3167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eToys\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-19 19:38-0000\n"
+"PO-Revision-Date: 2010-12-31 06:07+0200\n"
+"Last-Translator: Xin <dram.wang@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.3\n"
+"X-Etoys-Domain: Etoys-Tiles\n"
+"X-Etoys-SystemVersion: etoys4.1 of 19 September 2010 update 2387\n"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryColorAndBorder,NCLabelMorph_class>>additionsToViewerCategories
+msgid "color & border"
+msgstr "颜色和边框"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryColorAndBorder
+msgid "line width"
+msgstr "线条宽度"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryColorAndBorder
+msgid "The width of the main part of the Connector"
+msgstr "连接符主要部分的宽度"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "add a label at my middle"
+msgstr "在中央添加标识"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "add label"
+msgstr "增加标识"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "connector"
+msgstr "连接符"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "destination"
+msgstr "终点"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "destination arrow name"
+msgstr "终点箭头名称"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "orthogonal"
+msgstr "正交"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "remove all my bends"
+msgstr "移除我的所有弯头"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "remove all my labels"
+msgstr "移除我的所有标识"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "remove labels"
+msgstr "移除标识"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "smooth curve"
+msgstr "光滑曲线"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "source"
+msgstr "源点"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "source arrow name"
+msgstr "源点箭头名称"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "straighten"
+msgstr "拉直"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "The name of the arrow at my first end"
+msgstr "第一个末端的箭头名称"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "The name of the arrow at my second end"
+msgstr "第二个末端的箭头名称"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "The Player at my first end"
+msgstr "第一个末端的选手"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "The Player at my second end"
+msgstr "第二个末端的选手"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "Whether I am drawn as a smooth curve"
+msgstr "我是否光滑曲线"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryConnection
+msgid "Whether I am limited to horizontal and vertical segments"
+msgstr "我是否被限制在垂直和水平区域"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "destination x"
+msgstr "目标X"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "destination y"
+msgstr "目标Y"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "My total length"
+msgstr "总长"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "midpoint x"
+msgstr "中点X"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "midpoint y"
+msgstr "中点Y"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "source x"
+msgstr "源X"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "source y"
+msgstr "源Y"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "The X coordinate of my first end"
+msgstr "起点的X坐标"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "The X coordinate of my midpoint"
+msgstr "中点的X坐标"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "The X coordinate of my second end"
+msgstr "终点的X坐标"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "The Y coordinate of my first end"
+msgstr "起点的Y坐标"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "The Y coordinate of my midpoint"
+msgstr "中点的Y坐标"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "The Y coordinate of my second end"
+msgstr "终点的Y坐标"
+
+#: Connectors-Base,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "total length"
+msgstr "总长度"
+
+#: Connectors-Text,NCDisplayTextMorph_class>>additionsToViewerCategoryText
+msgid "focused"
+msgstr "聚焦"
+
+#: Connectors-Text,NCDisplayTextMorph_class>>additionsToViewerCategoryText
+msgid "True if I am displaying a cursor and listening for keystrokes"
+msgstr "如果显示光标或是监听按键设置为true"
+
+#: Connectors-Text,NCDisplayTextMorph_class>>additionsToViewerCategoryText,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "text"
+msgstr "文本"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "All my characters except the first one"
+msgstr "除了第一个剩下的字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "all but first"
+msgstr "除了第一个"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "background color"
+msgstr "背景色"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "character at cursor"
+msgstr "光标处的字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "characters"
+msgstr "字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "count"
+msgstr "数目"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "first character"
+msgstr "第一个字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "How many characters I have"
+msgstr "我有多少字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "insert characters"
+msgstr "插入字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "insert contents of"
+msgstr "插入目录"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "insert the characters from another object at my cursor position"
+msgstr "在当前光标位置插入来自其他对象的字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "insert the given string at my cursor position"
+msgstr "在当前光标处插入给字的字符串"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "last character"
+msgstr "最后一个字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,SimpleSliderMorph_class>>additionsToViewerCategories,SimpleSliderMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "numeric value"
+msgstr "数值"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "The character at the my cursor position"
+msgstr "当前光标处的字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "The characters in my contents"
+msgstr "目录中的字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "The color of the background behind the text"
+msgstr "文字的背景色"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "The first character in my contents"
+msgstr "目录中的第一个字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "The last character in my contents"
+msgstr "目录中最后一个字符"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "The number represented by my contents"
+msgstr "代表目录的数字"
+
+#: Connectors-Text-Base,NCLabelMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "The position among my characters that replacement text would go"
+msgstr "字符中显示文字插入的位置"
+
+#: DrGeoII-Core-Item-View,DrGPointMorph_class>>additionsToViewerCategoryDrGeo
+msgid " xw"
+msgstr ""
+
+#: DrGeoII-Core-Item-View,DrGPointMorph_class>>additionsToViewerCategoryDrGeo
+msgid " yw"
+msgstr ""
+
+#: DrGeoII-Core-Item-View,DrGPointMorph_class>>additionsToViewerCategoryDrGeo
+msgid "curve abscissa"
+msgstr ""
+
+#: DrGeoII-Core-Item-View,DrGPointMorph_class>>additionsToViewerCategoryDrGeo,DrGValueMorph_class>>additionsToViewerCategoryDrGeo
+msgid "drgeo"
+msgstr ""
+
+#: DrGeoII-Core-Item-View,DrGPointMorph_class>>additionsToViewerCategoryDrGeo
+msgid "The abscissa of this point on the curve"
+msgstr ""
+
+#: DrGeoII-Core-Item-View,DrGPointMorph_class>>additionsToViewerCategoryDrGeo
+msgid "The x coordinate in the DrGeoII world coordinate system"
+msgstr ""
+
+#: DrGeoII-Core-Item-View,DrGPointMorph_class>>additionsToViewerCategoryDrGeo
+msgid "The y coordinate in the DrGeoII world coordinate system"
+msgstr ""
+
+#: DrGeoII-Core-Item-View,DrGValueMorph_class>>additionsToViewerCategoryDrGeo
+msgid "The math item value"
+msgstr ""
+
+#: DrGeoII-Core-Item-View,DrGValueMorph_class>>additionsToViewerCategoryDrGeo
+msgid "value"
+msgstr ""
+
+#: Etoys-Scripting,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
+msgid "act when"
+msgstr "当。。。行动"
+
+#: Etoys-Scripting,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "height"
+msgstr "高"
+
+#: Etoys-Scripting,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "The height"
+msgstr "高"
+
+#: Etoys-Scripting,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
+msgid "When the script should fire"
+msgstr "当脚本应该开火时"
+
+#: Etoys-Scripting,ScriptableButton_class>>additionsToViewerCategories
+msgid "label"
+msgstr "标签"
+
+#: Etoys-Scripting,ScriptableButton_class>>additionsToViewerCategories
+msgid "The wording on the button"
+msgstr "按钮名称"
+
+#: Etoys-SpeechBubbles,SpeechBubbleMorph_class>>additionsToViewerCategoryBubble
+msgid "attach to"
+msgstr ""
+
+#: Etoys-SpeechBubbles,SpeechBubbleMorph_class>>additionsToViewerCategoryBubble
+msgid "attachment"
+msgstr ""
+
+#: Etoys-SpeechBubbles,SpeechBubbleMorph_class>>additionsToViewerCategoryBubble
+msgid "Free the bubble from following an object"
+msgstr ""
+
+#: Etoys-SpeechBubbles,SpeechBubbleMorph_class>>additionsToViewerCategoryBubble
+msgid "Make the bubble follow an object"
+msgstr ""
+
+#: Etoys-SpeechBubbles,SpeechBubbleMorph_class>>additionsToViewerCategoryBubble
+msgid "stop attaching"
+msgstr ""
+
+#: Etoys-SpeechBubbles,SpeechBubbleMorph_class>>additionsToViewerCategoryBubble
+msgid "The object this bubble is currently following"
+msgstr ""
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "Create a new card"
+msgstr "创建一个新卡"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "card number"
+msgstr "卡片编号"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "Delete the current card"
+msgstr "删除当前卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "delete card"
+msgstr "删除卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "Go to the first card of the current background"
+msgstr "去当前背景的第一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "Go to the first card of the entire stack"
+msgstr "去整个堆栈的第一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "Go to the last card of the current background"
+msgstr "去当前背景的最后一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "Go to the last card of the entire stack"
+msgstr "去整个堆栈的最后一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "Go to the next card"
+msgstr "去下一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "Go to the previous card"
+msgstr "去前一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "go to first card in background"
+msgstr "去背景中的第一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "go to first card of stack"
+msgstr "去堆栈中的第一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "go to last card in background"
+msgstr "去背景中的最后一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "go to last card of stack"
+msgstr "去堆栈中的最后一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "go to next card in stack"
+msgstr "去堆栈中的后一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "go to previous card in stack"
+msgstr "去堆栈中的前一个卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "insert card"
+msgstr "插入卡片"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "stack navigation"
+msgstr "堆栈导航"
+
+#: Etoys-Stacks,StackMorph_class>>additionsToViewerCategories
+msgid "The ordinal number of the current card"
+msgstr "当前卡的顺序的数字"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "add patch to display list"
+msgstr "将补片添加到显示列表"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "add to patch display list"
+msgstr "添加到补片显示列表"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "add to turtle display list"
+msgstr "添加到 turtle 显示列表 "
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "add turtle to display list"
+msgstr "添加 turtle 到显示列表"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "bottom edge mode"
+msgstr "底边样式"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "clear the patch display list"
+msgstr "清除补片显示列表"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "clear the turtle display list"
+msgstr "清除 turtle 显示列表"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories,KedamaPatchMorph_class>>additionsToViewerCategories,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryColor,Morph_class>>additionsToViewerCategoryColor,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories,SimpleSliderMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories,WsSonogram_class>>additionsToViewerCategories
+msgid "color"
+msgstr "颜色"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "kedama"
+msgstr "kedama"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "left edge mode"
+msgstr "左边缘样式"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "patch display list"
+msgstr "补片显示列表"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "patches to display"
+msgstr "将要显示的补片"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "pixels per patch"
+msgstr "每个补片像素"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "remove all from patch display list"
+msgstr "删除补片显示列表中的全部"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "remove all from turtle display list"
+msgstr "删除turtle显示列表中的全部"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "right edge mode"
+msgstr "右边缘样式"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories,KedamaPatchMorph_class>>additionsToViewerCategories,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryColor,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
+msgid "The color of the object"
+msgstr "该对象颜色"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "the display scale"
+msgstr "显示比例"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "the mode of bottom edge"
+msgstr "底边样式"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "the mode of left edge"
+msgstr "左边缘样式"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "the mode of right edge"
+msgstr "右边缘样式"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "the mode of top edge"
+msgstr "顶部样式"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "top edge mode"
+msgstr "顶部样式"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "turtle display list"
+msgstr "turtle显示列表"
+
+#: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
+msgid "turtles to display"
+msgstr "将要显示的turtle"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "blue component from"
+msgstr "蓝色组件从"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "blue component into"
+msgstr "蓝色组件到"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "clear all patch"
+msgstr "删除所有补片"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "decay"
+msgstr "衰退"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "decay patch variable"
+msgstr "衰退补片变量"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "diffuse"
+msgstr "扩散"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "diffuse patch variable"
+msgstr "扩散补片变量"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "diffusion rate"
+msgstr "扩散速度"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "display type"
+msgstr "显示方式"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "evaporation rate"
+msgstr "蒸发速度"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "green component from"
+msgstr "绿色组件从"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "green component into"
+msgstr "绿色组件到"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "how to map the value in cells to color"
+msgstr "如何将单元中的数值映射成颜色"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "merge blue component from another patch"
+msgstr "从另一个补片中混合蓝色组件"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "merge green component from another patch"
+msgstr "从另一个补片中混合绿色组件"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "merge red component from another patch"
+msgstr "从另一个补片中混合红色组件"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "red component from"
+msgstr "红色组件从"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "red component into"
+msgstr "红色组件到"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "scale max"
+msgstr "最大比例"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "scale when log-based color conversion is used"
+msgstr "基于日志的颜色转化所使用的比例"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "shift amount"
+msgstr "转移数量"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "shift amount when log-based color conversion is not used"
+msgstr "基于日志的颜色转化不被使用的转移数量"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "sniff range"
+msgstr "侦查范围"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "split blue component into another patch"
+msgstr "将蓝色组件分裂成另一个补片"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "split green component into another patch"
+msgstr "将绿色组件分裂成另一个补片"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "split red component into another patch"
+msgstr "将红色组件分裂成另一个补片"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "The distance to sample the values for calculating highest gradient."
+msgstr "该段距离用来举例计算最高斜度"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "The rate for the decay function."
+msgstr "衰退函数的速度"
+
+#: Etoys-StarSqueak,KedamaPatchMorph_class>>additionsToViewerCategories
+msgid "The rate for the diffusion function."
+msgstr "扩散函数的速度"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "angle to"
+msgstr "角度"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "blue component in"
+msgstr "蓝色组件在"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "bounce on"
+msgstr "在...弹起"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryMotion
+msgid "Change the heading of the object by the specified amount"
+msgstr "使用指定数量改变对象的标题"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "color from patch"
+msgstr "来自补片的颜色"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "color to patch"
+msgstr "运用到补片的颜色"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "delete this turtle"
+msgstr "删除该turtle"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "detect collision and bounce back"
+msgstr "检测碰撞和弹回"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "die"
+msgstr "死亡"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryObservation
+msgid "distance to"
+msgstr "距离到"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryMotion
+msgid "forward by"
+msgstr "靠...推进"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "get replicated"
+msgstr "重复"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "get the value at this position"
+msgstr "获取该点的值"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "green component in"
+msgstr "绿色组件在"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryMotion
+msgid "heading"
+msgstr "方向"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "kedama turtle"
+msgstr "kedama turtle"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "kedama turtle color"
+msgstr "kedama turtle颜色"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryMotion
+msgid "Moves the object forward in the direction it is heading"
+msgstr "沿着它前进的方向移动该物体向前"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "make my color specified in the patch"
+msgstr "在补片中指定我的颜色"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "patch value in"
+msgstr "补片数值在"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "red component in"
+msgstr "红色组件在"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "returns a copy of this turtle"
+msgstr "返回该turtle的一个副本"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "returns a turtle of specified breed at my position."
+msgstr "返回我的位置上指定品种的turtle"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "set the number of turtles"
+msgstr "设置turtle的号码"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "store my color into the patch"
+msgstr "将我的颜色储存在补片中"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "The angle to another turtle"
+msgstr "到另一个补片的角度"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "The blue component in specified patch."
+msgstr "位于指定补片中的蓝色组件"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "The distance to another turtle"
+msgstr "到另一个turtle的距离"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "The flag that governs the visibility of turtle"
+msgstr "控制turtle可见性的旗帜"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "The green component in specified patch."
+msgstr "位于指定补片中的绿色组件"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "The red component in specified patch."
+msgstr "位于指定补片中的红色组件"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryMotion
+msgid "The x coordinate"
+msgstr "x坐标"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryMotion
+msgid "The y coordinate"
+msgstr "y坐标"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryMotion
+msgid "turn by"
+msgstr "转向"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "turtle count"
+msgstr "turtle数目"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "turtle of"
+msgstr "...turtle"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "turtle visible"
+msgstr "turtle可见"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "up hill"
+msgstr "上山"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
+msgid "uphill of the implicit at my location"
+msgstr "我的位置上隐形的上坡"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryMotion
+msgid "Which direction the object is facing.  0 is straight up"
+msgstr "物体面向何方。0是竖直向上"
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryMotion
+msgid "x"
+msgstr ""
+
+#: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryMotion
+msgid "y"
+msgstr ""
+
+#: Flash-Morphs,FlashPlayerMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "collections"
+msgstr "集合"
+
+#: Flash-Morphs,FlashPlayerMorph_class>>additionsToViewerCategories,GraphMorph_class>>additionsToViewerCategories,GraphMorph_class>>additionsToViewerCategories,NCLabelMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories
+msgid "cursor"
+msgstr "光标"
+
+#: Flash-Morphs,FlashPlayerMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "first element"
+msgstr "第一要素"
+
+#: Flash-Morphs,FlashPlayerMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "graphic at cursor"
+msgstr "图形上的光标"
+
+#: Flash-Morphs,FlashPlayerMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "player at cursor"
+msgstr "光标处数值"
+
+#: Flash-Morphs,FlashPlayerMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "The first object in my contents"
+msgstr "内容中的第一个对象"
+
+#: Flash-Morphs,FlashPlayerMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "The index of the chosen element"
+msgstr "被选要素的索引号"
+
+#: Flash-Morphs,FlashPlayerMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "the graphic worn by the object at the cursor"
+msgstr "图片被光标处对象使用"
+
+#: Flash-Morphs,FlashPlayerMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "the object currently at the cursor"
+msgstr "位于光标处的对象"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "A graphic for the current frame"
+msgstr "当前帧的图像"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "A number representing the current position of the movie/sound."
+msgstr "影片/音轨的当前位置值"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "A number representing the volume of the movie."
+msgstr "影片音量值"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "frame graphic"
+msgstr "帧图像"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
+msgid "is running"
+msgstr "正在运行"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "Length of this movie in number of frames"
+msgstr "影片长度（帧数）"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "Length of this movie in seconds"
+msgstr "影片长度（秒）"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "movie controls"
+msgstr "影片控制"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "Play until the given position, then stop"
+msgstr "播放至指定位置，停止"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "play until position"
+msgstr "播放至位置"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "position"
+msgstr "定位"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "Rewind the movie/sound"
+msgstr "回放影片/音轨"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "repeat"
+msgstr "重复"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "rewind"
+msgstr "回放"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
+msgid "Start playing the movie/sound"
+msgstr "开始播放影片/音轨"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
+msgid "Stop playing the movie/sound"
+msgstr "停止播放影片/音轨"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,RecordingControls_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
+msgid "stop"
+msgstr "停止"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "The name for the video file"
+msgstr "视频文件名"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "total frames"
+msgstr "总帧数"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "total seconds"
+msgstr "总秒数"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "video file name"
+msgstr "视频文件名"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "volume"
+msgstr "音量"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
+msgid "Whether the movie/sound is being played"
+msgstr "影片/音轨是否正在播放"
+
+#: GStreamer-UI,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "Whether the movie/sound will play in an endless loop"
+msgstr "影片/音轨是否将循环播放"
+
+#: MorphicExtras-AdditionalWidgets,TrashCanMorph_class>>additionsToViewerCategories
+msgid "Delete all pages in the scraps book"
+msgstr "删除废书中所有页"
+
+#: MorphicExtras-AdditionalWidgets,TrashCanMorph_class>>additionsToViewerCategories
+msgid "empty trash can"
+msgstr "清空回收站"
+
+#: MorphicExtras-AdditionalWidgets,TrashCanMorph_class>>additionsToViewerCategories
+msgid "page count"
+msgstr "计算页数"
+
+#: MorphicExtras-AdditionalWidgets,TrashCanMorph_class>>additionsToViewerCategories
+msgid "The number of pages in the scraps book."
+msgstr "废书的页数"
+
+#: MorphicExtras-AdditionalWidgets,TrashCanMorph_class>>additionsToViewerCategories
+msgid "trash"
+msgstr "垃圾"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "book navigation"
+msgstr "书本导航"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "first page"
+msgstr "首页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "go to first page"
+msgstr "跳到首页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "go to last page"
+msgstr "跳到末页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "go to next page"
+msgstr "跳到下一页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories,RecordingControls_class>>additionsToViewerCategories
+msgid "go to previous page"
+msgstr "跳到上一页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "go to the given page"
+msgstr "跳到指定页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "goto"
+msgstr "跳到"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "How many pages here are in the book"
+msgstr "书中总共有多少页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "last page"
+msgstr "末页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "next page"
+msgstr "下一页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "number of pages"
+msgstr "页数"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "page controls at top"
+msgstr "页面控制置于顶端"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "page controls short"
+msgstr "简单页面控制"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "page controls showing"
+msgstr "页面控制显示"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "page number"
+msgstr "页码"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "previous page"
+msgstr "上一页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "revert all pages"
+msgstr "恢复所有页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "revert page"
+msgstr "恢复页"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "revert the entire book to its original contents"
+msgstr "将整本书恢复到初始内容"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "revert to the original version of this page"
+msgstr "恢复到此页的最初版本"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "The ordinal number of the current page"
+msgstr "当前页的序数"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "Whether page controls are showing in the book"
+msgstr "页面控制是否显示在书中"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "Whether page controls are shown at the top of the book"
+msgstr "页面控制是否显示在书顶部"
+
+#: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
+msgid "Whether page controls are shown in short form"
+msgstr "页面控制是否显示为简短模式"
+
+#: MorphicExtras-Demo,ClockMorph_class>>additionsToViewerCategories,ClockMorph_class>>additionsToViewerCategories
+msgid "hours"
+msgstr "小时"
+
+#: MorphicExtras-Demo,ClockMorph_class>>additionsToViewerCategories,ClockMorph_class>>additionsToViewerCategories
+msgid "minutes"
+msgstr "分"
+
+#: MorphicExtras-Demo,ClockMorph_class>>additionsToViewerCategories,ClockMorph_class>>additionsToViewerCategories
+msgid "seconds"
+msgstr "秒"
+
+#: MorphicExtras-Demo,ClockMorph_class>>additionsToViewerCategories
+msgid "time"
+msgstr "时间"
+
+#: MorphicExtras-Demo,MagnifierMorph_class>>additionsToViewerCategories
+msgid "magnification"
+msgstr "放大"
+
+#: MorphicExtras-Demo,MagnifierMorph_class>>additionsToViewerCategories
+msgid "magnifier"
+msgstr "放大器"
+
+#: MorphicExtras-Demo,MagnifierMorph_class>>additionsToViewerCategories
+msgid "show pointer"
+msgstr ""
+
+#: MorphicExtras-Demo,MagnifierMorph_class>>additionsToViewerCategories
+msgid "The factor by which the tool magnifies whatever it is looking at"
+msgstr ""
+
+#: MorphicExtras-Demo,MagnifierMorph_class>>additionsToViewerCategories
+msgid "track pointer"
+msgstr ""
+
+#: MorphicExtras-Demo,MagnifierMorph_class>>additionsToViewerCategories
+msgid "Whether or not the pointer should show the cursor location"
+msgstr ""
+
+#: MorphicExtras-Demo,MagnifierMorph_class>>additionsToViewerCategories
+msgid "Whether or not the pointer should track the cursor location"
+msgstr ""
+
+#: MorphicExtras-Demo,ZoomAndScrollControllerMorph_class>>additionsToViewerCategories
+msgid "camera point"
+msgstr ""
+
+#: MorphicExtras-Demo,ZoomAndScrollControllerMorph_class>>additionsToViewerCategories
+msgid "storyboard"
+msgstr "故事脚本"
+
+#: MorphicExtras-Demo,ZoomAndScrollControllerMorph_class>>additionsToViewerCategories
+msgid "the camera point"
+msgstr ""
+
+#: MorphicExtras-Palettes,ReferenceMorph_class>>additionsToViewerCategories
+msgid "make a new drawing in the specified playfield"
+msgstr "在特定的区域内画新图"
+
+#: MorphicExtras-Palettes,ReferenceMorph_class>>additionsToViewerCategories
+msgid "paintbox"
+msgstr "绘图工具箱"
+
+#: MorphicExtras-Palettes,ReferenceMorph_class>>additionsToViewerCategories
+msgid "start painting in"
+msgstr "开始着色"
+
+#: MorphicExtras-SoundInterface,PianoKeyboardMorph_class>>additionsToViewerCategories
+msgid "allowing chord"
+msgstr "选择和弦"
+
+#: MorphicExtras-SoundInterface,PianoKeyboardMorph_class>>additionsToViewerCategories
+msgid "frequency"
+msgstr "频率"
+
+#: MorphicExtras-SoundInterface,PianoKeyboardMorph_class>>additionsToViewerCategories
+msgid "keyboard"
+msgstr "键盘"
+
+#: MorphicExtras-SoundInterface,PianoKeyboardMorph_class>>additionsToViewerCategories
+msgid "my frequency"
+msgstr "我的频率"
+
+#: MorphicExtras-SoundInterface,PianoKeyboardMorph_class>>additionsToViewerCategories
+msgid "whether it allows multiple selections"
+msgstr "是否允许多重选择"
+
+#: MorphicExtras-SoundInterface,SpeakerMorph_class>>additionsToViewerCategories
+msgid "cone position"
+msgstr "圆锥的位置"
+
+#: MorphicExtras-SoundInterface,SpeakerMorph_class>>additionsToViewerCategories
+msgid "speaker"
+msgstr "扬声器"
+
+#: MorphicExtras-SoundInterface,SpeakerMorph_class>>additionsToViewerCategories
+msgid "the position of the speaker cone"
+msgstr "喇叭顶点的位置"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,NCLabelMorph_class>>additionsToViewerCategories,SimpleSliderMorph_class>>additionsToViewerCategories,TextMorph_class>>additionsToViewerCategories
+msgid "basic"
+msgstr "基本"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories
+msgid "Clear the graph of current contents"
+msgstr "清除当前内容的图表"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,KedamaPatchMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories
+msgid "clear"
+msgstr ""
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories
+msgid "Load a sine wave as the current graph"
+msgstr "使用正弦波作为当前图表"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories
+msgid "Load the specified sound into the current graph"
+msgstr "加载特定声音到当前图表"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories
+msgid "last value"
+msgstr "上一次取值"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories
+msgid "load sine wave"
+msgstr "加载正弦波"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories
+msgid "load sound"
+msgstr "加载声音"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories
+msgid "Play the current graph as a sound"
+msgstr "按声音播放当前图表"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,GStreamerMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,MPEGMoviePlayerMorph_class>>additionsToViewerCategories,RecordingControls_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
+msgid "play"
+msgstr "播放"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories
+msgid "Reverse the graph"
+msgstr "反转图表"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories
+msgid "reverse"
+msgstr "反转"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,GraphMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories
+msgid "sample at cursor"
+msgstr "在光标处取样"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories,WsSonogram_class>>additionsToViewerCategories
+msgid "sampling"
+msgstr "取样"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,GraphMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories
+msgid "The current cursor location, wrapped back to the beginning if appropriate"
+msgstr "如果合适的话，当前光标位置回到开始处"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories
+msgid "The last value obtained"
+msgstr "上一次获得的值"
+
+#: MorphicExtras-Widgets,GraphMorph_class>>additionsToViewerCategories,GraphMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories
+msgid "The sample value at the current cursor location"
+msgstr "当前光标处的取样值"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "A number representing the current position of the knob."
+msgstr "代表手柄当前位置的数值"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "descending"
+msgstr "递减"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "If true, only whole numbers are used as values; if false, fractional values are allowed."
+msgstr "如果为真，仅使用整数部分；如果为假，则可以使用分数"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "knob color"
+msgstr "手柄颜色"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories,WsGraphMorph_class>>additionsToViewerCategories
+msgid "max val"
+msgstr "最大压力值"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "min val"
+msgstr "最小压力值"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "slider"
+msgstr "滑动条"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "Tells whether the smallest value is at the top/left (descending = false) or at the bottom/right (descending = true)"
+msgstr "判断最小值是否在左/上方（下降=假）或者在右/上方（下降=真）"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "The color of the slider"
+msgstr "滑动条颜色"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "The number represented when the knob is at the left or top of the slider; the smallest value returned by the slider."
+msgstr "当手柄在滑块最左端或最上端时，该数字代表了滑块返回的最小值"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "The number represented when the knob is at the right or bottom of the slider; the largest value returned by the slider."
+msgstr "当手柄在滑块最右端或最下端时，该数字代表了滑块返回的最大值"
+
+#: MorphicExtras-Widgets,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "truncate"
+msgstr "截断"
+
+#: MorphicExtras-Widgets,StarMorph_class>>additionsToViewerCategories
+msgid "How long vertices are within me"
+msgstr "我有几个顶点"
+
+#: MorphicExtras-Widgets,StarMorph_class>>additionsToViewerCategories
+msgid "star"
+msgstr "星星"
+
+#: MorphicExtras-Widgets,StarMorph_class>>additionsToViewerCategories
+msgid "star ratio"
+msgstr "星星比率"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "cell inset"
+msgstr "插入单元格"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "Horizontal resizing"
+msgstr "水平调整"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "h resizing"
+msgstr "h调整"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "List direction"
+msgstr "排列方向"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryLayout
+msgid "layout"
+msgstr "版面设计"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "layout inset"
+msgstr "插入版面设计"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "list centering"
+msgstr "排列居中"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "list direction"
+msgstr "排列方向"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "The cell inset"
+msgstr "插入的单元格"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "The layout inset"
+msgstr "插入的版面设计"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "The list centering"
+msgstr "居中的列表"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "Vertical resizing"
+msgstr "垂直调整"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "v resizing"
+msgstr "v调整"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "Wrap direction"
+msgstr "缠绕方向"
+
+#: Morphic-Basic,AlignmentMorph_class>>additionsToViewerCategories
+msgid "wrap direction"
+msgstr "缠绕方向"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Add a vertex at my current cursor position"
+msgstr "在当前光标位置添加一个顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Add a vertex at the beginning of my vertices list"
+msgstr "在顶点列表开头添加一个顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Add a vertex to the end of my vertices list"
+msgstr "在顶点列表末尾添加一个顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "add a vertex at beginning"
+msgstr "在起点处添加一个顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "add a vertex at end"
+msgstr "在终点处添加一个顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories,StarMorph_class>>additionsToViewerCategories
+msgid "How many vertices are within me"
+msgstr "此内有多少个顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "insert a vertex at cursor"
+msgstr "在光标处添加一个顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "line is curved"
+msgstr "线条是弧形的"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "line is opened"
+msgstr "线条是开放的"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "polygon"
+msgstr "多边形"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Remove a vertex at the vertex cursor"
+msgstr "删除顶点光标处的顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Remove all vertices but my current cursor position vertex"
+msgstr "删除当前光标位置顶点以外的所有顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Remove the vertex at my current cursor position"
+msgstr "删除当前光标位置的顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "remove all vertices but cursor"
+msgstr "删除光标以外的所有顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "remove at vertex cursor"
+msgstr "删除顶点光标"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "remove the vertex at cursor"
+msgstr "删除光标的顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Shuffle the vertices"
+msgstr "随机排列顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "showing handles"
+msgstr "显示手柄"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "shuffle vertices"
+msgstr "随机顶点"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "The index of the chosen vertex of vertices"
+msgstr "被选中顶点在顶点集中的编号"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "The x coodinate value at the vertex cursor"
+msgstr "顶点光标处的x坐标值"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "The y coodinate value at the vertex cursor"
+msgstr "顶点光标处的y标值"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "vertex cursor"
+msgstr "顶点光标"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories,StarMorph_class>>additionsToViewerCategories
+msgid "vertices count"
+msgstr "顶点数"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Whether the handles are showing"
+msgstr "手柄是否显示"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Whether the line is curved"
+msgstr "线条是否为弧形"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "Whether the line is opened"
+msgstr "线条是否为开放的"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "x at cursor"
+msgstr "光标处x"
+
+#: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
+msgid "y at cursor"
+msgstr "光标处y"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "base graphic"
+msgstr "基本绘图"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "Flip the picture left to right"
+msgstr ""
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "Flip the picture upside down"
+msgstr ""
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "flip left right"
+msgstr "左右翻转"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "flip up down"
+msgstr "上下翻转"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
+msgid "graphics"
+msgstr "图形"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "How the picture should change when the heading is modified"
+msgstr "当标题改变时图片应该怎样改变"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "look like"
+msgstr ""
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "Make my picture be the one I remember in my baseGraphic"
+msgstr "将我的图片存于我的基本绘图中"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "restore base graphic"
+msgstr "回复基本绘图"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "rotation style"
+msgstr "旋转样式"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
+msgid "The picture currently being worn"
+msgstr "当前被损坏的图片"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "The picture originally painted for this object, but can subsequently be changed via menu or script"
+msgstr "此对象的最初绘图，其后可通过菜单或脚本修改"
+
+#: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
+msgid "wear the costume of..."
+msgstr ""
+
+#: Morphic-Basic,TextMorph_class>>additionsToViewerCategories
+msgid "The color of the text"
+msgstr "文本颜色"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "A string rendition of myself"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject,PasteUpMorph_class>>additionsToViewerCategoryAsObject
+msgid "as object"
+msgstr "作为对象"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "class name"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "explore"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "halt"
+msgstr "一半"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "hash"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "inform"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "My hash value"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "My physical size"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "name"
+msgstr "命名"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "Open up an Explorer on this object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "Prints a description of the object directly to the screen"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "Prints a description of the object to the Transcript"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "Put up a pre-debug notifier"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "Put up message box for the user"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "print directly to display"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "print in transcript"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "print string"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "size"
+msgstr "大小"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "The name by which I am known"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryAsObject
+msgid "The name of the class of the object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategorySound
+msgid "Make the specified sound"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategorySound
+msgid "make sound"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "Alpha value of my color from 0 to 1.0 as float"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "alpha"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "Blue value of my color from 0 to 1.0 as float"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "Brightness value of my color from 0 to 100 as float"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "blue"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor,VideoMorph_class>>additionsToViewerCategories
+msgid "brightness"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "Green value of my color from 0 to 1.0 as float"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "green"
+msgstr "绿色"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "hue"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "hue value of my color from -180 to 180 as float"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "Red value of my color from 0 to 1.0 as float"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "red"
+msgstr "红色"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "Saturation value of my color from 0 to 100 as float"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
+msgid "saturation"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "connections to me"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "incoming connection count"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "outgoing connection count"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "Send a message to all graph predecessors"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "Send a message to all graph successors"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "Send a message to all the connectors whose destination end is connected to me"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "Send a message to all the connectors whose source end is connected to me"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "The number of connectors whose destination end is connected to me"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "The number of connectors whose source end is connected to me"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "tell all incoming connections"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "tell all outgoing connections"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "tell all predecessors"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
+msgid "tell all successors"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
+msgid "be locked"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
+msgid "drag & drop"
+msgstr "拖&拉"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
+msgid "drop enabled"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
+msgid "resist being picked up"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
+msgid "resist deletion"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
+msgid "Whether a simple mouse-drag on this object should allow it to be picked up"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
+msgid "Whether drop is enabled"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
+msgid "Whether this is resistant to easy removal via the pink X halo handle."
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
+msgid "Whether this object should be blind to all input"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "A count of my embedded objects that want to act as pins for connections"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "allows connection to embedded pins"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "containing object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "embeddings"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "Me or my outermost container"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "pin count"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "Send a message to all of my embedded objects"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "Send a message to all of my embedded objects that want to act as pins for connections"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "tell all embedded objects"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "tell all pins"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "Whether I should be act as a pin for connections when embedded in another object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "Whether objects embedded in me may be used as connection pins"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
+msgid "wants connection when embedded"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
+msgid "border color"
+msgstr "边框颜色"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "border style"
+msgstr "边框风格"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
+msgid "border width"
+msgstr "边框宽度"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "drop shadow"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "fill & border"
+msgstr "填充&边界"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "gradient fill"
+msgstr "填充Gradient"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "radial fill"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
+msgid "rounded corners"
+msgstr "圆角"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "second color"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "shadow color"
+msgstr "窗口颜色"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "The color of the drop shadow"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
+msgid "The color of the object's border"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "The second color used when gradientFill is in effect"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "The style of the object's border"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
+msgid "The width of the object's border"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "Whether a drop shadow is shown"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "Whether a gradient fill should be used"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
+msgid "Whether corners should be rounded"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
+msgid "Whether the gradient fill, if used, should be radial"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "bottom"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry
+msgid "forward direction"
+msgstr "设置前进方向"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
+msgid "geometry"
+msgstr "几何学"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "left"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "right"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry
+msgid "scale factor"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry
+msgid "The angle of my forward direction without rotating myself"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "The bottom edge"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry
+msgid "The factor by which the object is magnified"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "The left edge"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "The right edge"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "The top edge"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "top"
+msgstr "停止"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryInput,PasteUpMorph_class>>additionsToViewerCategoryInput
+msgid "input"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryInput,PasteUpMorph_class>>additionsToViewerCategoryInput
+msgid "last keystroke"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryInput,PasteUpMorph_class>>additionsToViewerCategoryInput
+msgid "The last unhandled keystroke"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryLayout
+msgid "clip submorphs"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryLayout
+msgid "Whether or not to clip my submorphs"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "add my image to the pen trails"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "add my image to the pen trails and go away"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "copy"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "do menu item"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "do the menu item"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "element number"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "erase"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "hide"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "holder"
+msgstr "容器"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "make the object invisible"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "make the object visible"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "miscellaneous"
+msgstr "混杂的"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "my index in my container"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "remove this object from the screen"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "returns a copy of this object"
+msgstr "返回该turtle的一个副本"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "show"
+msgstr "说明"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "stamp"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "stamp and erase"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
+msgid "the object's container"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "distance"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "heading theta"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "length"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "location"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "more geometry"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "rotation center x"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "rotation center y"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "The angle between the positive x-axis and the vector connecting the origin to the object's position"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "The angle, in degrees, that my heading vector makes with the positive x-axis"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "The length"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "The length of the vector connecting the origin to the object's position"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "The position of the object, expressed as a point"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "The width"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "The x coordinate of rotation center in parent's coordinate system."
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "The y coordinate of rotation center in parent's coordinate system."
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
+msgid "theta"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry,SimpleSliderMorph_class>>additionsToViewerCategories
+msgid "width"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "align after"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "bounce"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "bounce off the edge if hit"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "follow path"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "follow the yellow brick road"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "motion"
+msgstr "运动"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "move toward"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "move toward the given object"
+msgstr "转向给定的对象"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion,Morph_class>>additionsToViewerCategoryTests
+msgid "obtrudes"
+msgstr "强行向前"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "place this object to the right of another"
+msgstr "将该对象放在其他对象的右边"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "turn toward"
+msgstr "转向"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "turn toward the given object"
+msgstr "转向给定的对象"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion,Morph_class>>additionsToViewerCategoryTests
+msgid "whether the object sticks out over its container's edge"
+msgstr "对象是否超出容器的边界"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "wrap"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
+msgid "wrap off the edge if appropriate"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "bearing to"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "brightness under"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "color under"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "luminance under"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "observation"
+msgstr "观察"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "saturation under"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "The brightness under the center of the object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "The color under the center of the object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "The distance to another object"
+msgstr "到另一对象的距离"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "The heading I would need to have to face directly toward another object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "The luminance under the center of the object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
+msgid "The saturation under the center of the object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "clear all pen trails"
+msgstr "清除所有笔的痕迹"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "clear all pen trails in my containing playfield"
+msgstr "在我的容器中清除所有笔的痕迹"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "determines whether lines, arrows, arrowheads, or dots are used when I put down a pen trail"
+msgstr "在我使用笔的时候，确定是否使用了线条、箭号、箭头或者点"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "diameter of dot to use when trailStyle is dots"
+msgstr "当痕迹是点时，所使用的点的直径"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "dot size"
+msgstr "点尺寸"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "pen color"
+msgstr "笔的颜色"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "pen down"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "pen size"
+msgstr "笔的大小"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "pen use"
+msgstr "使用笔"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "the color of ink used by the pen"
+msgstr "钢笔水的颜色"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "the width of the pen"
+msgstr "笔的宽度"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "trail style"
+msgstr "痕迹的风格"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
+msgid "whether the pen is currently down"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "do"
+msgstr "做"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "make the given script be \"normal\""
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "make the given script be \"normal\" in the object and all of its siblings"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "make the given script be \"paused\""
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "make the given script be \"paused\" in the object and all of its siblings"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "pause all"
+msgstr "全部暂停"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "pause script"
+msgstr "暂停脚本"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "run the given script in the object and in all of its siblings"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "run the given script once, on the next tick"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting,Morph_class>>additionsToViewerCategoryUserEvents,PasteUpMorph_class>>additionsToViewerCategories
+msgid "scripting"
+msgstr "脚本"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "send a message to all siblings"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "send to all"
+msgstr "移至最后"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "start all"
+msgstr "全部开始"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "start script"
+msgstr "运行脚本"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "start the given script ticking"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "start the given script ticking in the object and all of its siblings."
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "stop all"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "stop script"
+msgstr "停止脚本"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
+msgid "tell all siblings"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripts
+msgid "an empty script"
+msgstr "清空脚本"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripts
+msgid "empty script"
+msgstr "清空脚本"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripts
+msgid "scripts"
+msgstr "脚本"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySound
+msgid "play frequency of"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySound
+msgid "play sound"
+msgstr "打开声音"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySound,PasteUpMorph_class>>additionsToViewerCategories,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "sound"
+msgstr "声音"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySound,Morph_class>>additionsToViewerCategorySound
+msgid "stop sound"
+msgstr "关闭声音"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles,SpeechBubbleMorph_class>>additionsToViewerCategoryBubble
+msgid "bubble"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "Erase all speech bubbles attached to this object, if any"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "Show a number in a speech bubble"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "Show a number in a thought bubble"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "Show a picture in a speech bubble"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "Show a picture in a thought bubble"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "Show a text in a speech bubble"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "Show a text in a thought bubble"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "Show an object in a speech bubble"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "Show an object in a thought bubble"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+#, fuzzy
+msgid "say graphic"
+msgstr "基本绘图"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "say number"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+#, fuzzy
+msgid "say object"
+msgstr "作为对象"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "say text"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "speech bubbles"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "stop saying or thinking"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "The bubble currently attached to this object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "think graphic"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "think number"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "think object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
+msgid "think text"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "color  sees"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "is over color"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "is under mouse"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "overlaps"
+msgstr "重叠的部分"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "overlaps any"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "tests"
+msgstr "测试"
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "touches a"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "whether any part of the object is over the given color"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "whether I overlap a given object"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "whether I overlap a given object or one of its siblings or similar objects"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "whether I overlap any  Sketch that is showing the same picture as a particular prototype."
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "whether the given color sees the given color"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
+msgid "whether the object is under the current mouse position"
+msgstr ""
+
+#: Morphic-Kernel,Morph_class>>additionsToViewerCategoryWorldGeometry
+msgid "world geometry"
+msgstr ""
+
+#: Morphic-Menus,MenuItemMorph_class>>additionsToViewerCategories,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories,SimpleButtonMorph_class>>additionsToViewerCategories
+msgid "button"
+msgstr "按钮"
+
+#: Morphic-Menus,MenuItemMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryMiscellaneous,SimpleButtonMorph_class>>additionsToViewerCategories
+msgid "fire"
+msgstr ""
+
+#: Morphic-Menus,MenuItemMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryMiscellaneous,SimpleButtonMorph_class>>additionsToViewerCategories
+msgid "trigger any and all of this object's button actions"
+msgstr ""
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "amount"
+msgstr "数量"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "angle"
+msgstr "角度"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "Button 1 pressed"
+msgstr "按钮1按下"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "Button 2 pressed"
+msgstr "按钮2按下"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "button1"
+msgstr "按钮1"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "button2"
+msgstr "按钮2"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "joystick"
+msgstr "操纵杆"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "left right"
+msgstr "左右"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "The amount of displacement"
+msgstr "位移量"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "The angular displacement"
+msgstr "角位移"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "The horizontal displacement"
+msgstr "水平位移"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "The vertical displacement"
+msgstr "垂直位移"
+
+#: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
+msgid "up down"
+msgstr "上下"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Add the object at the beginning of my contents list."
+msgstr "在我的内容表开头添加一个物品"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Add the object to my contents"
+msgstr "把该物品添加到我的内容中"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Add the object to my contents at my current cursor position"
+msgstr "把该物品添加到我的内容中当前光标所在位置"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Add the object to the end of my contents list."
+msgstr "把该物品添加到我的内容表末尾"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Bring all out-of-container subparts back into view."
+msgstr "把所有容器外的部件都返回到视图中"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "batch pen trails"
+msgstr "有笔迹"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "Clear all the pen trails in the interior."
+msgstr "清除内部所有笔迹"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "clear pen trails"
+msgstr "清除笔迹"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "dial number"
+msgstr "拨号"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "dial number of sound"
+msgstr "声音拨号"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,SketchMorph_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
+msgid "graphic"
+msgstr "图表"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "How many elements are within me"
+msgstr "在我范围内有多少元素"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Initiate painting of a new object in the standard playfield."
+msgstr "在标准区域内开始绘制一个新物品"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "include"
+msgstr "包含"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "include at beginning"
+msgstr "在开头包含"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "include at cursor"
+msgstr "在光标处包含"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "include at end"
+msgstr "在结尾包含"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "initiate painting"
+msgstr "开始绘图"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "Lift the pens on all the objects in my interior."
+msgstr "提高内部所有物品的画笔"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "Lower the pens on all the objects in my interior."
+msgstr "降低内部所有物品的画笔"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "level of sound"
+msgstr "声音级别"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "lift all pens"
+msgstr "提高所有画笔"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "listening"
+msgstr "听"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "lower all pens"
+msgstr "降低所有画笔"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "mouse x"
+msgstr "鼠标 x"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "mouse y"
+msgstr "鼠标 y"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "number at cursor"
+msgstr "光标处数值"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "pen trails"
+msgstr "笔迹"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "pitch of sound"
+msgstr "声音音调"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "playfield"
+msgstr "游戏场"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Remove all elements from the playfield"
+msgstr "删除游戏场内所有组件"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "remove all"
+msgstr "删除所有"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "round up strays"
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Send a message to all the objects inside the playfield"
+msgstr "给游戏场内所有对象发送消息"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "Set the trail style for pens of all objects within"
+msgstr "设置所有物体的笔迹样式"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Shuffle the contents of the playfield"
+msgstr "清洗游戏场内容"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "shuffle contents"
+msgstr "清洗内容"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "sound level"
+msgstr "音量"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "sound pitch"
+msgstr "音高"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "string contents"
+msgstr "字符串内容"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "The characters of the objects inside me, laid end to end"
+msgstr "在我的范围内物体特性，端到端放置"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "The elapsed time in seconds"
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "The graphic shown in the background of this object"
+msgstr "显示在物体背后的图表"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "The x coordinate of the mouse pointer"
+msgstr "鼠标指针的x坐标"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "The y coordinate of the mouse pointer"
+msgstr "鼠标指针的y坐标"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
+msgid "tell all contents"
+msgstr "辨识所有内容"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "the number at the cursor"
+msgstr "光标处数字"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+#, fuzzy
+msgid "timer"
+msgstr "时间"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "trail style for all pens"
+msgstr "所有画笔的笔迹样式"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "Unhide all hidden objects."
+msgstr "显示所有隐藏物体"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
+msgid "unhide hidden objects"
+msgstr "显示隐藏物体"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "Whether pen trails should reflect small movements within the same tick or only should integrate all movement between ticks"
+msgstr "笔迹是否应该在同一个标记处反映微小运动还是仅在标记之间集成所有运动"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "whether the stethoscope is listening"
+msgstr "听诊器是否在监听"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryAsObject,PasteUpMorph_class>>additionsToViewerCategoryDisplay
+msgid "Display the world as a blueprint"
+msgstr "以蓝图形式展示地球"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryAsObject,PasteUpMorph_class>>additionsToViewerCategoryDisplay
+msgid "Display the world normally"
+msgstr "以常规形式展示地球"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryAsObject,PasteUpMorph_class>>additionsToViewerCategoryDisplay
+msgid "use blueprint canvas"
+msgstr "使用蓝图画布"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryAsObject,PasteUpMorph_class>>additionsToViewerCategoryDisplay
+msgid "use normal canvas"
+msgstr "使用常规画布"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryDisplay
+msgid "display"
+msgstr "显示"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryDisplay
+msgid "Hide the navigation bar at the top of the screen"
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryDisplay
+msgid "hide navigation bar"
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryDisplay
+msgid "Show the navigation bar at the top of the screen"
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryDisplay
+msgid "show navigation bar"
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "has pen trails"
+msgstr "有笔迹"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "pen trail graphic"
+msgstr "笔迹图表"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "The graphic comprising the current pen trails."
+msgstr "由当前笔迹构成的图表"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPenTrails
+msgid "Whether there are any pen trails on the playfield"
+msgstr "游戏场内是否有笔迹"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "allow etoy user custom events"
+msgstr "允许etoy玩家自定义事件"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "drop produces watcher"
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "fence enabled"
+msgstr "启用防护"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "implicit self in tiles"
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "keep ticking while painting"
+msgstr "画画的同事继续打标记"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "olive handle for scripted objects"
+msgstr "脚本化物体的橄榄色手柄"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "preferences"
+msgstr "优先级"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "use vector vocabulary"
+msgstr "使用向量词典"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "Whether a drop of a value tile, such as \"car's x\", on the desktop, should produce a watcher for that value"
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "Whether an object hitting the edge of the screen should be kept \"fenced in\", rather than being allowed to escape and disappear"
+msgstr "碰触到屏幕边缘的物体是否应保存\"fenced in\",而不是允许它逃脱并消失"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "Whether scripts should continue to run while you're using the painting system"
+msgstr "当你在使用绘画系统时是否允许脚本继续执行"
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "Whether the default green halo handle (at the top right of the halo) should, for scripted objects, be the olive-green handle, signifying that use will result in a sibling instance. "
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "Whether tiles representing a player should be suppressed in Viewers and Scriptors belonging to that player "
+msgstr ""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "Whether to allow \"custom events\" in etoys."
+msgstr "是否允许在etoy中使用\"自定义事件\""
+
+#: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
+msgid "Whether to use the Vector vocabulary with etoy scripting in this project"
+msgstr "是否要在该工程内使用具有etoy编程功能的向量词典"
+
+#: Movies-Player,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "subtitles file name"
+msgstr "子标题文件名"
+
+#: Movies-Player,MPEGMoviePlayerMorph_class>>additionsToViewerCategories
+msgid "The name for the subtitles file"
+msgstr "子标题文件的名字"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "Boolean"
+msgstr ""
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "BorderStyle"
+msgstr "边框风格"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "ButtonPhase"
+msgstr ""
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "Color"
+msgstr "颜色"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "CustomEvents"
+msgstr ""
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "Graphic"
+msgstr "图形"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "ImageResolution"
+msgstr ""
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "Number"
+msgstr "数字"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "Patch"
+msgstr "补片"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "Player"
+msgstr "玩家"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "Point"
+msgstr "绘画"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "ScriptName"
+msgstr "脚本名称"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "Sound"
+msgstr "声音"
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "String"
+msgstr ""
+
+#: Protocols-Kernel,Vocabulary_class>>typeChoices
+msgid "TrailStyle"
+msgstr ""
+
+#: Sound-Interface,RecordingControls_class>>additionsToViewerCategories
+msgid "sound recorder"
+msgstr "声音录制"
+
+#: Sound-Interface,RecordingControls_class>>additionsToViewerCategories,RecordingControls_class>>additionsToViewerCategories
+msgid "start recording"
+msgstr "开始录制"
+
+#: Sound-Interface,RecordingControls_class>>additionsToViewerCategories
+msgid "stop recording or playback"
+msgstr "停止录制和回放"
+
+#: Sugar,SugarNavTab_class>>additionsToViewerCategories
+msgid "highlight color"
+msgstr "加亮色"
+
+#: Sugar,SugarNavTab_class>>additionsToViewerCategories
+msgid "navigator"
+msgstr "导航"
+
+#: Sugar,SugarNavTab_class>>additionsToViewerCategories
+msgid "The highlight color for the navigator bar"
+msgstr "导航条用的加亮色."
+
+#: Sugar,SugarNavTab_class>>additionsToViewerCategories,SugarNavTab_class>>additionsToViewerCategories
+msgid "use gray look"
+msgstr "使用灰色视野"
+
+#: Sugar,SugarNavTab_class>>additionsToViewerCategories,SugarNavTab_class>>additionsToViewerCategories
+msgid "use green look"
+msgstr "使用绿色视野"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "A morph with the last frame"
+msgstr "最后一帧形变"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "auto extent"
+msgstr "自动调整大小"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "configure video device"
+msgstr "配置视频设备"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "contrast"
+msgstr "对比度"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "last frame"
+msgstr "最后一帧"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "Open a dialog to configure the video device"
+msgstr "打开会话以配置视频设备"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "resolution"
+msgstr "分辨率"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "Video brightness"
+msgstr "视频亮度"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "Video contrast"
+msgstr "视频对比度"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "Video resolution"
+msgstr "视频分辨率"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "video"
+msgstr "视频"
+
+#: VideoForSqueak-Morphic,VideoMorph_class>>additionsToViewerCategories
+msgid "Whether the morph is in auto-extent mode"
+msgstr "形变是否处于自动调整大小模式"
+
+#: WS-Sound-Interface,WsGraphMorph_class>>additionsToViewerCategories,WsSonogram_class>>additionsToViewerCategories
+msgid "data color"
+msgstr "数据颜色"
+
+#: WS-Sound-Interface,WsGraphMorph_class>>additionsToViewerCategories
+msgid "relative scale"
+msgstr "相对比例"
+
+#: WS-Sound-Interface,WsGraphMorph_class>>additionsToViewerCategories,WsSonogram_class>>additionsToViewerCategories
+msgid "The color hue of the data"
+msgstr "数据的色调"
+
+#: WS-Sound-Interface,WsGraphMorph_class>>additionsToViewerCategories
+msgid "The maximum of the range drawn in the graph"
+msgstr "图中所绘范围的最大值"
+
+#: WS-Sound-Interface,WsGraphMorph_class>>additionsToViewerCategories
+msgid "The minimum of the range drawn in the graph"
+msgstr "图中所绘范围的最小值"
+
+#: WS-Sound-Interface,WsGraphMorph_class>>additionsToViewerCategories
+msgid "Whether the display scale is relative to the actual maximum and minimum values in data"
+msgstr "显示范围是否与数据的实际最大值最小值有关"
+
+#: WS-Sound-Interface,WsPhonePadMorph_class>>additionsToViewerCategories
+msgid "Dial a telephone number"
+msgstr "拨打电话号码"
+
+#: WS-Sound-Interface,WsPhonePadMorph_class>>additionsToViewerCategories
+msgid "dial to"
+msgstr "拨号到"
+
+#: WS-Sound-Interface,WsPhonePadMorph_class>>additionsToViewerCategories
+msgid "phonepad"
+msgstr "电话拨号盘"
+
+#: WS-Sound-Interface,WsSonogram_class>>additionsToViewerCategories
+msgid "scroll delta"
+msgstr "滚动幅度"
+
+#: WS-Sound-Interface,WsSonogram_class>>additionsToViewerCategories
+msgid "The horizontal scrolling stride when data is going off the edget."
+msgstr "数据超过边距时水平滚动条滑动"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "cut off level"
+msgstr "截止音量"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "frequency1"
+msgstr "频率1"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "frequency2"
+msgstr "频率2"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "frequency3"
+msgstr "频率3"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "frequency-1 of sound"
+msgstr "声音频率1"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "frequency-2 of sound"
+msgstr "声音频率2"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "frequency-3 of sound"
+msgstr "声音频率3"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "high pass filter value"
+msgstr "高通滤波频率值"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "level1"
+msgstr "第一级"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "level2"
+msgstr "第二级"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "level3"
+msgstr "第三级"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "level-1 of sound"
+msgstr "声音响度1"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "level-2 of sound"
+msgstr "声音响度2"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "level-3 of sound"
+msgstr "声音响度3"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "low pass filter value"
+msgstr "低通过滤频率值"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "pass over"
+msgstr "高通"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "pass under"
+msgstr "低通"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "read out"
+msgstr "宣读"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "specify how often read the input."
+msgstr "指定读输入频率"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "the value for the direct input mode."
+msgstr "直接输入模式数值"
+
+#: WS-Sound-Interface,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
+msgid "update interval"
+msgstr "更新间隔"

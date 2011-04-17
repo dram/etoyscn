@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: eToys\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-09-19 19:38-0000\n"
-"PO-Revision-Date: 2010-12-31 06:07+0200\n"
+"PO-Revision-Date: 2011-04-17 04:34+0200\n"
 "Last-Translator: Xin <dram.wang@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.0.3\n"
+"X-Generator: Pootle 2.0.1\n"
 "X-Etoys-Domain: Etoys-Tiles\n"
 "X-Etoys-SystemVersion: etoys4.1 of 19 September 2010 update 2387\n"
 
@@ -673,7 +673,7 @@ msgstr "距离到"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryMotion
 msgid "forward by"
-msgstr "靠...推进"
+msgstr "前进"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
 msgid "get replicated"
@@ -2333,7 +2333,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripts
 msgid "an empty script"
-msgstr "清空脚本"
+msgstr "空脚本"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripts
 msgid "empty script"
@@ -2856,7 +2856,7 @@ msgstr "脚本化物体的橄榄色手柄"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
 msgid "preferences"
-msgstr "优先级"
+msgstr "设置"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
 msgid "use vector vocabulary"

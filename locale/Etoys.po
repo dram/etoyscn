@@ -625,7 +625,7 @@ msgstr "Number (mid)"
 
 #: Etoys-Scripting_Tiles,ParameterTile>>bePossessive
 msgid "Player"
-msgstr "玩家"
+msgstr "演员"
 
 #: Etoys-Scripting_Tiles,ParameterTile>>bePossessive,TileMorph>>bePossessive,TileMorph>>emblazonPlayerNameOnReferenceTileWithin:,TileMorph>>retargetFrom:to:
 msgid "'s"
@@ -733,7 +733,7 @@ msgstr "显示类别"
 
 #: Etoys-Scripting,AllPlayersTool_class>>descriptionForPartsBin
 msgid "A tool showing all the players in your project"
-msgstr "一个显示项目中所有玩家的工具"
+msgstr "这个工具用于显示你的作品中的所有演员"
 
 #: Etoys-Scripting,AllPlayersTool_class>>descriptionForPartsBin,AllScriptsTool_class>>descriptionForPartsBin
 msgid "Scripting"
@@ -749,7 +749,7 @@ msgstr "复兴"
 
 #: Etoys-Scripting,AllPlayersTool>>addHeaderRow
 msgid "Players in this Project"
-msgstr "项目中的玩家"
+msgstr "作品中的演员"
 
 #: Etoys-Scripting,AllPlayersTool>>helpString
 msgid ""
@@ -767,7 +767,7 @@ msgstr ""
 
 #: Etoys-Scripting,AllPlayersTool>>presentHelp,AllPlayersTool_class>>defaultNameStemForInstances,AllPlayersTool_class>>descriptionForPartsBin
 msgid "Players"
-msgstr "玩家"
+msgstr "演员"
 
 #: Etoys-Scripting,AllPlayersTool>>presentHelp
 msgid ""
@@ -863,7 +863,7 @@ msgstr ""
 
 #: Etoys-Scripting,AllScriptsTool>>openUpButton
 msgid "open or close the lower portion that shows individual scripts"
-msgstr "打开或者关闭显示单独的脚本的较低的部分"
+msgstr "展开或隐藏下面的列表，其中列出了各个脚本"
 
 #: Etoys-Scripting,AllScriptsTool>>presentHelp,AllScriptsTool_class>>defaultNameStemForInstances,AllScriptsTool_class>>descriptionForPartsBin,AllScriptsTool_class>>registerInFlapsRegistry,AllScriptsTool_class>>registerInFlapsRegistry,AllScriptsTool_class>>registerInFlapsRegistry
 msgid "All Scripts"
@@ -874,8 +874,8 @@ msgid ""
 "remove this pane from the screen\n"
 "don't worry -- nothing will be lost!."
 msgstr ""
-"从屏幕中删除面板\n"
-"不必担心 -- 任何东西都不会丢失！。"
+"从屏幕中移除这个面板。\n"
+"不用担心，不会丢失任何东西。"
 
 #: Etoys-Scripting,CategoryViewer>>arrowSetterButtonFor:type:,CategoryViewer>>arrowSetterButton:args:
 msgid "drag from here to obtain an assignment phrase."
@@ -887,7 +887,7 @@ msgstr "分类"
 
 #: Etoys-Scripting,CategoryViewer>>infoButtonFor:,PlayerSurrogate>>rebuildRow
 msgid "Press here to get a menu"
-msgstr "按住这里以获取菜单"
+msgstr "点击这里显示菜单"
 
 #: Etoys-Scripting,CategoryViewer>>phraseForCommandFrom:
 msgid ""
@@ -1389,15 +1389,15 @@ msgstr "该对象的位置？"
 
 #: Etoys-Scripting,PlayerSurrogate>>rebuildRow
 msgid "Click here to reveal this object"
-msgstr "点击这里查看对象"
+msgstr "点击这里查看此物体"
 
 #: Etoys-Scripting,PlayerSurrogate>>rebuildRow
 msgid "click here to obtain a tile that refers to this player."
-msgstr "点击这里获取指向该玩家的片段"
+msgstr "点击这里获得与此演员相关联的脚本片段"
 
 #: Etoys-Scripting,PlayerSurrogate>>rebuildRow
 msgid "click here to obtain this object's Viewer"
-msgstr "点击这里获取该对象的浏览器"
+msgstr "点击这里显示此物体的“观察器”"
 
 #: Etoys-Scripting,PlayerSurrogate>>renamePlayer
 msgid "Type new name:"
@@ -1497,7 +1497,7 @@ msgstr "点击这里编辑脚本名称"
 
 #: Etoys-Scripting,ScriptEditorMorph>>buttonRowForEditor
 msgid "click here to get a palette of useful tiles to use in your script."
-msgstr "点击这里获取用于脚本中的有用片段的调色板"
+msgstr "点击这里显示组件箱，包含可以在脚本中使用的有用片段"
 
 #: Etoys-Scripting,ScriptEditorMorph>>buttonRowForEditor
 msgid "Drag from here to get a parameter tile"
@@ -1706,7 +1706,7 @@ msgstr "Ticks (now: {1}/sec)"
 
 #: Etoys-Scripting,ScriptInstantiation>>statusControlRowIn:
 msgid "This is the name of the player to which this script belongs; if you click here, you will get a menu of interesting options pertaining to this player and script"
-msgstr "这是脚本属于的玩家的名字；如果点击这里，你将会活的一个属于该玩家和脚本的有趣选项的菜单"
+msgstr "这是脚本所属演员的名字；如果点击这里，你可以获得一份菜单，其中包含有与此演员和脚本相关的有趣的选项"
 
 #: Etoys-Scripting,ScriptInstantiation>>statusControlRowIn:
 msgid "This is the name of the script to which this entry pertains."
@@ -1726,7 +1726,7 @@ msgstr "按下以固定嘀嗒的状态，按住以设置嘀嗒频率"
 
 #: Etoys-Scripting,ScriptStatusControl>>initializeFor:
 msgid "when this script should run"
-msgstr "当这个脚本应该运行的时候"
+msgstr "什么时候运行这个脚本"
 
 #: Etoys-Scripting,SearchingViewer>>addNamePaneTo:,SearchingViewer>>updateSearchButtonLabel
 msgid "Type some letters into the pane at right, and then press this Search button (or hit RETURN) and all tiles that match what you typed will appear in the list below."
@@ -1746,7 +1746,7 @@ msgstr "这是一个由您定义的变量。请将其编辑进您自己的文档
 
 #: Etoys-Scripting,StandardViewer>>addHeaderMorphWithBarHeight:includeDismissButton:
 msgid "Click here to edit the player's name."
-msgstr "点击这里编辑玩家姓名"
+msgstr "点击这里修改演员姓名。"
 
 #: Etoys-Scripting,StandardViewer>>addHeaderMorphWithBarHeight:includeDismissButton:
 msgid ""
@@ -1758,7 +1758,9 @@ msgstr "点击这里为对象添加变量"
 msgid ""
 "click here to add\n"
 "another category pane"
-msgstr "点击这里分类面板"
+msgstr ""
+"点击这里添加"
+"一个分类面板"
 
 #: Etoys-Scripting,StandardViewer>>addHeaderMorphWithBarHeight:includeDismissButton:
 msgid ""
@@ -1766,15 +1768,18 @@ msgid ""
 "that will allow you to\n"
 "locate this object,\n"
 "tear off a tile, etc.."
-msgstr "点击这里获取云去你定位该对象的菜单，删除一个片段，等等。。。"
+msgstr ""
+"点击这里打开菜单，\n"
+"通过它可以完成定位物体，\n"
+"删除脚本片段等操作。"
 
 #: Etoys-Scripting,StandardViewer>>addHeaderMorphWithBarHeight:includeDismissButton:
 msgid ""
 "remove this entire Viewer from the screen\n"
 "don't worry -- nothing will be lost!."
 msgstr ""
-"从屏幕中删除全部浏览器\n"
-"不必担心 -- 任何东西都不会丢失！"
+"从屏幕中移除整个“观察器”。\n"
+"不用担心，不会丢失任何东西。"
 
 #: Etoys-Scripting,StandardViewer>>addHeaderMorphWithBarHeight:includeDismissButton:
 msgid "switch to next costume"
@@ -2320,7 +2325,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>helpContributions
 msgid "Run this command once."
-msgstr ""
+msgstr "运行一次这个命令"
 
 #: Morphic-Kernel,Morph>>addPlayerItemsTo:
 msgid "apply status to all siblngs"
@@ -2615,7 +2620,7 @@ msgstr "启用防护"
 
 #: Morphic-Worlds,PasteUpMorph>>modernizeBJProject
 msgid "Supplies"
-msgstr "常用功能"
+msgstr "百宝箱"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "Allow this area to be separately governed by its own controls."
@@ -3072,11 +3077,11 @@ msgstr "旋转"
 
 #: Protocols-Type_Vocabularies,DataType>>addWatcherItemsToMenu:forGetter:
 msgid "detailed watcher"
-msgstr "细节查看"
+msgstr "详细指示器"
 
 #: Protocols-Type_Vocabularies,DataType>>addWatcherItemsToMenu:forGetter:
 msgid "simple watcher"
-msgstr "简单查看"
+msgstr "简单指示器"
 
 #: Protocols-Type_Vocabularies,DataType>>updatingTileForTarget:partName:getter:setter:
 msgid "readout string"

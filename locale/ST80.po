@@ -95,7 +95,7 @@ msgstr "更改它的组件"
 
 #: ST80-Controllers,ParagraphEditor_class>>shiftedYellowButtonMenu
 msgid "choose language"
-msgstr "喧杂语言"
+msgstr "选择语言"
 
 #: ST80-Controllers,ParagraphEditor_class>>shiftedYellowButtonMenu
 msgid "class comments with it"

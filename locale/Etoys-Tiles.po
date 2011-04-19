@@ -1601,67 +1601,67 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategorySound
 msgid "Make the specified sound"
-msgstr ""
+msgstr "发出指定的声音"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategorySound
 msgid "make sound"
-msgstr ""
+msgstr "发声"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "Alpha value of my color from 0 to 1.0 as float"
-msgstr ""
+msgstr "这个颜色的透明度（取值为0到100）"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "alpha"
-msgstr ""
+msgstr "透明度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "Blue value of my color from 0 to 1.0 as float"
-msgstr ""
+msgstr "这个颜色的蓝色值（取值为0到100）"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "Brightness value of my color from 0 to 100 as float"
-msgstr ""
+msgstr "这个颜色的亮度（取值为0到100）"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "blue"
-msgstr ""
+msgstr "蓝"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor,VideoMorph_class>>additionsToViewerCategories
 msgid "brightness"
-msgstr ""
+msgstr "亮度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "Green value of my color from 0 to 1.0 as float"
-msgstr ""
+msgstr "这个颜色的绿色值（取值为0到100）"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "green"
-msgstr "绿色"
+msgstr "绿"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "hue"
-msgstr ""
+msgstr "色调"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "hue value of my color from -180 to 180 as float"
-msgstr ""
+msgstr "这个颜色的色调（取值为-180到180）"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "Red value of my color from 0 to 1.0 as float"
-msgstr ""
+msgstr "这个颜色的红色值（取值为0到100）"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "red"
-msgstr "红色"
+msgstr "红"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "Saturation value of my color from 0 to 100 as float"
-msgstr ""
+msgstr "这个颜色的饱合度（取值为0到100）"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryColor
 msgid "saturation"
-msgstr ""
+msgstr "饱合度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryConnection
 msgid "connections to me"
@@ -2129,7 +2129,7 @@ msgstr "转向给定的对象"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion,Morph_class>>additionsToViewerCategoryTests
 msgid "obtrudes"
-msgstr "强行向前"
+msgstr "强行前进"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
 msgid "place this object to the right of another"
@@ -2145,7 +2145,7 @@ msgstr "转向给定的对象"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion,Morph_class>>additionsToViewerCategoryTests
 msgid "whether the object sticks out over its container's edge"
-msgstr "对象是否超出容器的边界"
+msgstr "判断物体是否超出了它的容器的边界"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
 msgid "wrap"
@@ -2337,7 +2337,7 @@ msgstr "空脚本"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripts
 msgid "empty script"
-msgstr "清空脚本"
+msgstr "空脚本"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripts
 msgid "scripts"
@@ -2936,7 +2936,7 @@ msgstr "补片"
 
 #: Protocols-Kernel,Vocabulary_class>>typeChoices
 msgid "Player"
-msgstr "玩家"
+msgstr "演员"
 
 #: Protocols-Kernel,Vocabulary_class>>typeChoices
 msgid "Point"

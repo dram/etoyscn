@@ -226,7 +226,7 @@ msgstr "一个带边框和填充样式的矩形"
 
 #: Morphic-Basic,SketchMorph_class>>defaultNameStemForInstances
 msgid "Sketch"
-msgstr "素描"
+msgstr "草图"
 
 #: Morphic-Basic,SketchMorph>>addBorderToShape:
 msgid "Please enter the desired border width"
@@ -1744,7 +1744,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Change color (press shift for more properties)"
-msgstr ""
+msgstr "改变颜色（按住shift键可以更改更多属性）"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Change font"
@@ -1756,7 +1756,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Change size (press shift to preserve aspect)"
-msgstr ""
+msgstr "改变大小（按住shift键可以保持形状）"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Change style"
@@ -1772,7 +1772,7 @@ msgstr "设置前进方向"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Collapse"
-msgstr ""
+msgstr "折叠"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Debug (press shift to inspect morph)"
@@ -1808,11 +1808,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Make a tile representing this object"
-msgstr ""
+msgstr "生成一个代表这个物体的脚本片段"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "More halo handles"
@@ -1824,11 +1824,11 @@ msgstr "移动"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Move to trash"
-msgstr ""
+msgstr "移到垃圾箱"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Open a Viewer for me"
-msgstr ""
+msgstr "打开“观察器”"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Paint background"
@@ -1840,7 +1840,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Pick up"
-msgstr ""
+msgstr "抓起"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Present the Viewing menu"
@@ -1856,11 +1856,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Repaint"
-msgstr ""
+msgstr "重新绘制"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Rotate"
-msgstr "轮换"
+msgstr "旋转"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "See the script for this button"
@@ -2072,7 +2072,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>helpButton
 msgid "click here for help"
-msgstr ""
+msgstr "点击这里查看帮助"
 
 #: Morphic-Kernel,Morph>>inspectMorphsProperties
 msgid "no properties to inspect, sorry"
@@ -2104,7 +2104,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>menuButton
 msgid "click here to get a menu with further options"
-msgstr ""
+msgstr "点击这里显示菜单，包含更多选项"
 
 #: Morphic-Kernel,Morph>>noHelpString
 msgid "Help not yet supplied"
@@ -3660,11 +3660,11 @@ msgstr "操纵杆"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "Object Catalog"
-msgstr "对象目录"
+msgstr "物体目录簿"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "Players"
-msgstr "玩家"
+msgstr "演员"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads,PasteUpMorph_class>>descriptionForPartsBin
 msgid "Playfield"
@@ -4772,8 +4772,7 @@ msgid ""
 "Sorry, you can only paint\n"
 "one object at a time"
 msgstr ""
-"对不起，你只能在一个时间\n"
-"画一个物体"
+"对不起，一次只能画一个物体"
 
 #: Morphic-Worlds,PasteUpMorph>>autoLineLayoutString
 msgid "auto-line-layout"

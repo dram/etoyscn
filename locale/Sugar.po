@@ -126,7 +126,7 @@ msgstr ""
 
 #: Sugar,SugarNavigatorBar>>buttonHideNavBar
 msgid "hide the tool bar"
-msgstr ""
+msgstr "隐藏工具栏"
 
 #: Sugar,SugarNavigatorBar>>buttonKeep
 msgid "Keep a copy of the current project in the Journal. Hold mouse button down for further options."
@@ -150,7 +150,7 @@ msgstr "激活共享.当有另一个用户使用时,你们可以交换对象."
 
 #: Sugar,SugarNavigatorBar>>buttonShowNavBar
 msgid "show the tool bar"
-msgstr ""
+msgstr "显示工具栏"
 
 #: Sugar,SugarNavigatorBar>>buttonStop
 msgid "Quit Etoys (with saving)"
@@ -188,14 +188,17 @@ msgid ""
 "a new\n"
 "painting."
 msgstr ""
-"要开始,\n"
-"点击这里创建一个新的粘贴."
+"要开始，\n"
+"可以点击这里\n"
+"创建一幅新的画。"
 
 #: Sugar,SugarNavigatorBar>>projectNameFieldBalloonHelp
 msgid ""
 "This is the name of current project.\n"
 "You can edit it as well."
-msgstr "这是目前工程的名字.你也可以编辑它."
+msgstr ""
+"这是当前作品的名称。\n"
+"你也可以修改它。"
 
 #: Sugar,SugarNavigatorBar>>setEdge:,SugarNavigatorBar>>setupSuppliesFlap,SugarNavigatorBar>>toggleSupplies,SugarNavigatorBar_class>>refreshButRetainOldContents,SugarNavigatorBar_class>>refreshButRetainOldContents
 msgid "Supplies"
@@ -222,7 +225,10 @@ msgid ""
 "Or, click to see Supplies.  \n"
 "Choose an object or \n"
 "choose the Object Catalog for more choices."
-msgstr "或者,点击来查看备用.选择一个对象,或者选择对象目录查看更多的选择."
+msgstr ""
+"也可以点击这里显示“组件”。\n"
+"选择一个物体\n"
+"或者打开“物体目录簿”查看更多的选择。"
 
 #: Sugar,SugarNavigatorBar>>toggleHelp
 msgid "There are no QuickGuides installed"

@@ -774,7 +774,7 @@ msgstr ""
 
 #: System-Support,Project>>chooseNaturalLanguage
 msgid "choose language"
-msgstr "喧杂语言"
+msgstr "选择语言"
 
 #: System-Support,Project>>chooseNaturalLanguage
 msgid "This controls the human language in which tiles should be viewed.  It is potentially extensible to be a true localization mechanism, but initially it only works in the classic tile scripting system.  Each project has its own private language choice"

@@ -1119,11 +1119,11 @@ msgstr ""
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningWidgetsFlap,ObjectsTool_class>>registerInFlapsRegistry,ObjectsTool_class>>registerInFlapsRegistry
 msgid "Object Catalog"
-msgstr "对象目录"
+msgstr "物体目录簿"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap
 msgid "Players"
-msgstr "玩家"
+msgstr "演员"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap,PasteUpMorph_class>>registerInFlapsRegistry,PasteUpMorph_class>>registerInFlapsRegistry,PasteUpMorph_class>>registerInFlapsRegistry
 msgid "Playfield"
@@ -2085,7 +2085,7 @@ msgstr "下一个>"
 
 #: MorphicExtras-Navigators,ProjectNavigationMorph>>buttonNext
 msgid "Next project"
-msgstr "下一个项目"
+msgstr "后一个作品"
 
 #: MorphicExtras-Navigators,ProjectNavigationMorph>>buttonPaint
 msgid "Make a painting"
@@ -2093,7 +2093,7 @@ msgstr "绘画"
 
 #: MorphicExtras-Navigators,ProjectNavigationMorph>>buttonPrev
 msgid "Previous project"
-msgstr "上一个项目"
+msgstr "前一个作品"
 
 #: MorphicExtras-Navigators,ProjectNavigationMorph>>buttonPrev
 msgid "< PREV"
@@ -3196,7 +3196,7 @@ msgstr "存放动画片中其他图片的地方"
 
 #: Morphic-Worlds,PasteUpMorph>>quitSqueak,ProjectNavigationMorph>>quitSqueak
 msgid "Are you sure you want to quit Etoys?"
-msgstr "你确定要退出Etoys吗"
+msgstr "确定要退出Etoys吗？"
 
 #~ msgid "turn reverb off"
 #~ msgstr "关闭混响"

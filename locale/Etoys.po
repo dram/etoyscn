@@ -43,15 +43,15 @@ msgstr "选择下列条件之一"
 
 #: Etoys-Buttons,ButtonProperties>>setActWhen,StandardScriptingSystem>>standardEventStati,StandardScriptingSystem>>statusHelpStringFor:
 msgid "mouseDown"
-msgstr "鼠标下移"
+msgstr "点击鼠标"
 
 #: Etoys-Buttons,ButtonProperties>>setActWhen,StandardScriptingSystem>>standardEventStati,StandardScriptingSystem>>statusHelpStringFor:
 msgid "mouseStillDown"
-msgstr "鼠标继续下移"
+msgstr "按住鼠标"
 
 #: Etoys-Buttons,ButtonProperties>>setActWhen,StandardScriptingSystem>>standardEventStati,StandardScriptingSystem>>statusHelpStringFor:
 msgid "mouseUp"
-msgstr "鼠标上移"
+msgstr "松开鼠标"
 
 #: Etoys-Buttons,ButtonProperties>>setArguments
 msgid ""
@@ -553,7 +553,7 @@ msgstr "{1} 的 {2}"
 
 #: Etoys-Scripting_Tiles,ColorTileMorph>>addColorSwatch,ColorTileMorph>>updateWordingToMatchVocabulary,EToyVocabulary_class>>masterOrderingOfCategorySymbols
 msgid "color"
-msgstr "颜色"
+msgstr "色"
 
 #: Etoys-Scripting_Tiles,CompoundTileMorph>>initialize,PhraseTileForTest>>setupCostume,PhraseTileForTest>>setupCostume
 msgid "No"
@@ -709,7 +709,7 @@ msgstr "恢复默认片段"
 
 #: Etoys-Scripting_Tiles,TimesRepeatTile>>initialize
 msgid "Do"
-msgstr "做"
+msgstr "执行"
 
 #: Etoys-Scripting_Tiles,TimesRepeatTile>>initialize
 msgid "Script to repeat"
@@ -717,7 +717,7 @@ msgstr "待重复的脚本"
 
 #: Etoys-Scripting_Tiles,TimesRow>>initialize
 msgid "times"
-msgstr "时代"
+msgstr "次"
 
 #: Etoys-Scripting_Tiles,TypeListTile>>addCustomMenuItems:hand:
 msgid "choose type..."
@@ -867,7 +867,7 @@ msgstr "展开或隐藏下面的列表，其中列出了各个脚本"
 
 #: Etoys-Scripting,AllScriptsTool>>presentHelp,AllScriptsTool_class>>defaultNameStemForInstances,AllScriptsTool_class>>descriptionForPartsBin,AllScriptsTool_class>>registerInFlapsRegistry,AllScriptsTool_class>>registerInFlapsRegistry,AllScriptsTool_class>>registerInFlapsRegistry
 msgid "All Scripts"
-msgstr "全部脚本"
+msgstr "所有脚本"
 
 #: Etoys-Scripting,CategoryViewer>>addHeaderMorph
 msgid ""
@@ -917,27 +917,27 @@ msgstr "这个片段不适合用于此类对象"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "A tile holding a plain number"
-msgstr "拥有一个素数的平板"
+msgstr "一个代码片段，用于存放常数。"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "A tile representing a function call.  Click on the function name or the arrows to change functions."
-msgstr "代表函数调用的一个板。单击函数名称或是箭头可改变函数。"
+msgstr "一个代码片段，用于代表函数调用。单击函数名称或是箭头可以选择函数。"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "A tile representing the object being scripted"
-msgstr "代表脚本化对象的一个板"
+msgstr "一个代码片段，用于代表当前正在进行脚本设计的物体。"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "A tile that will produce a random number in a given range."
-msgstr "可产生给定范围随机数的一个板"
+msgstr "一个代码片段，用于产生指定范围的随机数。"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:,ScriptEditorMorph>>handUserButtonDownTile,StandardScriptingSystem>>anyButtonPressedTiles,StandardScriptingSystem>>buttonDownTile
 msgid "button down?"
-msgstr "按钮按下？"
+msgstr "鼠标是按下的？"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:,ScriptEditorMorph>>handUserButtonUpTile,StandardScriptingSystem>>buttonUpTile,StandardScriptingSystem>>noButtonPressedTiles
 msgid "button up?"
-msgstr "按钮弹起？"
+msgstr "鼠标是松开的？"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "function"
@@ -953,11 +953,11 @@ msgstr "数字"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "Reports whether the mouse button is down"
-msgstr "报告鼠标是否按下"
+msgstr "判断鼠标是否处于按下状态"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "Reports whether the mouse button is up"
-msgstr "报告鼠标是否弹起"
+msgstr "判断鼠标是否处于松开状态"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:,RandomNumberTile>>initialize,RandomNumberTile>>updateWordingToMatchVocabulary
 msgid "random"
@@ -969,11 +969,11 @@ msgstr "重复"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "Test/Yes/No panes for testing a condition."
-msgstr "测试/是/无测试该情况的面板。"
+msgstr "“测试/是/否”面板用于判断一种情况是否发生。"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "TimesRepeat panes for running a section of code repeatedly."
-msgstr "可重复运行一段代码的重复次面板"
+msgstr "“重复执行”面板用于重复运行一段代码。"
 
 #: Etoys-Scripting,GoldBoxMenu>>initializeFor:
 msgid "test"
@@ -1210,7 +1210,8 @@ msgstr "对不起 -- 没有那种类型的位置"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:
 msgid "Add a new script that will work for this object and all of its siblings"
-msgstr "添加一个为这个对象及其所有同胞工作的脚本"
+msgstr ""
+"增加一个新的脚本，这个脚本将同时作用于这个物体以及它的所有同胞"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:
 msgid "Add a new variable to this object and all of its siblings.  You will be asked to supply a name for it."
@@ -1218,11 +1219,11 @@ msgstr "添加一个变量到一个对象以及其所有的同胞。您将被要
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:
 msgid "add a new script"
-msgstr "添加一个新脚本"
+msgstr "增加一个新的脚本"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:
 msgid "add a new variable"
-msgstr "添加一个新变量"
+msgstr "增加一个新的变量"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:
 msgid "add search pane"
@@ -1234,7 +1235,7 @@ msgstr ""
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu,ScriptInstantiation>>offerMenuIn:,ScriptInstantiation>>offerShiftedMenuIn:
 msgid "grab this object"
-msgstr "抓住这个对象"
+msgstr "抓住这个物体"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:
 msgid "If you have misplaced the object that this Viewer is looking at, use this item to (try to) make it visible"
@@ -1246,11 +1247,12 @@ msgstr "更多..."
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu,ScriptInstantiation>>offerMenuIn:
 msgid "reveal this object"
-msgstr "显示该对象"
+msgstr "显示这个物体"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:
 msgid "This will actually pick up the object this Viewer is looking at, and hand it to you.  Click the (left) button to drop it"
-msgstr "这将拣出该浏览器正在查看的对象，传递给你。点击（左侧的）按钮以放下它"
+msgstr ""
+"可以找出这个“观察器”所查看的物体并将它交给你。点击鼠标（左键）可以放下它"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu,ScriptInstantiation>>offerMenuIn:
 msgid "tile representing this object"
@@ -1389,15 +1391,15 @@ msgstr "该对象的位置？"
 
 #: Etoys-Scripting,PlayerSurrogate>>rebuildRow
 msgid "Click here to reveal this object"
-msgstr "点击这里查看此物体"
+msgstr "点击这里查看这个物体"
 
 #: Etoys-Scripting,PlayerSurrogate>>rebuildRow
 msgid "click here to obtain a tile that refers to this player."
-msgstr "点击这里获得与此演员相关联的脚本片段"
+msgstr "点击这里获得与这个演员相关联的脚本片段"
 
 #: Etoys-Scripting,PlayerSurrogate>>rebuildRow
 msgid "click here to obtain this object's Viewer"
-msgstr "点击这里显示此物体的“观察器”"
+msgstr "点击这里显示这个物体的“观察器”"
 
 #: Etoys-Scripting,PlayerSurrogate>>renamePlayer
 msgid "Type new name:"
@@ -1445,7 +1447,11 @@ msgid ""
 "from the screen\n"
 "(you can open it\n"
 "again from a Viewer)"
-msgstr "将该脚本从屏幕中删除（可以从浏览器中重新打开）"
+msgstr ""
+"将这个脚本\n"
+"从屏幕中移除\n"
+"（你可以从“观察器”中\n"
+"重新打开它）"
 
 #: Etoys-Scripting,ScriptEditorMorph>>addGoldBoxItemsTo:
 msgid "gold box"
@@ -1493,11 +1499,11 @@ msgstr "自适应"
 
 #: Etoys-Scripting,ScriptEditorMorph>>buttonRowForEditor
 msgid "Click here to edit the name of the script."
-msgstr "点击这里编辑脚本名称"
+msgstr "点击这里修改这个脚本的名称"
 
 #: Etoys-Scripting,ScriptEditorMorph>>buttonRowForEditor
 msgid "click here to get a palette of useful tiles to use in your script."
-msgstr "点击这里显示组件箱，包含可以在脚本中使用的有用片段"
+msgstr "点击这里显示组件箱，其中包含有可以在脚本中使用的有用片段"
 
 #: Etoys-Scripting,ScriptEditorMorph>>buttonRowForEditor
 msgid "Drag from here to get a parameter tile"
@@ -1658,11 +1664,11 @@ msgstr "无论该对象当前在哪，\"grab\"命令都将删除它，之后将�
 
 #: Etoys-Scripting,ScriptInstantiation>>presentScriptStatusPopUp
 msgid "apply my status to all siblings"
-msgstr "将我的状态应用于所有同胞"
+msgstr "把我的状态应用到我的所有同胞"
 
 #: Etoys-Scripting,ScriptInstantiation>>presentScriptStatusPopUp,StandardScriptingSystem>>statusHelpStringFor:
 msgid "closing"
-msgstr "关闭"
+msgstr "关闭时"
 
 #: Etoys-Scripting,ScriptInstantiation>>presentScriptStatusPopUp
 msgid "define a new custom event"
@@ -1674,15 +1680,15 @@ msgstr "删除一个自定义事件"
 
 #: Etoys-Scripting,ScriptInstantiation>>presentScriptStatusPopUp
 msgid "more... "
-msgstr "更多的..."
+msgstr "更多..."
 
 #: Etoys-Scripting,ScriptInstantiation>>presentScriptStatusPopUp,StandardScriptingSystem>>statusHelpStringFor:
 msgid "normal"
-msgstr "正常的"
+msgstr "普通"
 
 #: Etoys-Scripting,ScriptInstantiation>>presentScriptStatusPopUp,StandardScriptingSystem>>statusHelpStringFor:
 msgid "opening"
-msgstr "开始"
+msgstr "打开时"
 
 #: Etoys-Scripting,ScriptInstantiation>>presentScriptStatusPopUp,StandardScriptingSystem>>statusHelpStringFor:
 msgid "paused"
@@ -1690,7 +1696,7 @@ msgstr "暂停"
 
 #: Etoys-Scripting,ScriptInstantiation>>presentScriptStatusPopUp,StandardScriptingSystem>>statusHelpStringFor:
 msgid "ticking"
-msgstr "嘀嗒"
+msgstr "运行"
 
 #: Etoys-Scripting,ScriptInstantiation>>presentScriptStatusPopUp
 msgid "When should this script run?"
@@ -1714,7 +1720,7 @@ msgstr "这是该条目属于的脚本的名字"
 
 #: Etoys-Scripting,ScriptInstantiation>>typeInTickingRate
 msgid "Number of ticks per second: "
-msgstr "每秒钟嘀嗒的次数"
+msgstr "每秒钟时钟走动的次数："
 
 #: Etoys-Scripting,ScriptingDomain>>addModelMenuItemsTo:forMorph:hand:
 msgid "take out of window"
@@ -1722,11 +1728,11 @@ msgstr "拿出窗口"
 
 #: Etoys-Scripting,ScriptStatusControl>>assurePauseTickControlsShow
 msgid "Press to toggle ticking state. Hold down to set tick rate."
-msgstr "按下以固定嘀嗒的状态，按住以设置嘀嗒频率"
+msgstr "点击这里切换时钟的运行状态。按住鼠标可以设置时钟频率。"
 
 #: Etoys-Scripting,ScriptStatusControl>>initializeFor:
 msgid "when this script should run"
-msgstr "什么时候运行这个脚本"
+msgstr "什么时候执行这个脚本"
 
 #: Etoys-Scripting,SearchingViewer>>addNamePaneTo:,SearchingViewer>>updateSearchButtonLabel
 msgid "Type some letters into the pane at right, and then press this Search button (or hit RETURN) and all tiles that match what you typed will appear in the list below."
@@ -2321,7 +2327,7 @@ msgstr "在面板上键入一个数字来指定个体Turtle"
 
 #: Morphic-Kernel,Morph_class>>helpContributions
 msgid "Click here to run this script once; hold button down to run repeatedly"
-msgstr ""
+msgstr "点击这里执行一次这个脚本；按住鼠标可以重复执行"
 
 #: Morphic-Kernel,Morph_class>>helpContributions
 msgid "Run this command once."
@@ -2877,19 +2883,19 @@ msgstr "不等于"
 
 #: Morphic-Worlds,StandardScriptingSystem>>standardEventStati,StandardScriptingSystem>>statusHelpStringFor:
 msgid "mouseEnter"
-msgstr "mouseEnter"
+msgstr "鼠标移入"
 
 #: Morphic-Worlds,StandardScriptingSystem>>standardEventStati,StandardScriptingSystem>>statusHelpStringFor:
 msgid "mouseEnterDragging"
-msgstr "mouseEnterDragging"
+msgstr "鼠标拖入"
 
 #: Morphic-Worlds,StandardScriptingSystem>>standardEventStati,StandardScriptingSystem>>statusHelpStringFor:
 msgid "mouseLeave"
-msgstr "mouseLeave"
+msgstr "鼠标移出"
 
 #: Morphic-Worlds,StandardScriptingSystem>>standardEventStati,StandardScriptingSystem>>statusHelpStringFor:
 msgid "mouseLeaveDragging"
-msgstr "mouseLeaveDragging"
+msgstr "鼠标拖出"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid " or "
@@ -2897,23 +2903,23 @@ msgstr "或者"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "More events:"
-msgstr "更多事件"
+msgstr "更多事件："
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "ready to run all the time"
-msgstr "准备一直运行"
+msgstr "准备始终执行"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "run all the time"
-msgstr "一直运行"
+msgstr "始终执行"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "run when called"
-msgstr "当被调用是运行"
+msgstr "被调用时执行"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "run when mouse goes down on me"
-msgstr "当鼠标按下我时运行"
+msgstr "点击鼠标时执行"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "User custom events:"
@@ -2921,35 +2927,35 @@ msgstr "用户自定义时间"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "when I am being closed"
-msgstr "当我正被关闭时"
+msgstr "我正在被关闭时"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "when I am being opened"
-msgstr "当我被打开时"
+msgstr "我正在被打开时"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "when mouse comes back up"
-msgstr "当鼠标返回并弹起"
+msgstr "松开鼠标时"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "when mouse enters my bounds, button down"
-msgstr "当鼠标进入我的限制，按钮按下"
+msgstr "鼠标移入我的范围，并且处于按下状态时"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "when mouse enters my bounds, button up"
-msgstr "当鼠标进入我的限制，按钮弹起"
+msgstr "鼠标移入我的范围，并且处于松开状态时"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "when mouse exits my bounds, button down"
-msgstr "当鼠标退出我的限制，按钮按下"
+msgstr "鼠标移出我的范围，并且处于按下状态时"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "when mouse exits my bounds, button up"
-msgstr "当鼠标退出我的限制，按钮弹起"
+msgstr "鼠标移出我的范围，并且处于松开状态时"
 
 #: Morphic-Worlds,StandardScriptingSystem>>statusHelpStringFor:
 msgid "while mouse still down"
-msgstr "当鼠标仍然按下时"
+msgstr "按住鼠标时"
 
 #: Morphic-Worlds,StandardScriptingSystem>>stepButton
 msgid "Run every paused script exactly once.  Keep the mouse button down over \"Step\" and everything will keep running until you release it"

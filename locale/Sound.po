@@ -765,11 +765,11 @@ msgstr "照相机"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "chirp"
-msgstr "蜂鸣"
+msgstr "蜂鸣声"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "chomp"
-msgstr "焦躁"
+msgstr "咀嚼声"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "click"
@@ -781,27 +781,27 @@ msgstr "叮当声"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "coyote"
-msgstr "土狼"
+msgstr "狼嚎"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "croak"
-msgstr "蛙叫声"
+msgstr "蛙叫"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "horn"
-msgstr "小号"
+msgstr "小号声"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "laugh"
-msgstr "大笑"
+msgstr "笑声"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "meow"
-msgstr "猫叫声"
+msgstr "猫叫"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "motor"
-msgstr "马达"
+msgstr "马达声"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "peaks"
@@ -821,7 +821,7 @@ msgstr "刮擦声"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "silence"
-msgstr "沉默"
+msgstr "静音"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "splash"
@@ -829,7 +829,7 @@ msgstr "溅泼声"
 
 #: Sound-Synthesis,SampledSound_class>>universalSoundKeys
 msgid "warble"
-msgstr "颤声"
+msgstr "颤音"
 
 #: Sound-Synthesis,SoundRecorder>>verifyExistenceOfRecordedSound
 msgid "please record a sound first"

@@ -160,8 +160,7 @@ msgstr "丢弃物品的工具"
 #: MorphicExtras-AdditionalWidgets,TrashCanMorph>>initialize
 msgid "To remove an object, drop it on any trash can. To view, and maybe retrieve, items that have been thrown away, double-click on any trash-can.  Things are retained in the trash-can if the \"preserveTrash\" preference is set, otherwise they are purged immediately"
 msgstr ""
-"删除一个物品，把它扔到任意一个垃圾桶即可。双击垃圾桶，可以看到并且可以恢复被删掉的物品。如果\"preserveTrash\"的优先级被设置了，物品会被保留"
-"，否则会立即删除。"
+"要删除一个物体，只需要把它扔到任意一个垃圾桶中。双击垃圾桶可以查看或者恢复被丢弃掉的物体。如果设置了\"preserveTrash\"配置项，物体会保留在垃圾桶中，否则它们将会被立即清除。"
 
 #: MorphicExtras-Books,BooklikeMorph>>addBookMenuItemsTo:hand:,BookMorph>>addBookMenuItemsTo:hand:
 msgid "hide page controls"
@@ -915,7 +914,7 @@ msgstr ""
 
 #: MorphicExtras-Demo,MagnifierMorph>>toggleRoundString
 msgid "round"
-msgstr "声音"
+msgstr ""
 
 #: MorphicExtras-Demo,MagnifierMorph>>trackingPointerString
 msgid "track pointer"
@@ -1011,7 +1010,7 @@ msgstr "糖块导航板"
 
 #: MorphicExtras-Flaps,Flaps_class>>addAndEnableEToyFlapsWithPreviousEntries:,Flaps_class>>newLoneSuppliesFlap,Flaps_class>>newSuppliesFlapFromQuads:positioning:withPreviousEntries:,Flaps_class>>reinstateDefaultFlaps,Flaps_class>>replaceGlobalFlapwithID:,Flaps_class>>setUpSuppliesFlapOnly,Flaps_class>>sharedFlapsAlongBottom,FlapTab>>balloonTextForFlapsMenu,ProjectNavigationMorph>>buttonSupplies,ProjectNavigationMorph>>buttonSupplies
 msgid "Supplies"
-msgstr "常用功能"
+msgstr "百宝箱"
 
 #: MorphicExtras-Flaps,Flaps_class>>addAndEnableEToyFlapsWithPreviousEntries:
 msgid "Supplies Flap"
@@ -1075,19 +1074,19 @@ msgstr "一个星号"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningWidgetsFlap,Flaps_class>>newLoneSuppliesFlap,TrashCanMorph_class>>registerInFlapsRegistry,TrashCanMorph_class>>registerInFlapsRegistry,TrashCanMorph_class>>registerInFlapsRegistry
 msgid "A tool for discarding objects"
-msgstr "丢弃对象的一个工具"
+msgstr "一个用于存放被丢弃物体的工具"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap
 msgid "A tool listing all the scripted objects in the project."
-msgstr "一个列出项目中所有脚本对象的工具"
+msgstr "一个用于列出作品中所有包含脚本的物体的工具"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap
 msgid "A tool that lets you browse the catalog of available objects"
-msgstr "一个可允许浏览可用对象目录的工具"
+msgstr "一个可以让你浏览包含有全部可用物体的目录簿的工具"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningWidgetsFlap,Flaps_class>>newLoneSuppliesFlap
 msgid "All Scripts"
-msgstr "全部脚本"
+msgstr "所有脚本"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap
 msgid "Button"
@@ -1147,7 +1146,7 @@ msgstr "星号"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap
 msgid "Stop, Step, and Go buttons for controlling all your scripts at once.  The tool can also be \"opened up\" to control each script in your project individually."
-msgstr "停止,步骤和前进按钮可同时控制你所有的脚本.此工具也能被 \"打开\"以分别控制项目中的单个脚本."
+msgstr "“停止”，“单步”和“运行”按钮可以同时控制你所有的脚本。“展开”这个工具后，也可以对作品中的每个脚本进行单独控制。"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap,TextMorph_class>>supplementaryPartsDescriptions
 msgid "Text"
@@ -1155,11 +1154,11 @@ msgstr "文本"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap
 msgid "Text that you can edit into anything you desire."
-msgstr "文本,你可以将它编辑为任意你想要的东西"
+msgstr "文本，你可以在其中编写任何想要的东西"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningWidgetsFlap,Flaps_class>>newLoneSuppliesFlap,TrashCanMorph>>initialize,TrashCanMorph_class>>descriptionForPartsBin,TrashCanMorph_class>>registerInFlapsRegistry,TrashCanMorph_class>>registerInFlapsRegistry,TrashCanMorph_class>>registerInFlapsRegistry
 msgid "Trash"
-msgstr "垃圾"
+msgstr "垃圾桶"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningScriptingFlap
 msgid "A  data field which will have a different value on every card of the background"
@@ -2022,6 +2021,7 @@ msgstr "查找"
 #: MorphicExtras-Navigators,ProjectNavigationMorph>>buttonFind
 msgid "Find (load) another project. Hold mouse button down for further options."
 msgstr ""
+"搜索（载入）另一个作品。按住鼠标可以获得更多选项。"
 
 #: MorphicExtras-Navigators,ProjectNavigationMorph>>buttonFlaps,ProjectNavigationMorph>>buttonFlaps
 msgid "Hide tabs"
@@ -2108,6 +2108,8 @@ msgid ""
 "Publish (save) this project.\n"
 "Hold mouse button down for further options"
 msgstr ""
+"发布（保存）这个作品。\n"
+"按住鼠标可以获得更多选项。"
 
 #: MorphicExtras-Navigators,ProjectNavigationMorph>>buttonQuit
 msgid "QUIT"
@@ -2115,7 +2117,7 @@ msgstr "退出"
 
 #: MorphicExtras-Navigators,ProjectNavigationMorph>>buttonQuit
 msgid "Quit Etoys (without saving)"
-msgstr ""
+msgstr "退出Etoys（不保存）"
 
 #: MorphicExtras-Navigators,ProjectNavigationMorph>>buttonTell
 msgid "Tell a friend about this project"

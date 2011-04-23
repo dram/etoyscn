@@ -645,7 +645,7 @@ msgstr "在...弹起"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryMotion
 msgid "Change the heading of the object by the specified amount"
-msgstr "使用指定数量改变对象的标题"
+msgstr "将物体的前进方向改变指定角度"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
 msgid "color from patch"
@@ -701,7 +701,7 @@ msgstr "kedama turtle颜色"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryMotion
 msgid "Moves the object forward in the direction it is heading"
-msgstr "沿着它前进的方向移动该物体向前"
+msgstr "沿着它的前进方向向前移动这个物体"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
 msgid "make my color specified in the patch"
@@ -765,7 +765,7 @@ msgstr "y坐标"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryMotion
 msgid "turn by"
-msgstr "转向"
+msgstr "旋转"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories
 msgid "turtle count"
@@ -789,7 +789,7 @@ msgstr "我的位置上隐形的上坡"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryMotion
 msgid "Which direction the object is facing.  0 is straight up"
-msgstr "物体面向何方。0是竖直向上"
+msgstr "这个物体朝着哪个方向。0表示竖直向上"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryMotion
 msgid "x"
@@ -949,7 +949,7 @@ msgstr "废书的页数"
 
 #: MorphicExtras-AdditionalWidgets,TrashCanMorph_class>>additionsToViewerCategories
 msgid "trash"
-msgstr "垃圾"
+msgstr "垃圾桶"
 
 #: MorphicExtras-Books,BookMorph_class>>additionsToViewerCategories
 msgid "book navigation"
@@ -2101,11 +2101,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
 msgid "bounce"
-msgstr ""
+msgstr "弹开"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
 msgid "bounce off the edge if hit"
-msgstr ""
+msgstr "在碰到边框时弹开"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
 msgid "follow path"
@@ -2447,7 +2447,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "color  sees"
-msgstr ""
+msgstr "色 碰到"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "is over color"
@@ -2491,7 +2491,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "whether the given color sees the given color"
-msgstr ""
+msgstr "指定的前一个颜色是否碰到指定的后一个颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "whether the object is under the current mouse position"

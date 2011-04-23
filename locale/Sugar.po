@@ -138,7 +138,7 @@ msgstr "发布！"
 
 #: Sugar,SugarNavigatorBar>>buttonLanguage
 msgid "Click here to choose your language."
-msgstr "点击这里选择语言"
+msgstr "点击这里选择语言。"
 
 #: Sugar,SugarNavigatorBar>>buttonPaint
 msgid "Make a painting"
@@ -162,7 +162,7 @@ msgstr "撤消上一次的改变."
 
 #: Sugar,SugarNavigatorBar>>buttonZoom
 msgid "Click here to toggle using the full screen."
-msgstr ""
+msgstr "点击这里切换全屏显示。"
 
 #: Sugar,SugarNavigatorBar>>chooseScreenSetting
 msgid "display mode"
@@ -202,7 +202,7 @@ msgstr ""
 
 #: Sugar,SugarNavigatorBar>>setEdge:,SugarNavigatorBar>>setupSuppliesFlap,SugarNavigatorBar>>toggleSupplies,SugarNavigatorBar_class>>refreshButRetainOldContents,SugarNavigatorBar_class>>refreshButRetainOldContents
 msgid "Supplies"
-msgstr "常用功能"
+msgstr "百宝箱"
 
 #: Sugar,SugarNavigatorBar>>stringForDisplayModeIs:
 msgid "Centered Virtual Extent"

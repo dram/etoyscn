@@ -917,7 +917,7 @@ msgstr ""
 
 #: System-Support,Project>>setFlaps
 msgid "Supplies"
-msgstr "常用功能"
+msgstr "百宝箱"
 
 #: System-Support,Project>>setFlaps
 msgid "Tools"

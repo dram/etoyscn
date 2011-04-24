@@ -3592,23 +3592,23 @@ msgstr "平铺脚本时使用的按钮;其脚本将是它所包含播放区的�
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "A device for making sound recordings."
-msgstr "制作录音的一种设备"
+msgstr "一种制作声音的设备"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads,JoystickMorph_class>>descriptionForPartsBin,JoystickMorph_class>>registerInFlapsRegistry,JoystickMorph_class>>registerInFlapsRegistry,JoystickMorph_class>>registerInFlapsRegistry
 msgid "A joystick-like control"
-msgstr "一种类操纵杆的控制"
+msgstr "一种类似控制杆的控制器"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "A multi-paged structure"
-msgstr "多页结构"
+msgstr "一个多页的组织结构"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads,PasteUpMorph_class>>descriptionForPartsBin
 msgid "A place for assembling parts or for staging animations"
-msgstr "一个组合局部或分段制作的场所"
+msgstr "一个用于组装部件或是演出动画的场所"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "A place for storing alternative pictures in an animation, etc."
-msgstr "存储影片中不同图片等的地方"
+msgstr "一个用于存放物体的场所，比如存放在动画中交替显示的图片等"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "A rectangle"
@@ -3616,7 +3616,7 @@ msgstr "一个矩形"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "A slider for showing and setting numeric values."
-msgstr "一个显示和设置数值的滑块"
+msgstr "一个用于显示和设置数值的滑块"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "A star"
@@ -3624,7 +3624,7 @@ msgstr "一个星号"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "A tool for discarding objects"
-msgstr "一个用于存放被丢弃物体的工具"
+msgstr "一个用于丢弃物体的工具"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads
 msgid "A tool listing all the scripted objects in the project."
@@ -3668,7 +3668,7 @@ msgstr "演员"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads,PasteUpMorph_class>>descriptionForPartsBin
 msgid "Playfield"
-msgstr "播放区"
+msgstr "运动场"
 
 #: Morphic-Mentoring,EventRecordingSpace>>sugarPartsBinQuads,RectangleMorph_class>>descriptionForPartsBin
 msgid "Rectangle"
@@ -4514,7 +4514,11 @@ msgid ""
 "Click here to enter the\n"
 "project named\n"
 "\"{1}\""
-msgstr "点击这里输入"
+msgstr ""
+"点击这里进入\n"
+"作品\n"
+"“{1}”"
+
 
 #: Morphic-Windows,ProjectViewMorph>>dismissViaHalo
 msgid "cancel - do not delete anything"
@@ -4705,7 +4709,7 @@ msgstr "如果为真，忽略显示更新这件的画笔细节运动。这样，
 
 #: Morphic-Worlds,PasteUpMorph>>addPlayfieldMenuItems:hand:,TheWorldMenu>>buildShowSourceMenu,TheWorldMenu>>buildWorldMenu
 msgid "playfield options..."
-msgstr "游戏场选项"
+msgstr "运动场选项..."
 
 #: Morphic-Worlds,PasteUpMorph>>addPlayfieldMenuItems:hand:
 msgid "send contents back to donor"
@@ -4828,7 +4832,7 @@ msgstr "指示光标"
 
 #: Morphic-Worlds,PasteUpMorph>>innocuousName
 msgid "flap"
-msgstr "拍打"
+msgstr "滑动板"
 
 #: Morphic-Worlds,PasteUpMorph>>installFlaps
 msgid "Building Viewers..."

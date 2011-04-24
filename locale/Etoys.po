@@ -1419,7 +1419,7 @@ msgstr "脚本{1}"
 
 #: Etoys-Scripting,ScriptableButton_class>>descriptionForPartsBin
 msgid "A button to use with tile scripting; its script will be a method of its containing playfield"
-msgstr "平铺脚本时使用的按钮;其脚本将是它所包含播放区的一种方法"
+msgstr "与脚本片段结合使用的按钮；它的脚本将会成为它所在运动场的一个方法"
 
 #: Etoys-Scripting,ScriptableButton_class>>registerInFlapsRegistry
 msgid "A button whose script will be a method of the background Player"
@@ -1435,7 +1435,7 @@ msgstr "可运行脚本的键"
 
 #: Etoys-Scripting,ScriptableButton>>initializeToStandAlone,ScriptableButton_class>>authoringPrototype
 msgid "Press me"
-msgstr "按我"
+msgstr "点我"
 
 #: Etoys-Scripting,ScriptableButton>>setLabel
 msgid "Enter a new label for this button"
@@ -1984,7 +1984,7 @@ msgstr "显示卡片控件"
 
 #: Etoys-Stacks,StackMorph>>addBookMenuItemsTo:hand:
 msgid "sort pages"
-msgstr "分类页面"
+msgstr "页面排序"
 
 #: Etoys-Stacks,StackMorph>>addBookMenuItemsTo:hand:
 msgid "sound effect for all backgrounds"

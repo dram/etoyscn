@@ -1085,7 +1085,7 @@ msgstr ""
 
 #: System-Support,Utilities_class>>maybeEmptyTrash
 msgid "Do you really want to empty the trash?"
-msgstr ""
+msgstr "你确定要清空垃圾桶吗？"
 
 #: System-Support,Utilities_class>>offerCommonRequestsInMorphic
 msgid "Common Requests"
@@ -1134,11 +1134,11 @@ msgstr "最近"
 
 #: System-Support,Utilities_class>>scrapsBook
 msgid "Click here to empty the trash."
-msgstr "点击此处清空垃圾箱"
+msgstr "点击这里清空垃圾桶"
 
 #: System-Support,Utilities_class>>scrapsBook
 msgid "EMPTY"
-msgstr "空的"
+msgstr "清空"
 
 #: System-Support,Utilities_class>>scrapsBook
 msgid ""
@@ -1146,6 +1146,10 @@ msgid ""
 "\n"
 "You can individually expunge objects by hitting the - control, and you can empty out all the objects in the trash can by hitting the \"EMPTY\" button at top right."
 msgstr ""
+"你拖到垃圾桶里的物体会被自动保存在这里，一页一个物体，说不定你以后会需要它们。如果要禁用这一功能，可以将“preserveTrash”配置项设为假。\n"
+"\n"
+"你可以通过点击“-”按钮删除单个物体，你也可以点击右上角的“清空”按钮删除垃圾桶里的所有物体。"
+
 
 #: System-Support,Utilities_class>>scrapsBook
 msgid "scraps"
@@ -1161,11 +1165,11 @@ msgstr "你的名字"
 
 #: System-Support,Utilities_class>>trashTitle
 msgid "  ({1} pages)"
-msgstr ""
+msgstr " （{1}页）"
 
 #: System-Support,Utilities_class>>trashTitle
 msgid "T R A S H"
-msgstr ""
+msgstr "垃 圾 桶"
 
 #: System-Support,Utilities_class>>updateFromDefaultRepository
 msgid "Repository unavailable"

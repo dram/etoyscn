@@ -210,11 +210,11 @@ msgstr "中心的虚拟区域"
 
 #: Sugar,SugarNavigatorBar>>stringForDisplayModeIs:
 msgid "No Scaling"
-msgstr "没有标尺"
+msgstr "不自动缩放"
 
 #: Sugar,SugarNavigatorBar>>stringForDisplayModeIs:
 msgid "Scaled Virtual Extent"
-msgstr "均分虚拟空间"
+msgstr "经过缩放的虚拟大小"
 
 #: Sugar,SugarNavigatorBar>>stringForFullScreenToggle
 msgid "Full Screen"

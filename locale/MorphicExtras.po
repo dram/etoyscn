@@ -155,7 +155,7 @@ msgstr ""
 
 #: MorphicExtras-AdditionalWidgets,TrashCanMorph_class>>descriptionForPartsBin
 msgid "a tool for discarding objects"
-msgstr "丢弃物品的工具"
+msgstr "一个用于丢弃物体的工具"
 
 #: MorphicExtras-AdditionalWidgets,TrashCanMorph>>initialize
 msgid "To remove an object, drop it on any trash can. To view, and maybe retrieve, items that have been thrown away, double-click on any trash-can.  Things are retained in the trash-can if the \"preserveTrash\" preference is set, otherwise they are purged immediately"
@@ -176,27 +176,27 @@ msgstr "书..."
 
 #: MorphicExtras-Books,BooklikeMorph>>fullControlSpecs,BookMorph>>fullControlSpecs
 msgid "Add a new page after this one"
-msgstr "此页后添加新页面"
+msgstr "在这一页之后添加一个新的页面"
 
 #: MorphicExtras-Books,BooklikeMorph>>fullControlSpecs,BooklikeMorph>>shortControlSpecs,BookMorph>>fullControlSpecs,BookMorph>>shortControlSpecs
 msgid "Click here to get a menu of options for this book."
-msgstr "单击此处获得此书的菜单选项"
+msgstr "点击这里打开这本书的选项菜单"
 
 #: MorphicExtras-Books,BooklikeMorph>>fullControlSpecs,BookMorph>>fullControlSpecs
 msgid "Delete this page"
-msgstr "删除此页"
+msgstr "删除这一页"
 
 #: MorphicExtras-Books,BooklikeMorph>>fullControlSpecs,BookMorph>>fullControlSpecs
 msgid "Fewer controls"
-msgstr "少数控制"
+msgstr "较少的控制按钮"
 
 #: MorphicExtras-Books,BooklikeMorph>>fullControlSpecs,BookMorph>>fullControlSpecs
 msgid "Final page"
-msgstr "末页"
+msgstr "最后一页"
 
 #: MorphicExtras-Books,BooklikeMorph>>fullControlSpecs,BookMorph>>fullControlSpecs
 msgid "First page"
-msgstr "首页"
+msgstr "第一页"
 
 #: MorphicExtras-Books,BooklikeMorph>>fullControlSpecs,BooklikeMorph>>minimumControlSpecs,BooklikeMorph>>shortControlSpecs,BookMorph>>fullControlSpecs,BookMorph>>shortControlSpecs
 msgid "Next page"
@@ -204,19 +204,19 @@ msgstr "下一页"
 
 #: MorphicExtras-Books,BooklikeMorph>>fullControlSpecs,BooklikeMorph>>minimumControlSpecs,BooklikeMorph>>shortControlSpecs,BookMorph>>fullControlSpecs,BookMorph>>shortControlSpecs
 msgid "Previous page"
-msgstr "前一页"
+msgstr "上一页"
 
 #: MorphicExtras-Books,BooklikeMorph>>pageControlsAtTopString
 msgid "page controls at top"
-msgstr "页面控制置于顶端"
+msgstr "在顶部显示页面控制按钮"
 
 #: MorphicExtras-Books,BooklikeMorph>>pageControlsShortString
 msgid "page controls short"
-msgstr "简单页面控制"
+msgstr "较少的页面控制按钮"
 
 #: MorphicExtras-Books,BooklikeMorph>>shortControlSpecs,BookMorph>>shortControlSpecs
 msgid "More controls"
-msgstr "更多控制"
+msgstr "更多控制按钮"
 
 #: MorphicExtras-Books,BooklikeMorph>>showingFullScreenString
 msgid "view pages full-screen"
@@ -224,7 +224,7 @@ msgstr "全屏查看页面"
 
 #: MorphicExtras-Books,BooklikeMorph>>showingPageControlsString
 msgid "page controls visible"
-msgstr "页面控制可见"
+msgstr "显示页面控制按钮"
 
 #: MorphicExtras-Books,BookMorph_class>>alreadyInFromUrl:
 msgid "This book is already open in some project"
@@ -260,7 +260,7 @@ msgstr "转到上一页的按钮"
 
 #: MorphicExtras-Books,BookMorph_class>>registerInFlapsRegistry,BookMorph_class>>registerInFlapsRegistry,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap
 msgid "A multi-paged structure"
-msgstr "多页结构"
+msgstr "一个多页的组织结构"
 
 #: MorphicExtras-Books,BookMorph_class>>registerInFlapsRegistry,BookMorph_class>>registerInFlapsRegistry,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Morph_class>>supplementaryPartsDescriptions
 msgid "NextPage"
@@ -288,7 +288,7 @@ msgstr "高级的..."
 
 #: MorphicExtras-Books,BookMorph>>addAdvancedItemsTo:
 msgid "Choose a color to assign as the background color for all of this book's pages"
-msgstr "选择一种颜色设为此书所有页面的背景色"
+msgstr "选择一种颜色作为这本书中所有页面的背景色"
 
 #: MorphicExtras-Books,BookMorph>>addAdvancedItemsTo:
 msgid "clear new-page template"
@@ -300,7 +300,7 @@ msgstr "退出全屏"
 
 #: MorphicExtras-Books,BookMorph>>addAdvancedItemsTo:
 msgid "Make all the pages of this book be the same size as the page currently showing."
-msgstr "将此书所有页面设为当前页面相同大小"
+msgstr "将这本书中所有页面的大小设置为当前显示页面的大小"
 
 #: MorphicExtras-Books,BookMorph>>addAdvancedItemsTo:
 msgid "make a thread of projects in this book"
@@ -308,11 +308,11 @@ msgstr "为书中项目创建线索"
 
 #: MorphicExtras-Books,BookMorph>>addAdvancedItemsTo:
 msgid "make all pages the same size as this page"
-msgstr "将所有页面设为同此页相同大小"
+msgstr "将所有页面的大小设置为这一页的大小"
 
 #: MorphicExtras-Books,BookMorph>>addAdvancedItemsTo:
 msgid "make this the template for new pages"
-msgstr "将此设为新页面模板"
+msgstr "将这一页作为新创建页面的模板"
 
 #: MorphicExtras-Books,BookMorph>>addAdvancedItemsTo:,BookMorph>>addBookMenuItemsTo:hand:
 msgid "paste book page"
@@ -320,7 +320,7 @@ msgstr "粘贴书页"
 
 #: MorphicExtras-Books,BookMorph>>addAdvancedItemsTo:
 msgid "set background color for all pages"
-msgstr "为所有页面设置背景色"
+msgstr "设置所有页面的背景色"
 
 #: MorphicExtras-Books,BookMorph>>addAdvancedItemsTo:,BookMorph>>addBookMenuItemsTo:hand:
 msgid "show full screen"
@@ -360,11 +360,11 @@ msgstr "保留在一个文件中"
 
 #: MorphicExtras-Books,BookMorph>>addBookMenuItemsTo:hand:,BookMorph>>addSaveAndRevertItemsTo:
 msgid "mark entire book to be revertible"
-msgstr ""
+msgstr "标记整本书为可恢复"
 
 #: MorphicExtras-Books,BookMorph>>addBookMenuItemsTo:hand:,BookMorph>>addSaveAndRevertItemsTo:
 msgid "mark this page to be revertible"
-msgstr ""
+msgstr "标记这一页为可恢复"
 
 #: MorphicExtras-Books,BookMorph>>addBookMenuItemsTo:hand:
 msgid "next page"
@@ -380,7 +380,7 @@ msgstr "从服务器全部重新装载"
 
 #: MorphicExtras-Books,BookMorph>>addBookMenuItemsTo:hand:,BookMorph>>bookMenu,BookMorph>>invokeShortBookMenu
 msgid "revert this page"
-msgstr "恢复此页"
+msgstr "恢复这一页"
 
 #: MorphicExtras-Books,BookMorph>>addBookMenuItemsTo:hand:
 msgid "save as new-page prototype"
@@ -400,7 +400,7 @@ msgstr "将此页发送至服务器"
 
 #: MorphicExtras-Books,BookMorph>>addBookMenuItemsTo:hand:,BookMorph>>bookMenu
 msgid "sort pages"
-msgstr "分类页面"
+msgstr "页面排序"
 
 #: MorphicExtras-Books,BookMorph>>addBookMenuItemsTo:hand:
 msgid "sound effect for all pages"
@@ -432,19 +432,19 @@ msgstr "仅此页的视觉效果"
 
 #: MorphicExtras-Books,BookMorph>>addBookMenuItemsTo:hand:,BookMorph>>wrappingAtEndString
 msgid "wrap after last page"
-msgstr "末页之后打包"
+msgstr "最后一页后回到第一页"
 
 #: MorphicExtras-Books,BookMorph>>addBookToggleItemsTo:
 msgid "If on, page controls (when present), will appear at the the top of the book; if off, they will appear at its bottom"
-msgstr "页面控制（如果有）开启时，出现在书顶部；关闭时，出现在底部"
+msgstr "如果启用这一设置，页面控制按钮（如果有显示）会在书的顶部显示；禁用时，会在底部显示"
 
 #: MorphicExtras-Books,BookMorph>>addBookToggleItemsTo:
 msgid "If set, a row of page controls will appear at the top of the book"
-msgstr "若设置了页面控制，页面控制行将出现在书顶部"
+msgstr "如果启用这一设置，将会在书的顶部显示一行页面控制按钮"
 
 #: MorphicExtras-Books,BookMorph>>addBookToggleItemsTo:
 msgid "If set, stop-step-go buttons within the page's interior will govern only scripts for objects  residing within the page"
-msgstr "若设置，页面内的停止-步骤-前进按钮仅控制该页内嵌对象的脚本"
+msgstr "如果启用这一设置，页面内的“停止-单步-运行”按钮将只作用于包含在这个页面中的物体的脚本"
 
 #: MorphicExtras-Books,BookMorph>>addBookToggleItemsTo:
 msgid "If set, the book page occupies the entire screen"
@@ -452,19 +452,19 @@ msgstr "若设置，书页填满整个屏幕"
 
 #: MorphicExtras-Books,BookMorph>>addBookToggleItemsTo:
 msgid "If set, the first page in the book will be considered to be the next page after the last page, so that continuallly pressing the next or previous buttons will continually cycle through all pages of the book"
-msgstr "若设置，书的首页将被认为是末页的下一页，这样不停的点击下一页或上一页的按钮就能不停的周而复始浏览书中所有页面"
+msgstr "如果启用这一设置，书的第一页将被认为是最后一页的下一页，这样通过不停的点击下一页或者上一页的按钮就可以不停地循环浏览书中的所有页面"
 
 #: MorphicExtras-Books,BookMorph>>addBookToggleItemsTo:
 msgid "If set, the shorter form of page controls will be used when page controls are showing"
-msgstr "若设置，页面控制可显示为简短模式"
+msgstr "如果启用这一设置，显示页面控制按钮时会使用简洁模式"
 
 #: MorphicExtras-Books,BookMorph>>addBookToggleItemsTo:
 msgid "If set, when you resize the book, all of its pages get automatically resized."
-msgstr "若设置，当调整书本大小时，所有页面都将自动调整大小"
+msgstr "如果启用这一设置，在你调整书本大小时，所有页面的大小也将自动调整"
 
 #: MorphicExtras-Books,BookMorph>>addSaveAndRevertItemsTo:
 msgid "save for later revert..."
-msgstr "保存为恢复点"
+msgstr "保存为恢复点..."
 
 #: MorphicExtras-Books,BookMorph>>addTransitionItemsTo:
 msgid "Establish a sound-effect that should be used whenever there is a transition between any two pages of this book."
@@ -480,7 +480,7 @@ msgstr "为所有页面设置音效"
 
 #: MorphicExtras-Books,BookMorph>>addTransitionItemsTo:
 msgid "set sound effect for this page"
-msgstr "为此页设置音效"
+msgstr "为这一页设置音效"
 
 #: MorphicExtras-Books,BookMorph>>addTransitionItemsTo:
 msgid "set visual effect for all pages"
@@ -488,7 +488,7 @@ msgstr "为所有页面设置视觉效果"
 
 #: MorphicExtras-Books,BookMorph>>addTransitionItemsTo:
 msgid "set visual effect for this page"
-msgstr "为此页设置视觉效果"
+msgstr "为这一页设置视觉效果"
 
 #: MorphicExtras-Books,BookMorph>>addTransitionItemsTo:
 msgid "visual and sound effects..."
@@ -496,7 +496,7 @@ msgstr "视觉效果和音效..."
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "add a new page just like this one to0 the book."
-msgstr "添加一个如此页的新页面到书中"
+msgstr "在书中添加一个和这一页一样的新页面"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu,BookMorph>>invokeShortBookMenu,BookMorph_class>>descriptionForPartsBin,BookMorph_class>>registerInFlapsRegistry,BookMorph_class>>registerInFlapsRegistry,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap
 msgid "Book"
@@ -504,15 +504,15 @@ msgstr "书"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "create an icon representing this page"
-msgstr "创建一个代表此页的图标"
+msgstr "创建一个代表这一页的图标"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "duplicate this page"
-msgstr "复制此页"
+msgstr "复制这一页"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "find again"
-msgstr "重新查找"
+msgstr "重复查找"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu,BookMorph>>invokeShortBookMenu
 msgid "find..."
@@ -520,47 +520,47 @@ msgstr "查找..."
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "go directly to a page, if you know its page-number"
-msgstr "如果你知道页码，直接转到该页"
+msgstr "如果你知道页码，可以直接翻到那一页"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu,BookMorph>>invokeShortBookMenu
 msgid "go to page..."
-msgstr "转到页面..."
+msgstr "翻到页面..."
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "hand me a bookmark for this page"
-msgstr "给我一个此页的书签"
+msgstr "给我一个这一页的书签"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "hand me a thumbnail for this page"
-msgstr "给我一个此页的缩略图"
+msgstr "给我一个这一页的缩略图"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "make a bookmark object which, when clicked, will make the book turn to this page."
-msgstr "创建一个书签对象，点击该对象即可跳转到书签所在页"
+msgstr "创建一个书签物体，在点击它时，会使这本书翻到这一页。"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "open a tool allowing you to arrange the pages of the book."
-msgstr "打开一个工具，你可以整理书中页面"
+msgstr "打开一个工具，通过它你可以对书中的页面进行排列"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "restore all pages of this book to their initial condition if possible."
-msgstr "如果可能，恢复书中所有页面到初始状态"
+msgstr "尝试恢复书中所有页面到初始状态"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "restore this page to its initial condition, if possible."
-msgstr "如果可能恢复此页到初始状态"
+msgstr "尝试恢复这一页到初始状态"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu,BookMorph>>invokeShortBookMenu
 msgid "revert entire book"
-msgstr "还原整本书"
+msgstr "恢复整本书"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "search for the next occurrence of a string"
-msgstr "查找字符串的下一条"
+msgstr "查找下一个出现这个字符串的地方"
 
 #: MorphicExtras-Books,BookMorph>>bookMenu
 msgid "search the book for word(s)"
-msgstr "在书中查找字（词）"
+msgstr "在书中查找字或词"
 
 #: MorphicExtras-Books,BookMorph>>bookmarkForThisPage,BookMorph>>bookmarkForThisPage
 msgid "Bookmark"
@@ -602,11 +602,11 @@ msgstr "页面?"
 
 #: MorphicExtras-Books,BookMorph>>invokeShortBookMenu
 msgid "show more controls"
-msgstr "显示更多控制"
+msgstr "显示更多控制按钮"
 
 #: MorphicExtras-Books,BookMorph>>keepingUniformPageSizeString
 msgid "keep all pages the same size"
-msgstr "保持所有页面大小一致"
+msgstr "让所有页面的大小保持一致"
 
 #: MorphicExtras-Books,BookMorph>>menuPageSoundFor:event:
 msgid ""
@@ -728,7 +728,7 @@ msgstr ""
 
 #: MorphicExtras-Books,BookMorph>>usingPrivatePresenterString
 msgid "scripting area"
-msgstr "脚本区"
+msgstr "脚本作用区域"
 
 #: MorphicExtras-Books,BookPageSorterMorph>>addControls
 msgid "Accept the changes made here as the new page-order for this book"
@@ -756,11 +756,11 @@ msgstr "关闭"
 
 #: MorphicExtras-Books,BookPageThumbnailMorph>>addCustomMenuItems:hand:
 msgid "disable bookmark action"
-msgstr "阻止书签功能"
+msgstr "禁用书签功能"
 
 #: MorphicExtras-Books,BookPageThumbnailMorph>>addCustomMenuItems:hand:
 msgid "enable bookmark action"
-msgstr "开启书签功能"
+msgstr "启用书签功能"
 
 #: MorphicExtras-Books,BookPageThumbnailMorph>>addCustomMenuItems:hand:
 msgid "make a flex morph"
@@ -1018,7 +1018,7 @@ msgstr ""
 
 #: MorphicExtras-Flaps,Flaps_class>>addLocalFlap,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,FlapTab>>acquirePlausibleFlapID,FlapTab_class>>descriptionForPartsBin,FlapTab_class>>registerInFlapsRegistry
 msgid "Flap"
-msgstr "拍打"
+msgstr "滑动板"
 
 #: MorphicExtras-Flaps,Flaps_class>>addLocalFlap
 msgid "Where should the new flap cling?"
@@ -1042,23 +1042,23 @@ msgstr "画"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap
 msgid "A button to use with tile scripting; its script will be a method of its containing playfield"
-msgstr "平铺脚本时使用的按钮;其脚本将是它所包含播放区的一种方法"
+msgstr "与脚本片段结合使用的按钮；它的脚本将会成为它所在运动场的一个方法"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningWidgetsFlap,Flaps_class>>newLoneSuppliesFlap,RecordingControlsMorph_class>>formerDescriptionForPartsBin,RecordingControlsMorph_class>>registerInFlapsRegistry
 msgid "A device for making sound recordings."
-msgstr "制作录音的一种设备"
+msgstr "一种制作声音的设备"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap
 msgid "A joystick-like control"
-msgstr "一种类操纵杆的控制"
+msgstr "一种类似控制杆的控制器"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap,PasteUpMorph_class>>registerInFlapsRegistry,PasteUpMorph_class>>registerInFlapsRegistry,PasteUpMorph_class>>registerInFlapsRegistry
 msgid "A place for assembling parts or for staging animations"
-msgstr "一个组合局部或分段制作的场所"
+msgstr "一个用于组装部件或是演出动画的场所"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap,StandardScriptingSystem_class>>registerInFlapsRegistry,StandardScriptingSystem_class>>registerInFlapsRegistry
 msgid "A place for storing alternative pictures in an animation, etc."
-msgstr "存储影片中不同图片等的地方"
+msgstr "一个用于存放物体的场所，比如存放在动画中交替显示的图片等"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap,RectangleMorph_class>>registerInFlapsRegistry,RectangleMorph_class>>registerInFlapsRegistry
 msgid "A rectangle"
@@ -1066,7 +1066,7 @@ msgstr "一个矩形"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap,SimpleSliderMorph_class>>registerInFlapsRegistry,SimpleSliderMorph_class>>registerInFlapsRegistry,SimpleSliderMorph_class>>registerInFlapsRegistry
 msgid "A slider for showing and setting numeric values."
-msgstr "一个显示和设置数值的滑块"
+msgstr "一个用于显示和设置数值的滑块"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap,StarMorph_class>>registerInFlapsRegistry,StarMorph_class>>registerInFlapsRegistry
 msgid "A star"
@@ -1074,7 +1074,7 @@ msgstr "一个星号"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningWidgetsFlap,Flaps_class>>newLoneSuppliesFlap,TrashCanMorph_class>>registerInFlapsRegistry,TrashCanMorph_class>>registerInFlapsRegistry,TrashCanMorph_class>>registerInFlapsRegistry
 msgid "A tool for discarding objects"
-msgstr "一个用于存放被丢弃物体的工具"
+msgstr "一个用于丢弃物体的工具"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap
 msgid "A tool listing all the scripted objects in the project."
@@ -1110,11 +1110,11 @@ msgstr "套索"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap
 msgid "Make a new \"Sketch\" by designating a rectangular area of the screen"
-msgstr ""
+msgstr "通过指定屏幕中的一个矩形区域生成一幅新的“草图”"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap
 msgid "Make a new \"Sketch\" by \"lassoing\" an area of the screen"
-msgstr ""
+msgstr "通过“套住”屏幕中的一个区域生成一幅新的“草图”"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningWidgetsFlap,ObjectsTool_class>>registerInFlapsRegistry,ObjectsTool_class>>registerInFlapsRegistry
 msgid "Object Catalog"
@@ -1126,7 +1126,7 @@ msgstr "演员"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap,PasteUpMorph_class>>registerInFlapsRegistry,PasteUpMorph_class>>registerInFlapsRegistry,PasteUpMorph_class>>registerInFlapsRegistry
 msgid "Playfield"
-msgstr "播放区"
+msgstr "运动场"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap,RectangleMorph_class>>registerInFlapsRegistry,RectangleMorph_class>>registerInFlapsRegistry
 msgid "Rectangle"
@@ -1659,11 +1659,11 @@ msgstr ""
 
 #: MorphicExtras-Flaps,FlapTab_class>>helpMessage
 msgid "A flap to hold objects. For example, you can add a description of your project, or keep versions of sketches for later use. Use the flap tab's halo menu to adjust its properties."
-msgstr ""
+msgstr "一个用于存放物体的滑动板。比如，你可以给你的物体添加说明，或者在其中保存多个草图用于以后使用。通过滑动板标签的光晕菜单可以调整它的属性。"
 
 #: MorphicExtras-Flaps,FlapTab_class>>newStandAlone
 msgid "My Flap"
-msgstr ""
+msgstr "我的滑动板"
 
 #: MorphicExtras-Flaps,FlapTab>>addCustomMenuItems:hand:,ViewerFlapTab>>addCustomMenuItems:hand:
 msgid "destroy this flap"
@@ -2962,51 +2962,51 @@ msgstr "缩放画框"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "down"
-msgstr "下"
+msgstr "向下"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "down left"
-msgstr "下左"
+msgstr "向左下方"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "down right"
-msgstr "下右"
+msgstr "向右下方"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "in"
-msgstr "在"
+msgstr "竖直向内"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "in h"
-msgstr "h内"
+msgstr "水平向内"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "left"
-msgstr ""
+msgstr "向左"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "out"
-msgstr "外"
+msgstr "竖直向外"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "out h"
-msgstr "h外"
+msgstr "水平向外"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "right"
-msgstr ""
+msgstr "向右"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "up"
-msgstr "上"
+msgstr "向上"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "up left"
-msgstr "上左"
+msgstr "向左上方"
 
 #: MorphicExtras-Widgets,TransitionMorph_class>>directionsForEffect:
 msgid "up right"
-msgstr "上右"
+msgstr "向右上方"
 
 #: Morphic-Basic,AlignmentMorph_class>>supplementaryPartsDescriptions
 msgid "An object that presents the things within it in a column"

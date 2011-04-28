@@ -115,7 +115,7 @@ msgstr "新大小"
 
 #: Graphics-Primitives,Color>>addFillStyleMenuItems:hand:from:
 msgid "change color..."
-msgstr "改变颜色"
+msgstr "改变颜色..."
 
 #: Graphics-Text,TextStyle_class>>addNewStyle:
 msgid "new font name"

@@ -489,7 +489,7 @@ msgstr "注释"
 
 #: Connectors-Shapes,NCPinMorph>>offerToEmbedIn:
 msgid "Embed pin into..."
-msgstr "将别针嵌入..."
+msgstr "将物体嵌入..."
 
 #: Connectors-Shapes,NCPinMorph>>offerToEmbedIn:
 msgid "<do not embed>"

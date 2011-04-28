@@ -1102,7 +1102,7 @@ msgstr "容器"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,Flaps_class>>defaultsQuadsDefiningScriptingFlap,Flaps_class>>defaultsQuadsDefiningSuppliesFlap,Flaps_class>>newLoneSuppliesFlap
 msgid "Joystick"
-msgstr "操纵杆"
+msgstr "控制杆"
 
 #: MorphicExtras-Flaps,Flaps_class>>defaultsQuadsDefiningPlugInSuppliesFlap,LassoPatchMorph_class>>descriptionForPartsBin
 msgid "Lasso"
@@ -2221,7 +2221,7 @@ msgstr "选择图画..."
 
 #: MorphicExtras-Palettes,ReferenceMorph>>addCustomMenuItems:hand:
 msgid "repaint"
-msgstr ""
+msgstr "重画"
 
 #: MorphicExtras-Palettes,ReferenceMorph>>addCustomMenuItems:hand:
 msgid "use graphical label"

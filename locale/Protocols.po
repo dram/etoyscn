@@ -15,7 +15,7 @@ msgstr ""
 
 #: Protocols-Kernel,ObjectWithDocumentation>>editDescription
 msgid "Kindly edit the description"
-msgstr "友好编辑描述"
+msgstr "修改描述"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "arrowheads"

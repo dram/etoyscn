@@ -33,11 +33,11 @@ msgstr "修改第二个颜色"
 
 #: Balloon-Fills,GradientFillStyle>>addFillStyleMenuItems:hand:from:
 msgid "linear gradient"
-msgstr "线性梯度"
+msgstr "线性渐变"
 
 #: Balloon-Fills,GradientFillStyle>>addFillStyleMenuItems:hand:from:
 msgid "radial gradient"
-msgstr "径向梯度"
+msgstr "径向渐变"
 
 #: Balloon-Fills,OrientedFillStyle>>addFillStyleMenuItems:hand:from:
 msgid "change orientation"
@@ -230,19 +230,19 @@ msgstr "草图"
 
 #: Morphic-Basic,SketchMorph>>addBorderToShape:
 msgid "Please enter the desired border width"
-msgstr "请输入预定边框宽度"
+msgstr "请输入想要的边框宽度"
 
 #: Morphic-Basic,SketchMorph>>addCustomMenuItems:hand:
 msgid "call this my base graphic"
-msgstr "将此命名为我的基本绘图"
+msgstr "将现在的状态设置为我的初始图形"
 
 #: Morphic-Basic,SketchMorph>>addCustomMenuItems:hand:
 msgid "choose new graphic..."
-msgstr "选择新的图形"
+msgstr "选择新的图形..."
 
 #: Morphic-Basic,SketchMorph>>addCustomMenuItems:hand:
 msgid "restore base graphic"
-msgstr "回复基本绘图"
+msgstr "恢复到初始图形"
 
 #: Morphic-Basic,SketchMorph>>addCustomMenuItems:hand:
 msgid "set as background"
@@ -284,7 +284,7 @@ msgstr ""
 
 #: Morphic-Basic,SketchMorph>>restoreBaseGraphicFromMenu
 msgid "This object is *already* showing its baseGraphic"
-msgstr "此对象*已经*显示其基本绘图了"
+msgstr "这个物体已经显示为它的初始图形了"
 
 #: Morphic-Basic,SketchMorph>>useInterpolationString
 msgid "smooth image"
@@ -1344,15 +1344,15 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>addDropShadowMenuItems:hand:
 msgid "drop shadow"
-msgstr ""
+msgstr "显示阴影"
 
 #: Morphic-Kernel,Morph>>addDropShadowMenuItems:hand:
 msgid "shadow color..."
-msgstr "窗口颜色"
+msgstr "阴影颜色..."
 
 #: Morphic-Kernel,Morph>>addDropShadowMenuItems:hand:
 msgid "shadow offset..."
-msgstr ""
+msgstr "阴影偏移..."
 
 #: Morphic-Kernel,Morph>>addEmbeddingMenuItemsTo:hand:
 msgid "desktop"
@@ -1384,7 +1384,7 @@ msgstr "JPEG文件"
 
 #: Morphic-Kernel,Morph>>addFillStyleMenuItems:hand:,PasteUpMorph>>presentDesktopColorMenu,TextMorph>>addFillStyleMenuItems:hand:
 msgid "bitmap fill"
-msgstr ""
+msgstr "位图填充"
 
 #: Morphic-Kernel,Morph>>addFillStyleMenuItems:hand:
 msgid "change color..."
@@ -1392,15 +1392,15 @@ msgstr "改变颜色"
 
 #: Morphic-Kernel,Morph>>addFillStyleMenuItems:hand:,PasteUpMorph>>presentDesktopColorMenu,TextMorph>>addFillStyleMenuItems:hand:
 msgid "default fill"
-msgstr ""
+msgstr "默认填充"
 
 #: Morphic-Kernel,Morph>>addFillStyleMenuItems:hand:,TextMorph>>addFillStyleMenuItems:hand:
 msgid "fill style"
-msgstr ""
+msgstr "填充样式"
 
 #: Morphic-Kernel,Morph>>addFillStyleMenuItems:hand:,PasteUpMorph>>presentDesktopColorMenu,TextMorph>>addFillStyleMenuItems:hand:
 msgid "gradient fill"
-msgstr "填充Gradient"
+msgstr "渐变填充"
 
 #: Morphic-Kernel,Morph>>addFillStyleMenuItems:hand:,PasteUpMorph>>presentDesktopColorMenu,TextMorph>>addFillStyleMenuItems:hand:
 msgid "solid fill"
@@ -1520,7 +1520,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>addMiscExtrasTo:
 msgid "adhere to edge..."
-msgstr ""
+msgstr "粘附到边框..."
 
 #: Morphic-Kernel,Morph>>addMiscExtrasTo:
 msgid "arrowheads on pen trails..."
@@ -1528,23 +1528,23 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>addMiscExtrasTo:
 msgid "balloon help for this object"
-msgstr ""
+msgstr "这个物体的气球帮助"
 
 #: Morphic-Kernel,Morph>>addMiscExtrasTo:
 msgid "delete existing path"
-msgstr ""
+msgstr "删除当前轨迹"
 
 #: Morphic-Kernel,Morph>>addMiscExtrasTo:
 msgid "draw new path"
-msgstr ""
+msgstr "绘制新的轨迹"
 
 #: Morphic-Kernel,Morph>>addMiscExtrasTo:
 msgid "extras..."
-msgstr ""
+msgstr "更多..."
 
 #: Morphic-Kernel,Morph>>addMiscExtrasTo:
 msgid "follow existing path"
-msgstr ""
+msgstr "沿着当前轨迹移动"
 
 #: Morphic-Kernel,Morph>>addMiscExtrasTo:
 msgid "GeeMail stuff..."
@@ -1572,11 +1572,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>addPaintingItemsTo:hand:
 msgid "add a border around this shape..."
-msgstr ""
+msgstr "为这个形状加上一个边框..."
 
 #: Morphic-Kernel,Morph>>addPaintingItemsTo:hand:
 msgid "erase pixels of color"
-msgstr "清除颜色的像素..."
+msgstr "清除指定颜色的像素"
 
 #: Morphic-Kernel,Morph>>addPaintingItemsTo:hand:,MovieMorph>>addCustomMenuItems:hand:
 msgid "insert into movie"
@@ -1584,11 +1584,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>addPaintingItemsTo:hand:
 msgid "painting..."
-msgstr ""
+msgstr "绘画..."
 
 #: Morphic-Kernel,Morph>>addPaintingItemsTo:hand:
 msgid "recolor pixels of color"
-msgstr "重新为像素上色"
+msgstr "重新为指定颜色的像素上色"
 
 #: Morphic-Kernel,Morph>>addPaintingItemsTo:hand:
 msgid "reduce color palette"
@@ -1604,27 +1604,27 @@ msgstr "设置前进方向"
 
 #: Morphic-Kernel,Morph>>addPaintingItemsTo:hand:
 msgid "restore original aspect ratio"
-msgstr ""
+msgstr "恢复原来的长宽比"
 
 #: Morphic-Kernel,Morph>>addPaintingItemsTo:hand:,MovieMorph>>addCustomMenuItems:hand:
 msgid "set rotation center"
-msgstr ""
+msgstr "设置旋转中心"
 
 #: Morphic-Kernel,Morph>>addPaintingItemsTo:hand:
 msgid "set rotation style"
-msgstr "旋转样式"
+msgstr "设置旋转形式"
 
 #: Morphic-Kernel,Morph>>addStandardHaloMenuItemsTo:hand:
 msgid "bring to front"
-msgstr ""
+msgstr "移到最前面"
 
 #: Morphic-Kernel,Morph>>addStandardHaloMenuItemsTo:hand:
 msgid "embed..."
-msgstr ""
+msgstr "嵌入..."
 
 #: Morphic-Kernel,Morph>>addStandardHaloMenuItemsTo:hand:
 msgid "present a menu of potential embeddeding targets for this object, and embed it in the one chosen."
-msgstr ""
+msgstr "显示一个包含这个物体可以嵌入的目标的菜单，并将它嵌入到选择的目标中"
 
 #: Morphic-Kernel,Morph>>addTableLayoutMenuItems:hand:
 msgid "cell positioning"
@@ -1676,43 +1676,43 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>addToggleItemsToHaloMenu:
 msgid "when \"locked\", I am inert to all user interactions"
-msgstr ""
+msgstr "当被锁定时，所有与我的交互将会无效"
 
 #: Morphic-Kernel,Morph>>addToggleItemsToHaloMenu:
 msgid "whether direction handles are shown with the halo"
-msgstr ""
+msgstr "是否将方向控制手柄与光晕菜单一起显示"
 
 #: Morphic-Kernel,Morph>>addToggleItemsToHaloMenu:
 msgid "whether I am open to having objects dropped into me"
-msgstr ""
+msgstr "是否允许将其它物体移进我这里"
 
 #: Morphic-Kernel,Morph>>addToggleItemsToHaloMenu:
 msgid "whether I should be reistant to easy deletion via the pink X handle"
-msgstr ""
+msgstr "是否需要阻止通过简单地点击粉色“X”控制按钮删除我"
 
 #: Morphic-Kernel,Morph>>addToggleItemsToHaloMenu:
 msgid "whether I should be resistant to a drag done by mousing down on me"
-msgstr ""
+msgstr "是否需要阻止我被鼠标拖动"
 
 #: Morphic-Kernel,Morph>>addToggleItemsToHaloMenu:
 msgid "whether my corners should be rounded"
-msgstr ""
+msgstr "是否需要圆角化我的边角"
 
 #: Morphic-Kernel,Morph>>addToggleItemsToHaloMenu:
 msgid "whether the parts of objects within me that are outside my bounds should be masked."
-msgstr ""
+msgstr "如果在我里面的物体超出了我的边界，是否需要隐藏超出部分"
 
 #: Morphic-Kernel,Morph>>adhereToEdge
 msgid "bottom"
-msgstr ""
+msgstr "底部"
 
 #: Morphic-Kernel,Morph>>adhereToEdge
 msgid "bottom left"
-msgstr ""
+msgstr "左下方"
 
 #: Morphic-Kernel,Morph>>adhereToEdge
 msgid "bottom right"
-msgstr ""
+msgstr "右下方"
 
 #: Morphic-Kernel,Morph>>adhereToEdge
 msgid "center"
@@ -1720,23 +1720,23 @@ msgstr "居中"
 
 #: Morphic-Kernel,Morph>>adhereToEdge
 msgid "left"
-msgstr ""
+msgstr "左边"
 
 #: Morphic-Kernel,Morph>>adhereToEdge
 msgid "right"
-msgstr ""
+msgstr "右边"
 
 #: Morphic-Kernel,Morph>>adhereToEdge
 msgid "top"
-msgstr "停止"
+msgstr "顶部"
 
 #: Morphic-Kernel,Morph>>adhereToEdge
 msgid "top left"
-msgstr "上左"
+msgstr "左上方"
 
 #: Morphic-Kernel,Morph>>adhereToEdge
 msgid "top right"
-msgstr "上右"
+msgstr "右上方"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Center of rotation (hold down shift key and drag to change it)"
@@ -1856,7 +1856,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Repaint"
-msgstr "重新绘制"
+msgstr "重画"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Rotate"
@@ -2004,7 +2004,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>editBalloonHelpContent:
 msgid "Edit the balloon help text for "
-msgstr ""
+msgstr "修改气球帮助内容："
 
 #: Morphic-Kernel,Morph>>editMenuButtonDefinition
 msgid " menu definition"
@@ -2024,11 +2024,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>hasClipSubmorphsString
 msgid "provide clipping"
-msgstr ""
+msgstr "启用裁剪"
 
 #: Morphic-Kernel,Morph>>hasDirectionHandlesString
 msgid "direction handles"
-msgstr ""
+msgstr "显示方向控制手柄"
 
 #: Morphic-Kernel,Morph>>hasDisableTableLayoutString
 msgid "disable layout in tables"
@@ -2040,11 +2040,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>hasDragAndDropEnabledString
 msgid "accept drops"
-msgstr ""
+msgstr "允许移入"
 
 #: Morphic-Kernel,Morph>>hasDropShadowString
 msgid "show shadow"
-msgstr ""
+msgstr "显示阴影"
 
 #: Morphic-Kernel,Morph>>hasInlineAnchorString
 msgid "Inline"
@@ -2080,7 +2080,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>lockedString
 msgid "be locked"
-msgstr ""
+msgstr "锁定"
 
 #: Morphic-Kernel,Morph>>makeGraphPaper
 msgid "Choose a background color"
@@ -2096,7 +2096,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>makeMultipleSiblings:
 msgid "how many siblings do you want?"
-msgstr ""
+msgstr "你想要多少个同胞？"
 
 #: Morphic-Kernel,Morph>>maybeAddCollapseItemTo:
 msgid "collapse"
@@ -2128,7 +2128,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>resistsRemovalString
 msgid "resist being deleted"
-msgstr ""
+msgstr "阻止被删除"
 
 #: Morphic-Kernel,Morph>>roundedCornersString
 msgid "round corners"
@@ -2162,7 +2162,7 @@ msgstr "将别针嵌入..."
 
 #: Morphic-Kernel,Morph>>stickinessString
 msgid "resist being picked up"
-msgstr ""
+msgstr "阻止被抓起"
 
 #: Morphic-Kernel,Morph>>targetFromMenu:popupAt:
 msgid "Target for {1}"
@@ -4237,7 +4237,7 @@ msgstr "调整透明度"
 
 #: Morphic-Widgets,ColorPickerMorph>>initializeForPropertiesPanel,ColorPickerMorph>>initializeModal:
 msgid "restore original color"
-msgstr "恢复原始颜色"
+msgstr "恢复原来的颜色"
 
 #: Morphic-Widgets,ColorPickerMorph>>initializeForPropertiesPanel,ColorPickerMorph>>initializeModal:
 msgid "shows selected color"
@@ -4245,15 +4245,15 @@ msgstr "显示选中的颜色"
 
 #: Morphic-Widgets,ColorPickerMorph>>initializeModal:
 msgid "dismiss color picker"
-msgstr "释放拾色器"
+msgstr "关闭颜色选择器"
 
 #: Morphic-Widgets,ColorPickerMorph>>initializeModal:
 msgid "move this color-picker to another position, and keep it on the screen until dismissed with the X button  "
-msgstr "移动拾色器到另一个位置，保持在屏幕上知道用X键释放掉"
+msgstr "移动颜色选择器到另一个位置，在屏幕中保持显示直到通过“X”按钮关闭"
 
 #: Morphic-Widgets,ColorPickerMorph>>initializeModal:
 msgid "open a full property sheet"
-msgstr "打开一个全属性表"
+msgstr "打开一个完整的属性表"
 
 #: Morphic-Widgets,HaloMorph>>addDirectionHandles
 msgid "Forward direction (hold down shift key and drag to change it)"
@@ -4305,7 +4305,7 @@ msgstr "当开启自动对中心功能时，每次你释放操纵杆手柄，它
 
 #: Morphic-Widgets,JoystickMorph>>autoCenterString
 msgid "auto-center"
-msgstr "自动对中心"
+msgstr "自动中心对齐"
 
 #: Morphic-Widgets,JoystickMorph>>chooseJoystickNumber
 msgid "Joystick device number (currently {1})"
@@ -4479,7 +4479,7 @@ msgstr "使无法拖动"
 
 #: Morphic-Windows,CollapsedMorph>>buildWindowMenu,Morph>>addStandardHaloMenuItemsTo:hand:,SystemWindow>>buildWindowMenu
 msgid "send to back"
-msgstr "移至最后"
+msgstr "移到最后面"
 
 #: Morphic-Windows,FillInTheBlankMorph>>createAcceptButton
 msgid "Accept(s)"

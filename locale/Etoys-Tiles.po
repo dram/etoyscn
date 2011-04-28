@@ -1457,7 +1457,7 @@ msgstr "光标处y"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "base graphic"
-msgstr "基本绘图"
+msgstr "初始图形"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "Flip the picture left to right"
@@ -1493,7 +1493,7 @@ msgstr "将我的图片存于我的基本绘图中"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "restore base graphic"
-msgstr "回复基本绘图"
+msgstr "恢复到初始图形"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "rotation style"
@@ -1825,7 +1825,7 @@ msgstr "填充&边界"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "gradient fill"
-msgstr "填充Gradient"
+msgstr "渐变填充"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "radial fill"
@@ -1833,7 +1833,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
 msgid "rounded corners"
-msgstr "圆角"
+msgstr "圆角边框"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "second color"

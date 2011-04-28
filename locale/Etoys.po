@@ -29,7 +29,7 @@ msgstr "按钮"
 
 #: Etoys-Buttons,ButtonProperties>>establishEtoyLabelWording,ScriptActivationButton>>establishLabelWording
 msgid "click to run the script \"{1}\" in player named \"{2}\""
-msgstr "单击在名为 \"{2}\"的播放器中执行脚本 \"{1}\""
+msgstr "点击这里将在演员“{2}”中执行脚本“{1}”"
 
 #: Etoys-Buttons,ButtonProperties>>setActionSelector
 msgid ""
@@ -301,7 +301,7 @@ msgstr "偏移"
 
 #: Etoys-Experimental,ObjectPropertiesMorph>>paneForSolidFillToggle
 msgid " Solid fill"
-msgstr "实心填充"
+msgstr "纯色填充"
 
 #: Etoys-Experimental,ObjectPropertiesMorph>>paneForSolidFillToggle
 msgid "Turn solid fill on or off"
@@ -1073,7 +1073,7 @@ msgstr "添加参数"
 
 #: Etoys-Scripting,Player>>infoFor:inViewer:,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu
 msgid "button to fire this script"
-msgstr "解雇这个脚本的按钮"
+msgstr "用于执行这个脚本的按钮"
 
 #: Etoys-Scripting,Player>>infoFor:inViewer:
 msgid "destroy \""
@@ -1231,7 +1231,7 @@ msgstr "添加查找面板"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu,ScriptInstantiation>>offerMenuIn:
 msgid "choose this to obtain a tile which represents the object associated with this script"
-msgstr ""
+msgstr "点击这里获得一个代表与这个脚本相关联的物体的代码片段"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu,ScriptInstantiation>>offerMenuIn:,ScriptInstantiation>>offerShiftedMenuIn:
 msgid "grab this object"
@@ -1239,7 +1239,7 @@ msgstr "抓住这个物体"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:
 msgid "If you have misplaced the object that this Viewer is looking at, use this item to (try to) make it visible"
-msgstr "如果你将该浏览器正在查看的对象放错了位置，使用该条目使其（尝试使其）可见化"
+msgstr "如果你将这个“观察器”所查看的物体放错了位置，可以使用这一功能尝试让它可见"
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:,ScriptInstantiation>>offerMenuIn:
 msgid "more..."
@@ -1256,7 +1256,7 @@ msgstr ""
 
 #: Etoys-Scripting,Player>>offerViewerMenuFor:event:,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu,ScriptInstantiation>>offerMenuIn:
 msgid "tile representing this object"
-msgstr ""
+msgstr "代表这个物体的脚本片段"
 
 #: Etoys-Scripting,Player>>renameScript:
 msgid "Script Name"
@@ -1551,11 +1551,11 @@ msgstr "分开的方法面板"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu
 msgid "edit balloon help for this script"
-msgstr "编辑该脚本的帮助"
+msgstr "编辑这个脚本的气球帮助"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu
 msgid "explain status alternatives"
-msgstr "解释状态选项"
+msgstr "说明可选的脚本状态"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu
 msgid "fires per tick..."
@@ -1563,7 +1563,7 @@ msgstr "每个嘀嗒的射击数..."
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu,ScriptInstantiation>>offerMenuIn:
 msgid "If you have misplaced the object bearing this script, use this item to (try to) make it visible"
-msgstr "如果你将该浏览器正在查看的对象放错了位置，使用该条目使其（尝试使其）可见化"
+msgstr "如果你将这个脚本所对应的物体放错了位置，可以使用这一功能尝试让它可见"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu
 msgid "open a little window that shows the Smalltalk code underlying this script."
@@ -1571,31 +1571,31 @@ msgstr "打开一个小窗口显示脚本中的Smalltalk代码"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu
 msgid "open the viewer of the object to which this script belongs"
-msgstr "打开该脚本属于的对象的浏览器"
+msgstr "打开这个脚本所属物体的观察器"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu
 msgid "open viewer"
-msgstr "打开浏览器"
+msgstr "打开观察器"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu
 msgid "revert to tile version"
-msgstr "返回片段版本"
+msgstr "恢复脚本片段方式显示"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu
 msgid "revert to tile version..."
-msgstr "返回片段版本..."
+msgstr "恢复脚本片段版本到..."
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu
 msgid "save this version"
-msgstr "保存该版本"
+msgstr "保存这个版本"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu
 msgid "show code textually"
-msgstr "显示编码文本"
+msgstr "以文本方式显示代码"
 
 #: Etoys-Scripting,ScriptEditorMorph>>offerScriptorMenu,ScriptEditorMorph>>offerSimplerScriptorMenu,ScriptInstantiation>>offerMenuIn:
 msgid "This will actually pick up the object bearing this script and hand it to you.  Click the (left) button to drop it"
-msgstr "这将拣出该浏览器正在查看的对象，传递给你。点击（左侧的）按钮以放下它"
+msgstr "可以找出这个脚本所对应的物体并将它交给你。点击鼠标（左键）可以放下它"
 
 #: Etoys-Scripting,ScriptEditorMorph>>showingCaretsString
 msgid "show arrows"
@@ -2351,19 +2351,19 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>addPlayerItemsTo:
 msgid "indicate all siblings"
-msgstr ""
+msgstr "显示所有同胞"
 
 #: Morphic-Kernel,Morph>>addPlayerItemsTo:
 msgid "Make any number of sibling instances all at once"
-msgstr ""
+msgstr "一次生成任意多个同胞"
 
 #: Morphic-Kernel,Morph>>addPlayerItemsTo:
 msgid "Makes another morph whose player is of the same class as this one.  Both siblings will share the same scripts"
-msgstr ""
+msgstr "生成另一个morph，它的演员和这一个morph的演员属于同一类型。所有同胞共享相同的脚本"
 
 #: Morphic-Kernel,Morph>>addPlayerItemsTo:
 msgid "make a sibling instance"
-msgstr ""
+msgstr "生成一个同胞"
 
 #: Morphic-Kernel,Morph>>addPlayerItemsTo:
 msgid "make all my sibling instances look like me."
@@ -2375,15 +2375,15 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>addPlayerItemsTo:
 msgid "make multiple siblings..."
-msgstr ""
+msgstr "生成多个同胞..."
 
 #: Morphic-Kernel,Morph>>addPlayerItemsTo:
 msgid "momentarily show, by flashing , all of my visible siblings."
-msgstr ""
+msgstr "暂时地闪烁显示我的所有可见的同胞。"
 
 #: Morphic-Kernel,Morph>>addPlayerItemsTo:
 msgid "siblings..."
-msgstr ""
+msgstr "同胞..."
 
 #: Morphic-Kernel,Morph>>addStackItemsTo:
 msgid "Background field, individual values"

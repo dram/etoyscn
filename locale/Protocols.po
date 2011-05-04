@@ -63,27 +63,27 @@ msgstr "颜色"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "complex alt framed"
-msgstr "alt+复合框架"
+msgstr "复杂的反向框架"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "complex alt inset"
-msgstr "alt+复合插入"
+msgstr "复杂的反向嵌入"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "complex alt raised"
-msgstr "alt+复合增加"
+msgstr "复杂的反向凸起"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "complex framed"
-msgstr "复合框架"
+msgstr "复杂框架"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "complex inset"
-msgstr "复合插入"
+msgstr "复杂嵌入"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "complex raised"
-msgstr "复合增加"
+msgstr "复杂凸起"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "do not rotate"
@@ -111,7 +111,7 @@ msgstr "整体正方"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "inset"
-msgstr "插入"
+msgstr "嵌入"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "justified"
@@ -151,7 +151,7 @@ msgstr "无"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "raised"
-msgstr "增加"
+msgstr "凸起"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "right center"
@@ -175,7 +175,7 @@ msgstr "收缩包"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "simple"
-msgstr "简单的"
+msgstr "简单"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "space fill"

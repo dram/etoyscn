@@ -2864,19 +2864,19 @@ msgstr "成星星状的对称多边形"
 
 #: MorphicExtras-Widgets,StarMorph>>addChangeSidesMenuItems:hand:
 msgid "fewer sides"
-msgstr "减少一角"
+msgstr "减少一个角"
 
 #: MorphicExtras-Widgets,StarMorph>>addChangeSidesMenuItems:hand:
 msgid "more sides"
-msgstr "增加一角"
+msgstr "增加一个角"
 
 #: MorphicExtras-Widgets,StarMorph>>addTwinkleMenuItems:hand:
 msgid "twinkle fatter"
-msgstr "星星变胖一些"
+msgstr "让星星变胖一些"
 
 #: MorphicExtras-Widgets,StarMorph>>addTwinkleMenuItems:hand:
 msgid "twinkle thinner"
-msgstr "星星变瘦一些"
+msgstr "让星星变瘦一些"
 
 #: MorphicExtras-Widgets,StringButtonMorph_class>>defaultNameStemForInstances
 msgid "SButton"

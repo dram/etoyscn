@@ -65,7 +65,7 @@ msgstr "连接符附着点，该连接符可被嵌入另一个变种"
 
 #: Morphic-Basic,CircleMorph_class>>supplementaryPartsDescriptions
 msgid "Circle"
-msgstr "圆圈"
+msgstr "圆"
 
 #: Morphic-Basic,CircleMorph_class>>supplementaryPartsDescriptions
 msgid "Connectors"
@@ -193,11 +193,11 @@ msgstr ""
 
 #: Morphic-Basic,PolygonMorph>>handlesShowingPhrase
 msgid "show handles"
-msgstr "显示手柄"
+msgstr "显示控制手柄"
 
 #: Morphic-Basic,PolygonMorph>>openOrClosePhrase
 msgid "closed"
-msgstr "已关闭"
+msgstr "闭合的"
 
 #: Morphic-Basic,PolygonMorph>>smoothPhrase
 msgid "curve"
@@ -213,12 +213,12 @@ msgid ""
 "where the 4th ityem is zero, and the 5th is the number of pixels\n"
 "by which the dashes will move in each step of animation]"
 msgstr ""
-"输入一个划线规范\n"
-"{长划线长度.短划线长度.短划线颜色}\n"
-"长划线使用一般边框的颜色.\n"
-"敲空格即可删除划线规范.\n"
-"[注意:你可以设置五项参数,例如,{10.5.白色.0.3}\n"
-"第四项为0,第五项是划线在动画每一步移动的像素数]"
+"输入一个虚线规范，\n"
+"格式为：{ 长线长度. 短线长度. 短线颜色 }\n"
+"长线的颜色与边框的颜色相同。\n"
+"留空将会清除虚线规范。\n"
+"【注意：你也可以指定五个参数，例如 {10. 5. Color white. 0. 3}\n"
+"其中第四项为0，第五项表示虚线在动画中每一步移动的像素】"
 
 #: Morphic-Basic,RectangleMorph_class>>descriptionForPartsBin
 msgid "A rectangular shape, with border and fill style"
@@ -791,7 +791,7 @@ msgstr ""
 
 #: Morphic-Games,ChineseCheckers_class>>descriptionForPartsBin
 msgid "ChineseCheckers"
-msgstr ""
+msgstr "跳棋"
 
 #: Morphic-Games,ChineseCheckers_class>>descriptionForPartsBin
 msgid "Halma - the classic board game of Chinese Checkers, written by Dan Ingalls"
@@ -997,7 +997,7 @@ msgstr ""
 
 #: Morphic-Games,FreeCell_class>>descriptionForPartsBin
 msgid "FreeCell"
-msgstr ""
+msgstr "空当接龙"
 
 #: Morphic-Games,FreeCell>>helpText
 msgid ""
@@ -1030,7 +1030,7 @@ msgstr "帮助!"
 
 #: Morphic-Games,FreeCell>>makeNewGameButton,SameGame>>makeControls,Tetris>>makeGameControls
 msgid "New game"
-msgstr ""
+msgstr "新游戏"
 
 #: Morphic-Games,FreeCell>>makePickGameButton
 msgid "Pick game"
@@ -1042,7 +1042,7 @@ msgstr "退出"
 
 #: Morphic-Games,FreeCell>>makeSameGameButton
 msgid "Same game"
-msgstr ""
+msgstr "重玩本局"
 
 #: Morphic-Games,FreeCell>>makeStatisticsButton
 msgid "Statistics"
@@ -1113,7 +1113,7 @@ msgstr ""
 
 #: Morphic-Games,Mines_class>>descriptionForPartsBin
 msgid "Mines"
-msgstr "直线"
+msgstr "扫雷"
 
 #: Morphic-Games,Mines>>helpString
 msgid ""
@@ -1133,11 +1133,11 @@ msgstr ""
 
 #: Morphic-Games,Mines>>makeControls
 msgid "Mines:"
-msgstr "直线"
+msgstr "地雷："
 
 #: Morphic-Games,Mines>>makeControls
 msgid "Time:"
-msgstr "时间"
+msgstr "时间："
 
 #: Morphic-Games,PlayingCard_class>>initialize
 msgid "corrupted imageData"
@@ -1153,7 +1153,7 @@ msgstr ""
 
 #: Morphic-Games,SameGame_class>>descriptionForPartsBin
 msgid "Same"
-msgstr "保存"
+msgstr "消方块"
 
 #: Morphic-Games,SameGame>>helpString
 msgid ""
@@ -1230,11 +1230,11 @@ msgstr ""
 
 #: Morphic-Games-Chess,ChessMorph_class>>descriptionForPartsBin
 msgid "Chess"
-msgstr ""
+msgstr "国际象棋"
 
 #: Morphic-Games-Chess,ChessMorph_class>>descriptionForPartsBin,ChineseCheckers_class>>descriptionForPartsBin,CipherPanel_class>>descriptionForPartsBin,CrosticPanel_class>>descriptionForPartsBin,FreeCell_class>>descriptionForPartsBin,Mines_class>>descriptionForPartsBin,SameGame_class>>descriptionForPartsBin
 msgid "Games"
-msgstr ""
+msgstr "游戏"
 
 #: Morphic-Games-Chess,ChessMorph>>addButtonRow
 msgid "  Auto  "
@@ -1274,15 +1274,15 @@ msgstr ""
 
 #: Morphic-Kernel,BorderedMorph>>addBorderStyleMenuItems:hand:
 msgid "border color..."
-msgstr "线条边界颜色宽度"
+msgstr "边框颜色..."
 
 #: Morphic-Kernel,BorderedMorph>>addBorderStyleMenuItems:hand:
 msgid "border style..."
-msgstr "边框风格"
+msgstr "边框风格..."
 
 #: Morphic-Kernel,BorderedMorph>>addBorderStyleMenuItems:hand:
 msgid "border width..."
-msgstr "线条边界宽度"
+msgstr "边框宽度..."
 
 #: Morphic-Kernel,BorderedMorph>>changeBorderWidth:
 msgid "border change"
@@ -1864,7 +1864,7 @@ msgstr "旋转"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "See the script for this button"
-msgstr ""
+msgstr "查看这个按钮的脚本"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Set center of rotation"
@@ -2166,7 +2166,7 @@ msgstr "阻止被抓起"
 
 #: Morphic-Kernel,Morph>>targetFromMenu:popupAt:
 msgid "Target for {1}"
-msgstr ""
+msgstr "{1}的目标"
 
 #: Morphic-Kernel,Morph>>undoGrabCommand
 msgid "move "
@@ -4013,7 +4013,7 @@ msgstr ""
 
 #: Morphic-Menus,MenuMorph>>addCustomMenuItems:hand:,MouseDownMorph>>addCustomMenuItems:hand:
 msgid "set target..."
-msgstr "设置目标"
+msgstr "设置目标..."
 
 #: Morphic-PartsBin,PartsWindow>>addCustomMenuItems:hand:
 msgid "parts window controls..."
@@ -4361,7 +4361,7 @@ msgstr "直尺"
 
 #: Morphic-Widgets,SimpleButtonMorph>>addCustomMenuItems:hand:
 msgid "change action selector"
-msgstr "改变动作选择器"
+msgstr "更改动作选择器"
 
 #: Morphic-Widgets,SimpleButtonMorph>>addCustomMenuItems:hand:
 msgid "change arguments"
@@ -4369,7 +4369,7 @@ msgstr "修改参数"
 
 #: Morphic-Widgets,SimpleButtonMorph>>addCustomMenuItems:hand:
 msgid "change when to act"
-msgstr "改变动作时机"
+msgstr "更改动作的时机"
 
 #: Morphic-Widgets,SimpleButtonMorph>>addCustomMenuItems:hand:
 msgid "clear target"
@@ -4399,11 +4399,11 @@ msgstr "请输入按下此按钮时/n要发送到目标的选择器名"
 
 #: Morphic-Widgets,SimpleButtonMorph>>setActWhen
 msgid "buttonDown"
-msgstr "单击鼠标左键"
+msgstr "当按下鼠标时"
 
 #: Morphic-Widgets,SimpleButtonMorph>>setActWhen
 msgid "buttonUp"
-msgstr "双击鼠标左键"
+msgstr "当松开鼠标时"
 
 #: Morphic-Widgets,SimpleButtonMorph>>setActWhen
 msgid "Choose one of the following conditions"
@@ -4411,11 +4411,11 @@ msgstr "选择下列条件之一"
 
 #: Morphic-Widgets,SimpleButtonMorph>>setActWhen
 msgid "startDrag"
-msgstr "开始拖动"
+msgstr ""
 
 #: Morphic-Widgets,SimpleButtonMorph>>setActWhen
 msgid "whilePressed"
-msgstr "当按下时"
+msgstr "当鼠标处于按下状态时"
 
 #: Morphic-Widgets,SimpleButtonMorph>>setArguments
 msgid ""
@@ -4816,7 +4816,7 @@ msgstr ""
 
 #: Morphic-Worlds,PasteUpMorph>>findWindow:,TheWorldMenu>>windowsMenu
 msgid "find window"
-msgstr "找到窗口"
+msgstr "寻找窗口"
 
 #: Morphic-Worlds,PasteUpMorph>>griddingString
 msgid "use gridding"

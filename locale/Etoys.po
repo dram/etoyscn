@@ -879,7 +879,7 @@ msgstr ""
 
 #: Etoys-Scripting,CategoryViewer>>arrowSetterButtonFor:type:,CategoryViewer>>arrowSetterButton:args:
 msgid "drag from here to obtain an assignment phrase."
-msgstr "从这里拖动以获取一个分配短语。"
+msgstr "从这里拖动可以获得一个赋值语句。"
 
 #: Etoys-Scripting,CategoryViewer>>chooseCategory
 msgid "category"
@@ -1293,7 +1293,7 @@ msgstr "小数点以后几位？（当前是{1}）"
 
 #: Etoys-Scripting,Player>>slotInfoButtonHitFor:inViewer:
 msgid "change value type"
-msgstr "修改值类型 "
+msgstr "改变值的类型"
 
 #: Etoys-Scripting,Player>>slotInfoButtonHitFor:inViewer:
 msgid "grab morph"
@@ -1521,7 +1521,9 @@ msgstr "其他..."
 msgid ""
 "Caution -- this destroys this script\n"
 "permanently; are you sure you want to do this?"
-msgstr "注意--这将永久毁掉该脚本；你确定要这么做？"
+msgstr ""
+"注意！这将会永久删除这个脚本；\n"
+"你确定要这么做吗？"
 
 #: Etoys-Scripting,ScriptEditorMorph>>destroyScript
 msgid ""
@@ -1758,14 +1760,16 @@ msgstr "点击这里修改演员姓名。"
 msgid ""
 "click here to add a variable\n"
 "to this object."
-msgstr "点击这里为对象添加变量"
+msgstr ""
+"点击这里为这个物体\n"
+"添加一个变量"
 
 #: Etoys-Scripting,StandardViewer>>addHeaderMorphWithBarHeight:includeDismissButton:
 msgid ""
 "click here to add\n"
 "another category pane"
 msgstr ""
-"点击这里添加"
+"点击这里添加\n"
 "一个分类面板"
 
 #: Etoys-Scripting,StandardViewer>>addHeaderMorphWithBarHeight:includeDismissButton:

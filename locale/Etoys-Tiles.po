@@ -669,7 +669,7 @@ msgstr "死亡"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryObservation
 msgid "distance to"
-msgstr "距离到"
+msgstr "到...距离"
 
 #: Etoys-StarSqueak,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryBasic,Morph_class>>additionsToViewerCategoryMotion
 msgid "forward by"
@@ -1341,23 +1341,23 @@ msgstr "缠绕方向"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Add a vertex at my current cursor position"
-msgstr "在当前光标位置添加一个顶点"
+msgstr "在当前游标所在的位置添加一个顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Add a vertex at the beginning of my vertices list"
-msgstr "在顶点列表开头添加一个顶点"
+msgstr "在顶点列表的开头添加一个顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Add a vertex to the end of my vertices list"
-msgstr "在顶点列表末尾添加一个顶点"
+msgstr "在顶点列表的末尾添加一个顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "add a vertex at beginning"
-msgstr "在起点处添加一个顶点"
+msgstr "在开头添加一个顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "add a vertex at end"
-msgstr "在终点处添加一个顶点"
+msgstr "在末尾添加一个顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories,StarMorph_class>>additionsToViewerCategories
 msgid "How many vertices are within me"
@@ -1365,15 +1365,15 @@ msgstr "此内有多少个顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "insert a vertex at cursor"
-msgstr "在光标处添加一个顶点"
+msgstr "在游标处插入一顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "line is curved"
-msgstr "线条是弧形的"
+msgstr "线条是曲线的"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "line is opened"
-msgstr "线条是开放的"
+msgstr "线条是打开的"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "polygon"
@@ -1381,27 +1381,27 @@ msgstr "多边形"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Remove a vertex at the vertex cursor"
-msgstr "删除顶点光标处的顶点"
+msgstr "删除顶点游标处的顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Remove all vertices but my current cursor position vertex"
-msgstr "删除当前光标位置顶点以外的所有顶点"
+msgstr "删除当前游标所在顶点之外的所有其它顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Remove the vertex at my current cursor position"
-msgstr "删除当前光标位置的顶点"
+msgstr "删除当前游标所在的顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "remove all vertices but cursor"
-msgstr "删除光标以外的所有顶点"
+msgstr "删除游标之外的所有其它顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "remove at vertex cursor"
-msgstr "删除顶点光标"
+msgstr "删除顶点游标"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "remove the vertex at cursor"
-msgstr "删除光标的顶点"
+msgstr "删除游标所在的顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Shuffle the vertices"
@@ -1417,43 +1417,43 @@ msgstr "随机顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "The index of the chosen vertex of vertices"
-msgstr "被选中顶点在顶点集中的编号"
+msgstr "被选中顶点在顶点集合中的编号"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "The x coodinate value at the vertex cursor"
-msgstr "顶点光标处的x坐标值"
+msgstr "顶点游标处的x坐标值"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "The y coodinate value at the vertex cursor"
-msgstr "顶点光标处的y标值"
+msgstr "顶点游标处的y坐标值"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "vertex cursor"
-msgstr "顶点光标"
+msgstr "顶点游标"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories,StarMorph_class>>additionsToViewerCategories
 msgid "vertices count"
-msgstr "顶点数"
+msgstr "顶点个数"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Whether the handles are showing"
-msgstr "手柄是否显示"
+msgstr "是否显示控制手柄"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Whether the line is curved"
-msgstr "线条是否为弧形"
+msgstr "线条是否是曲线的"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "Whether the line is opened"
-msgstr "线条是否为开放的"
+msgstr "线条是否是打开的"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "x at cursor"
-msgstr "光标处x"
+msgstr "游标处x"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "y at cursor"
-msgstr "光标处y"
+msgstr "游标处y"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "base graphic"
@@ -1461,11 +1461,11 @@ msgstr "初始图形"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "Flip the picture left to right"
-msgstr ""
+msgstr "左右翻转图形"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "Flip the picture upside down"
-msgstr ""
+msgstr "上下翻转图形"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "flip left right"
@@ -1489,7 +1489,7 @@ msgstr ""
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "Make my picture be the one I remember in my baseGraphic"
-msgstr "将我的图片存于我的基本绘图中"
+msgstr "把我的图形恢复到我在初始图形中保存的样子"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "restore base graphic"
@@ -1501,11 +1501,11 @@ msgstr "旋转样式"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
 msgid "The picture currently being worn"
-msgstr "当前被损坏的图片"
+msgstr "当前显示的图片"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "The picture originally painted for this object, but can subsequently be changed via menu or script"
-msgstr "此对象的最初绘图，其后可通过菜单或脚本修改"
+msgstr "这个物体最初绘制的形状，但这个可以通过菜单或者脚本进行修改"
 
 #: Morphic-Basic,SketchMorph_class>>additionsToViewerCategories
 msgid "wear the costume of..."
@@ -1841,7 +1841,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "shadow color"
-msgstr "窗口颜色"
+msgstr "阴影颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "The color of the drop shadow"
@@ -1889,7 +1889,7 @@ msgstr "设置前进方向"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
 msgid "geometry"
-msgstr "几何学"
+msgstr "几何"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "left"
@@ -1929,11 +1929,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "top"
-msgstr "停止"
+msgstr "顶部"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryInput,PasteUpMorph_class>>additionsToViewerCategoryInput
 msgid "input"
-msgstr ""
+msgstr "输入"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryInput,PasteUpMorph_class>>additionsToViewerCategoryInput
 msgid "last keystroke"
@@ -1989,15 +1989,15 @@ msgstr "容器"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "make the object invisible"
-msgstr ""
+msgstr "让这个物体不可见"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "make the object visible"
-msgstr ""
+msgstr "让这个物体可见"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "miscellaneous"
-msgstr "混杂的"
+msgstr "杂项"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "my index in my container"
@@ -2013,7 +2013,7 @@ msgstr "返回该turtle的一个副本"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "show"
-msgstr "说明"
+msgstr "显示"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "stamp"
@@ -2025,7 +2025,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "the object's container"
-msgstr ""
+msgstr "这个物体的容器"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "distance"
@@ -2037,15 +2037,15 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "length"
-msgstr ""
+msgstr "长度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "location"
-msgstr ""
+msgstr "方位"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "more geometry"
-msgstr ""
+msgstr "更多几何"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "rotation center x"
@@ -2093,7 +2093,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry,SimpleSliderMorph_class>>additionsToViewerCategories
 msgid "width"
-msgstr ""
+msgstr "宽度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
 msgid "align after"
@@ -2189,7 +2189,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "The distance to another object"
-msgstr "到另一对象的距离"
+msgstr "到另一物体的距离"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "The heading I would need to have to face directly toward another object"
@@ -2451,19 +2451,19 @@ msgstr "色 碰到"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "is over color"
-msgstr ""
+msgstr "在...颜色的上面"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "is under mouse"
-msgstr ""
+msgstr "在鼠标下面"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "overlaps"
-msgstr "重叠的部分"
+msgstr "和...重叠"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "overlaps any"
-msgstr ""
+msgstr "和任何...重叠"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "tests"
@@ -2475,15 +2475,15 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "whether any part of the object is over the given color"
-msgstr ""
+msgstr "是否这个物体的一部分处于指定颜色上面"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "whether I overlap a given object"
-msgstr ""
+msgstr "我是否和指定的一个物体相重叠"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "whether I overlap a given object or one of its siblings or similar objects"
-msgstr ""
+msgstr "我是否和指定的一个物体、它的一个同胞或是相似物体相重叠"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "whether I overlap any  Sketch that is showing the same picture as a particular prototype."
@@ -2495,7 +2495,7 @@ msgstr "指定的前一个颜色是否碰到指定的后一个颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "whether the object is under the current mouse position"
-msgstr ""
+msgstr "这个物体当前是否处于鼠标的下面"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "world geometry"
@@ -2607,7 +2607,7 @@ msgstr "声音拨号"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,SketchMorph_class>>additionsToViewerCategories,VideoMorph_class>>additionsToViewerCategories
 msgid "graphic"
-msgstr "图表"
+msgstr "图形"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
 msgid "How many elements are within me"
@@ -2687,7 +2687,7 @@ msgstr "游戏场"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
 msgid "Remove all elements from the playfield"
-msgstr "删除游戏场内所有组件"
+msgstr "删除运动场内的所有元素"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
 msgid "remove all"

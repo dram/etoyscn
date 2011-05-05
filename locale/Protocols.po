@@ -23,7 +23,7 @@ msgstr "箭头"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "arrows"
-msgstr "箭号"
+msgstr "箭"
 
 #: Protocols-Kernel,Vocabulary_class>>initializeStandardVocabularies
 msgid "bottom center"

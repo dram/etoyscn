@@ -1270,7 +1270,7 @@ msgstr ""
 
 #: Morphic-Kernel,BorderedMorph>>addBorderStyleMenuItems:hand:
 msgid "border"
-msgstr ""
+msgstr "边框"
 
 #: Morphic-Kernel,BorderedMorph>>addBorderStyleMenuItems:hand:
 msgid "border color..."
@@ -2108,7 +2108,7 @@ msgstr "点击这里显示菜单，其中包含更多选项"
 
 #: Morphic-Kernel,Morph>>noHelpString
 msgid "Help not yet supplied"
-msgstr ""
+msgstr "还没有提供帮助内容"
 
 #: Morphic-Kernel,Morph>>printPSToFileNamed:
 msgid "Choose orientation..."
@@ -4824,7 +4824,7 @@ msgstr "使用网格"
 
 #: Morphic-Worlds,PasteUpMorph>>gridVisibleString
 msgid "grid visible when gridding"
-msgstr "使用网格时网格可见"
+msgstr "在网格启用时显示网格"
 
 #: Morphic-Worlds,PasteUpMorph>>indicateCursorString
 msgid "indicate cursor"
@@ -4908,11 +4908,11 @@ msgstr "必须是一个具有坐标的点（例如10@10）"
 
 #: Morphic-Worlds,PasteUpMorph>>setGridSpec
 msgid "New grid origin (usually 0@0):"
-msgstr "新的起始网格（通常是0@0）"
+msgstr "新的网格原点（通常是0@0）："
 
 #: Morphic-Worlds,PasteUpMorph>>setGridSpec
 msgid "New grid spacing:"
-msgstr "新的网格空间"
+msgstr "新的网格间距："
 
 #: Morphic-Worlds,PasteUpMorph>>showSourceKeyHit
 msgid "etoys source"

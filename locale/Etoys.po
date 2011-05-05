@@ -189,7 +189,7 @@ msgstr "这种边框风格不能在这里使用"
 
 #: Etoys-Experimental,ObjectPropertiesMorph>>paneFor2ndGradientColorPicker
 msgid "2nd gradient color"
-msgstr "第二种过度色"
+msgstr "第二种渐变色"
 
 #: Etoys-Experimental,ObjectPropertiesMorph>>paneForBorderColorPicker
 msgid "Border Color"
@@ -257,7 +257,7 @@ msgstr "拖拽到这里改变坡度的方向"
 
 #: Etoys-Experimental,ObjectPropertiesMorph>>paneForGradientFillToggle
 msgid " Gradient fill"
-msgstr "填充Gradient"
+msgstr "渐变填充"
 
 #: Etoys-Experimental,ObjectPropertiesMorph>>paneForGradientFillToggle
 msgid "Turn gradient fill on or off"
@@ -285,7 +285,7 @@ msgstr "颜色"
 
 #: Etoys-Experimental,ObjectPropertiesMorph>>paneForRadialGradientToggle
 msgid " Radial gradient"
-msgstr "星形gradient"
+msgstr "径向渐变"
 
 #: Etoys-Experimental,ObjectPropertiesMorph>>paneForRadialGradientToggle
 msgid "Turn radial gradient on or off"
@@ -477,7 +477,7 @@ msgstr "拖&拉"
 
 #: Etoys-Protocols,EToyVocabulary_class>>masterOrderingOfCategorySymbols
 msgid "fill & border"
-msgstr "填充&边界"
+msgstr "填充和边框"
 
 #: Etoys-Protocols,EToyVocabulary_class>>masterOrderingOfCategorySymbols,StandardViewer>>likelyCategoryToShow
 msgid "geometry"
@@ -505,7 +505,7 @@ msgstr "观察"
 
 #: Etoys-Protocols,EToyVocabulary_class>>masterOrderingOfCategorySymbols
 msgid "pen use"
-msgstr "使用笔"
+msgstr "笔的使用"
 
 #: Etoys-Protocols,EToyVocabulary_class>>masterOrderingOfCategorySymbols
 msgid "scripting"
@@ -2588,11 +2588,11 @@ msgstr "{1}[或者更多]修复(s)制造"
 
 #: Morphic-Worlds,PasteUpMorph>>autoExpansionString
 msgid "auto-phrase-expansion"
-msgstr "自动-短语-扩展"
+msgstr "自动扩展脚本片段"
 
 #: Morphic-Worlds,PasteUpMorph>>autoViewingString
 msgid "automatic viewing"
-msgstr "自动观察"
+msgstr "自动打开观察器"
 
 #: Morphic-Worlds,PasteUpMorph>>batchPenTrailsString
 msgid "batch pen trails"
@@ -2626,7 +2626,7 @@ msgstr ""
 
 #: Morphic-Worlds,PasteUpMorph>>fenceEnabledString
 msgid "fence enabled"
-msgstr "启用防护"
+msgstr "启用栅栏"
 
 #: Morphic-Worlds,PasteUpMorph>>modernizeBJProject
 msgid "Supplies"
@@ -2654,7 +2654,7 @@ msgstr "删除构成背景的图表"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "governs whether, when an object is touched inside me, a viewer should automatically be launched for it"
-msgstr "管理当一个物体被解除时，是否应该自动打开一个视图"
+msgstr "当一个物体被点击时，是否自动打开一个观察器"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "if currently showing thumbnails governs the standard height for them"
@@ -2674,7 +2674,7 @@ msgstr "制作图表纸"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "playfield options"
-msgstr "游戏场选项"
+msgstr "运动场选项"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "Rearranges my contents in random order"
@@ -2694,11 +2694,11 @@ msgstr ""
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "Set the spacing to be used when gridding is on"
-msgstr "当开启网格时设置使用空间"
+msgstr "设置在开启网格时网格的间距"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "set grid spacing..."
-msgstr "设置网格空间"
+msgstr "设置网格间距..."
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "set thumbnail height..."
@@ -2730,7 +2730,7 @@ msgstr "从内部拖拽一个物体是否应该产生该物体的备份"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether gridding should be used in my interior"
-msgstr "在内部是否应该使用网格"
+msgstr "是否需要在我的里面使用网格"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether I should automatically strive exactly to fit my contents"
@@ -2742,7 +2742,7 @@ msgstr "大物体是否应该由它们自己的缩略图模型代表"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether moving objects should stop at the edge of their container"
-msgstr "运动的物体是否应该在达到容器边缘时停止"
+msgstr "物体是否应该在到达容器边缘时停止运动"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether objects should put up halos when the mouse is over them"
@@ -2758,7 +2758,7 @@ msgstr ""
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether the grid should be shown when gridding is on"
-msgstr "当开启网格时是否应该显示网格"
+msgstr "是否在开启网格时显示网格"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether the \"current\" submorph should be indicated with a dark black border"
@@ -2766,7 +2766,7 @@ msgstr "是否应该用深黑色边界指示出\"当前\"\\子图形"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether tile phrases, dropped on me, should automatically sprout Scriptors around them"
-msgstr ""
+msgstr "在将脚本片段拖放到我这里时，是否自动生成脚本"
 
 #: Morphic-Worlds,PasteUpMorph>>presentViewMenu,TheWorldMenu>>fullScriptingMenu,TheWorldMenu>>scriptingMenu
 msgid "A tool that lets you find out about all the players used in this project"

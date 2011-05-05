@@ -481,7 +481,7 @@ msgstr "右边缘样式"
 
 #: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories,KedamaPatchMorph_class>>additionsToViewerCategories,KedamaTurtleMorph_class>>additionsToViewerCategories,Morph_class>>additionsToViewerCategoryColor,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
 msgid "The color of the object"
-msgstr "该对象颜色"
+msgstr "这个物体的颜色"
 
 #: Etoys-StarSqueak,KedamaMorph_class>>additionsToViewerCategories
 msgid "the display scale"
@@ -1721,11 +1721,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
 msgid "drag & drop"
-msgstr "拖&拉"
+msgstr "拖放"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
 msgid "drop enabled"
-msgstr ""
+msgstr "允许移入"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
 msgid "resist being picked up"
@@ -1733,23 +1733,23 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
 msgid "resist deletion"
-msgstr ""
+msgstr "阻止被删除"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
 msgid "Whether a simple mouse-drag on this object should allow it to be picked up"
-msgstr ""
+msgstr "是否允许通过简单地在这个物体上拖动鼠标来抓起它"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
 msgid "Whether drop is enabled"
-msgstr ""
+msgstr "是否允许移入"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
 msgid "Whether this is resistant to easy removal via the pink X halo handle."
-msgstr ""
+msgstr "是否需要阻止通过简单地点击粉色“X”光晕控制按钮删除这个物体"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryDragAndDrop
 msgid "Whether this object should be blind to all input"
-msgstr ""
+msgstr "这个物体是否忽略所有输入"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryEmbeddings
 msgid "A count of my embedded objects that want to act as pins for connections"
@@ -1821,7 +1821,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "fill & border"
-msgstr "填充&边界"
+msgstr "填充和边框"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "gradient fill"
@@ -1829,7 +1829,7 @@ msgstr "渐变填充"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "radial fill"
-msgstr ""
+msgstr "径向渐变"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
 msgid "rounded corners"
@@ -1837,7 +1837,7 @@ msgstr "圆角边框"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "second color"
-msgstr ""
+msgstr "第二渐变色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "shadow color"
@@ -1845,39 +1845,39 @@ msgstr "阴影颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "The color of the drop shadow"
-msgstr ""
+msgstr "阴影的颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
 msgid "The color of the object's border"
-msgstr ""
+msgstr "这个物体边框的颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "The second color used when gradientFill is in effect"
-msgstr ""
+msgstr "在启用渐变填充时使用的第二种颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "The style of the object's border"
-msgstr ""
+msgstr "这个物体边框的风格"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
 msgid "The width of the object's border"
-msgstr ""
+msgstr "这个物体边框的宽度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "Whether a drop shadow is shown"
-msgstr ""
+msgstr "是否显示阴影"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "Whether a gradient fill should be used"
-msgstr ""
+msgstr "是否使用渐变填充"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder,ScriptActivationButton_class>>additionsToViewerCategories,ScriptableButton_class>>additionsToViewerCategories
 msgid "Whether corners should be rounded"
-msgstr ""
+msgstr "是否使用圆角"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryFillAndBorder
 msgid "Whether the gradient fill, if used, should be radial"
-msgstr ""
+msgstr "如果启用渐变填充，是否使用径向渐变"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "bottom"
@@ -1885,7 +1885,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry
 msgid "forward direction"
-msgstr "设置前进方向"
+msgstr "前进方向"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,NCAAConnectorMorph_class>>additionsToViewerCategoryGeometry
 msgid "geometry"
@@ -1901,31 +1901,31 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry
 msgid "scale factor"
-msgstr ""
+msgstr "比例因子"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry
 msgid "The angle of my forward direction without rotating myself"
-msgstr ""
+msgstr "我的前进方向，并不旋转我自己"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "The bottom edge"
-msgstr ""
+msgstr "下边框"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry
 msgid "The factor by which the object is magnified"
-msgstr ""
+msgstr "这个物体缩放的比例"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "The left edge"
-msgstr ""
+msgstr "左边框"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "The right edge"
-msgstr ""
+msgstr "右边框"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "The top edge"
-msgstr ""
+msgstr "上边框"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "top"
@@ -1937,11 +1937,11 @@ msgstr "输入"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryInput,PasteUpMorph_class>>additionsToViewerCategoryInput
 msgid "last keystroke"
-msgstr ""
+msgstr "最近的按键"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryInput,PasteUpMorph_class>>additionsToViewerCategoryInput
 msgid "The last unhandled keystroke"
-msgstr ""
+msgstr "最近的没有处理的按键"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryLayout
 msgid "clip submorphs"
@@ -1953,23 +1953,23 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "add my image to the pen trails"
-msgstr ""
+msgstr "在笔迹中添加我的形象"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "add my image to the pen trails and go away"
-msgstr ""
+msgstr "在笔迹中添加我的形象，然后离开"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "copy"
-msgstr ""
+msgstr "复制"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "do menu item"
-msgstr ""
+msgstr "执行菜单项"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "do the menu item"
-msgstr ""
+msgstr "执行指定菜单项"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "element number"
@@ -1977,11 +1977,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "erase"
-msgstr ""
+msgstr "删除"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "hide"
-msgstr ""
+msgstr "隐藏"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "holder"
@@ -2005,11 +2005,11 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "remove this object from the screen"
-msgstr ""
+msgstr "从屏幕中删除这个物体"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "returns a copy of this object"
-msgstr "返回该turtle的一个副本"
+msgstr "返回这个物体的一个副本"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "show"
@@ -2017,11 +2017,11 @@ msgstr "显示"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "stamp"
-msgstr ""
+msgstr "盖章"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "stamp and erase"
-msgstr ""
+msgstr "盖章并删除"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMiscellaneous
 msgid "the object's container"
@@ -2029,11 +2029,11 @@ msgstr "这个物体的容器"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "distance"
-msgstr ""
+msgstr "距离"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "heading theta"
-msgstr ""
+msgstr "方向角"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "length"
@@ -2041,7 +2041,7 @@ msgstr "长度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "location"
-msgstr "方位"
+msgstr "位置"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "more geometry"
@@ -2049,47 +2049,47 @@ msgstr "更多几何"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "rotation center x"
-msgstr ""
+msgstr "旋转中心x坐标"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "rotation center y"
-msgstr ""
+msgstr "旋转中心y坐标"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "The angle between the positive x-axis and the vector connecting the origin to the object's position"
-msgstr ""
+msgstr "从原点到这个物体的向量与X轴正半轴的夹角"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "The angle, in degrees, that my heading vector makes with the positive x-axis"
-msgstr ""
+msgstr "我的方向向量与X轴正半轴的夹角"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry
 msgid "The length"
-msgstr ""
+msgstr "这个物体的长度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "The length of the vector connecting the origin to the object's position"
-msgstr ""
+msgstr "从原点到这个物体的向量的长度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "The position of the object, expressed as a point"
-msgstr ""
+msgstr "这个物体的位置，用一个点表示"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry,SimpleSliderMorph_class>>additionsToViewerCategories
 msgid "The width"
-msgstr ""
+msgstr "这个物体的宽度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "The x coordinate of rotation center in parent's coordinate system."
-msgstr ""
+msgstr "旋转中心在这个物体的容器的坐标系统中的x坐标值"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "The y coordinate of rotation center in parent's coordinate system."
-msgstr ""
+msgstr "旋转中心在这个物体的容器的坐标系统中的y坐标值"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry
 msgid "theta"
-msgstr ""
+msgstr "角度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMoreGeometry,Morph_class>>additionsToViewerCategoryWorldGeometry,SimpleSliderMorph_class>>additionsToViewerCategories
 msgid "width"
@@ -2117,7 +2117,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
 msgid "motion"
-msgstr "运动"
+msgstr "移动"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
 msgid "move toward"
@@ -2125,7 +2125,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion
 msgid "move toward the given object"
-msgstr "转向给定的对象"
+msgstr "向指定的物体转动"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryMotion,Morph_class>>additionsToViewerCategoryTests
 msgid "obtrudes"
@@ -2157,19 +2157,19 @@ msgstr ""
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "bearing to"
-msgstr ""
+msgstr "与...的角度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "brightness under"
-msgstr ""
+msgstr "下面颜色的亮度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "color under"
-msgstr ""
+msgstr "下面的颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "luminance under"
-msgstr ""
+msgstr "下面颜色的明度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "observation"
@@ -2177,15 +2177,15 @@ msgstr "观察"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "saturation under"
-msgstr ""
+msgstr "下面颜色的饱和度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "The brightness under the center of the object"
-msgstr ""
+msgstr "在这个物体的中心下面的颜色的亮度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "The color under the center of the object"
-msgstr ""
+msgstr "在这个物体的中心下面的颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "The distance to another object"
@@ -2193,15 +2193,15 @@ msgstr "到另一物体的距离"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "The heading I would need to have to face directly toward another object"
-msgstr ""
+msgstr "要直接朝向另一物体需要转动的角度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "The luminance under the center of the object"
-msgstr ""
+msgstr "在这个物体的中心下面的颜色的明度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryObservation
 msgid "The saturation under the center of the object"
-msgstr ""
+msgstr "在这个物体的中心下面的颜色的饱合度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "clear all pen trails"
@@ -2209,19 +2209,19 @@ msgstr "清除所有笔的痕迹"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "clear all pen trails in my containing playfield"
-msgstr "在我的容器中清除所有笔的痕迹"
+msgstr "在包含我的运动场中清除所有笔的痕迹"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "determines whether lines, arrows, arrowheads, or dots are used when I put down a pen trail"
-msgstr "在我使用笔的时候，确定是否使用了线条、箭号、箭头或者点"
+msgstr "确定在我使用笔的时候是使用线、箭、箭头还是点"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "diameter of dot to use when trailStyle is dots"
-msgstr "当痕迹是点时，所使用的点的直径"
+msgstr "当笔触风格是“点”时点的直径"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "dot size"
-msgstr "点尺寸"
+msgstr "点的大小"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "pen color"
@@ -2229,7 +2229,7 @@ msgstr "笔的颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "pen down"
-msgstr ""
+msgstr "下笔"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "pen size"
@@ -2237,11 +2237,11 @@ msgstr "笔的大小"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "pen use"
-msgstr "使用笔"
+msgstr "笔的使用"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "the color of ink used by the pen"
-msgstr "钢笔水的颜色"
+msgstr "笔的颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "the width of the pen"
@@ -2249,11 +2249,11 @@ msgstr "笔的宽度"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "trail style"
-msgstr "痕迹的风格"
+msgstr "笔触风格"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "whether the pen is currently down"
-msgstr ""
+msgstr "当前笔是否处于使用状态"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryScripting
 msgid "do"
@@ -2345,11 +2345,11 @@ msgstr "脚本"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySound
 msgid "play frequency of"
-msgstr ""
+msgstr "发出...频率的声音"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySound
 msgid "play sound"
-msgstr "打开声音"
+msgstr "发出声音"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySound,PasteUpMorph_class>>additionsToViewerCategories,WsWorldStethoscopeMorph_class>>additionsToViewerCategories
 msgid "sound"
@@ -2357,93 +2357,93 @@ msgstr "声音"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySound,Morph_class>>additionsToViewerCategorySound
 msgid "stop sound"
-msgstr "关闭声音"
+msgstr "停止声音"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles,SpeechBubbleMorph_class>>additionsToViewerCategoryBubble
 msgid "bubble"
-msgstr ""
+msgstr "气泡"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "Erase all speech bubbles attached to this object, if any"
-msgstr ""
+msgstr "清除属于这个物体的所有对话气泡"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "Show a number in a speech bubble"
-msgstr ""
+msgstr "在一个对话气泡中显示一个数"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "Show a number in a thought bubble"
-msgstr ""
+msgstr "在一个思考气泡中显示一个数"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "Show a picture in a speech bubble"
-msgstr ""
+msgstr "在一个对话气泡中显示一张图片"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "Show a picture in a thought bubble"
-msgstr ""
+msgstr "在一个思考气泡中显示一张图片"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "Show a text in a speech bubble"
-msgstr ""
+msgstr "在一个对话气泡中显示一段文字"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "Show a text in a thought bubble"
-msgstr ""
+msgstr "在一个思考气泡中显示一段文字"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "Show an object in a speech bubble"
-msgstr ""
+msgstr "在一个对话气泡中显示一个物体"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "Show an object in a thought bubble"
-msgstr ""
+msgstr "在一个思考气泡中显示一个物体"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 #, fuzzy
 msgid "say graphic"
-msgstr "基本绘图"
+msgstr "说图形"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "say number"
-msgstr ""
+msgstr "说数"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 #, fuzzy
 msgid "say object"
-msgstr "作为对象"
+msgstr "说物体"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "say text"
-msgstr ""
+msgstr "说文字"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "speech bubbles"
-msgstr ""
+msgstr "对话气泡"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "stop saying or thinking"
-msgstr ""
+msgstr "不说不想"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "The bubble currently attached to this object"
-msgstr ""
+msgstr "当前附加在这个物体上的气泡"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "think graphic"
-msgstr ""
+msgstr "想图形"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "think number"
-msgstr ""
+msgstr "想数字"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "think object"
-msgstr ""
+msgstr "想物体"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategorySpeechBubbles
 msgid "think text"
-msgstr ""
+msgstr "想文字"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryTests
 msgid "color  sees"
@@ -2539,7 +2539,7 @@ msgstr "按钮2"
 
 #: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
 msgid "joystick"
-msgstr "操纵杆"
+msgstr "控制杆"
 
 #: Morphic-Widgets,JoystickMorph_class>>additionsToViewerCategories
 msgid "left right"
@@ -2840,7 +2840,7 @@ msgstr ""
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
 msgid "fence enabled"
-msgstr "启用防护"
+msgstr "启用栅栏"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategoryPreferences
 msgid "implicit self in tiles"

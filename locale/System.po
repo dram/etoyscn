@@ -921,7 +921,7 @@ msgstr "百宝箱"
 
 #: System-Support,Project>>setFlaps
 msgid "Tools"
-msgstr ""
+msgstr "工具"
 
 #: System-Support,Project>>setFlaps
 msgid "Widgets"

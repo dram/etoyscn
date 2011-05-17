@@ -197,7 +197,7 @@ msgstr "显示控制手柄"
 
 #: Morphic-Basic,PolygonMorph>>openOrClosePhrase
 msgid "closed"
-msgstr "闭合的"
+msgstr "闭合"
 
 #: Morphic-Basic,PolygonMorph>>smoothPhrase
 msgid "curve"
@@ -1784,7 +1784,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Duplicate (press shift to make a sibling)"
-msgstr ""
+msgstr "复制（按住shift键可以生成一个同胞）"
 
 #: Morphic-Kernel,Morph>>balloonHelpTextForHandle:
 msgid "Emphasis & alignment"
@@ -2084,15 +2084,15 @@ msgstr "锁定"
 
 #: Morphic-Kernel,Morph>>makeGraphPaper
 msgid "Choose a background color"
-msgstr ""
+msgstr "选择一个背景色"
 
 #: Morphic-Kernel,Morph>>makeGraphPaper
 msgid "Choose a line color"
-msgstr ""
+msgstr "选择一个线条的颜色"
 
 #: Morphic-Kernel,Morph>>makeGraphPaper
 msgid "Enter grid size"
-msgstr ""
+msgstr "输入格子大小"
 
 #: Morphic-Kernel,Morph>>makeMultipleSiblings:
 msgid "how many siblings do you want?"
@@ -3881,7 +3881,7 @@ msgstr "颜色..."
 
 #: Morphic-Mentoring,InteriorSugarNavBar>>addCustomMenuItems:hand:
 msgid "destroy this flap"
-msgstr ""
+msgstr "删除这个滑动板"
 
 #: Morphic-Mentoring,InteriorSugarNavBar>>addCustomMenuItems:hand:
 msgid "height..."
@@ -3905,7 +3905,7 @@ msgstr "条的新高度"
 
 #: Morphic-Mentoring,InteriorSugarNavBar>>edgeString
 msgid "cling to edge... (current: {1})"
-msgstr ""
+msgstr "粘附到边框...（当前：{1}）"
 
 #: Morphic-Mentoring,InteriorSugarNavBar>>finishInitialization
 msgid "Navigator Flap"
@@ -4780,7 +4780,7 @@ msgstr ""
 
 #: Morphic-Worlds,PasteUpMorph>>autoLineLayoutString
 msgid "auto-line-layout"
-msgstr "自动-线-展开"
+msgstr "自动按行排列"
 
 #: Morphic-Worlds,PasteUpMorph>>buildDebugMenu:
 msgid "abandon costume history"
@@ -4828,7 +4828,7 @@ msgstr "在网格启用时显示网格"
 
 #: Morphic-Worlds,PasteUpMorph>>indicateCursorString
 msgid "indicate cursor"
-msgstr "指示光标"
+msgstr "显示游标"
 
 #: Morphic-Worlds,PasteUpMorph>>innocuousName
 msgid "flap"
@@ -4848,11 +4848,11 @@ msgstr "零件箱"
 
 #: Morphic-Worlds,PasteUpMorph>>mouseOverHalosString
 msgid "mouse-over halos"
-msgstr "鼠标进入异常"
+msgstr "鼠标悬停时显示光晕菜单"
 
 #: Morphic-Worlds,PasteUpMorph>>originAtCenterString
 msgid "origin-at-center"
-msgstr "从中央开始"
+msgstr "以中心为原点"
 
 #: Morphic-Worlds,PasteUpMorph>>presentCardAndStackMenu
 msgid "add new card"
@@ -4900,7 +4900,7 @@ msgstr "笔迹"
 
 #: Morphic-Worlds,PasteUpMorph>>resizeToFitString
 msgid "resize to fit"
-msgstr "改变大小使适合"
+msgstr "自动调整大小"
 
 #: Morphic-Worlds,PasteUpMorph>>setGridSpec,PasteUpMorph>>setGridSpec
 msgid "Must be a Point with coordinates (for example 10@10)"

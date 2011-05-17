@@ -1365,7 +1365,7 @@ msgstr "此内有多少个顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "insert a vertex at cursor"
-msgstr "在游标处插入一顶点"
+msgstr "在游标处插入一个顶点"
 
 #: Morphic-Basic,PolygonMorph_class>>additionsToViewerCategories
 msgid "line is curved"
@@ -2241,7 +2241,7 @@ msgstr "笔的使用"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "the color of ink used by the pen"
-msgstr "笔的颜色"
+msgstr "墨水的颜色"
 
 #: Morphic-Kernel,Morph_class>>additionsToViewerCategoryPenUse
 msgid "the width of the pen"
@@ -2695,7 +2695,7 @@ msgstr "删除所有"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
 msgid "round up strays"
-msgstr ""
+msgstr "集合走失的物体"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories,PasteUpMorph_class>>additionsToViewerCategories
 msgid "Send a message to all the objects inside the playfield"
@@ -2711,7 +2711,7 @@ msgstr "清洗游戏场内容"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
 msgid "shuffle contents"
-msgstr "清洗内容"
+msgstr "随机摆放内容"
 
 #: Morphic-Worlds,PasteUpMorph_class>>additionsToViewerCategories
 msgid "sound level"

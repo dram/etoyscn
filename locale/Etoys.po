@@ -87,35 +87,35 @@ msgstr "显示项目更多信息"
 
 #: Etoys-Experimental,EToyProjectDetailsMorph>>fieldToDetailsMappings
 msgid "Author"
-msgstr "作者："
+msgstr "作者"
 
 #: Etoys-Experimental,EToyProjectDetailsMorph>>fieldToDetailsMappings
 msgid "Description"
-msgstr "描述："
+msgstr "描述"
 
 #: Etoys-Experimental,EToyProjectDetailsMorph>>fieldToDetailsMappings
 msgid "Region"
-msgstr ""
+msgstr "地区"
 
 #: Etoys-Experimental,EToyProjectDetailsMorph>>fieldToDetailsMappings
 msgid "Subject"
-msgstr ""
+msgstr "主题"
 
 #: Etoys-Experimental,EToyProjectDetailsMorph>>fieldToDetailsMappings
 msgid "Tags"
-msgstr "制表符"
+msgstr "制签"
 
 #: Etoys-Experimental,EToyProjectDetailsMorph>>fieldToDetailsMappings
 msgid "Target Age"
-msgstr ""
+msgstr "适宜年龄"
 
 #: Etoys-Experimental,EToyProjectDetailsMorph>>rebuild
 msgid "Please describe this project"
-msgstr "请描述该项目"
+msgstr "请描述这个作品"
 
 #: Etoys-Experimental,EToyProjectDetailsMorph>>rebuild,EToyProjectQueryMorph>>rebuild
 msgid "Project Name"
-msgstr ""
+msgstr "作品名称"
 
 #: Etoys-Experimental,EToyProjectHistoryMorph_class>>descriptionForPartsBin
 msgid "A tool that lets you navigate back to recently-visited projects"
@@ -2612,7 +2612,7 @@ msgstr ""
 
 #: Morphic-Worlds,PasteUpMorph>>behaveLikeAHolderString
 msgid "behave like a holder"
-msgstr "表现得如一个容器"
+msgstr "作为一个容器使用"
 
 #: Morphic-Worlds,PasteUpMorph>>deleteBackgroundPainting
 msgid ""
@@ -2638,11 +2638,11 @@ msgstr "允许该区域可以独立地自我控制"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "Bring back all objects whose current coordinates keep them from being visible, so that at least a portion of each of my interior objects can be seen."
-msgstr "拿回所有由于当前坐标使它们不可见的物体，这样至少一部分物体可以被看见"
+msgstr "拿回所有由于当前坐标使它们不可见的物体，这样在我里面的每一个物体至少部分是可以被看见的"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "Design your own graph paper and use it as the background texture here."
-msgstr "设计你自己的图表纸并且在这里以背景纹理使用"
+msgstr "设计你自己的方格纸并在这里作为背景纹理使用"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "delete background painting"
@@ -2662,7 +2662,7 @@ msgstr "当前正在显示的缩略图是否广利它们的标准高度"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "Make viewers for all players which have user-written scripts in this playfield."
-msgstr "为所有该游戏场内具备用户编写脚本的玩家制作视图"
+msgstr "显示这个运动场内所有包含由用户编写的脚本的演员的观察器"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "make detachable"
@@ -2670,7 +2670,7 @@ msgstr "使可分离"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "make graph paper..."
-msgstr "制作图表纸"
+msgstr "制作方格纸..."
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "playfield options"
@@ -2682,15 +2682,15 @@ msgstr "重新随机安排我的内容"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "Remove the viewers for all players in this playfield. This will save space before you publish this project"
-msgstr "删除该游戏场内所有玩家的视图。这将在你发布该工程之前保存空间"
+msgstr "移除这个游戏场里面所有演员的观察器。这样可以在你发布这个作品前节省空间"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "remove viewers of all players"
-msgstr "删除所有玩家的视图"
+msgstr "移除所有演员的观察器"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "round up strays"
-msgstr ""
+msgstr "集合走失的物体"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "Set the spacing to be used when gridding is on"
@@ -2706,7 +2706,7 @@ msgstr "设置缩略图高度"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "show viewers of all players"
-msgstr "显示所有玩家视图"
+msgstr "显示所有演员的观察器"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "shuffle contents"
@@ -2714,7 +2714,7 @@ msgstr "清洗内容"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "use a pale yellow-and-blue background texture here."
-msgstr "在这里使用淡黄蓝相间的背景纹理"
+msgstr "在这里使用淡黄和淡蓝相间的背景纹理"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu,PasteUpMorph>>presentViewMenu
 msgid "use standard texture"
@@ -2722,11 +2722,11 @@ msgstr "使用标准纹理"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether auto-line-layout, resize-to-fit, and indicate-cursor should be set to true; useful for animation control, etc"
-msgstr "使用应设置自动-线-展开，改变大小使适合；对动画控制有用，等等"
+msgstr "是否应该启用“自动按行排列”、“自动调整大小”和“显示游标”；这一选项可以在动画控制等时候使用"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether dragging an object from the interior should produce a COPY of the object"
-msgstr "从内部拖拽一个物体是否应该产生该物体的备份"
+msgstr "是否应该在从内部拖拽一个物体时产生它的一个复本"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether gridding should be used in my interior"
@@ -2746,15 +2746,15 @@ msgstr "物体是否应该在到达容器边缘时停止运动"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether objects should put up halos when the mouse is over them"
-msgstr "当鼠标在物体之上时它们是否应该报出出现光环"
+msgstr "当鼠标在物体的上面时是否应该显示光晕菜单"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether submorphs should automatically be laid out in lines"
-msgstr "子图形是否应该自动的以线的形式展开"
+msgstr "submorphs是否应该自动按行排列"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether the cartesian origin of the playfield should be at its lower-left corner or at the center of the playfield"
-msgstr ""
+msgstr "将运动场的左下角还是中心作为它的坐标原点"
 
 #: Morphic-Worlds,PasteUpMorph>>playfieldOptionsMenu
 msgid "whether the grid should be shown when gridding is on"

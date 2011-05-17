@@ -1675,7 +1675,7 @@ msgstr "文本颜色..."
 
 #: MorphicExtras-Flaps,FlapTab>>addCustomMenuItems:hand:
 msgid "If checked, this flap will be available in all morphic projects; if not, it will be private to this project.,"
-msgstr ""
+msgstr "如果选择，这个滑动板将在所有morphic作品中可用；否则，它将只能在这个作品中使用。"
 
 #: MorphicExtras-Flaps,FlapTab>>addCustomMenuItems:hand:
 msgid "tab color..."
@@ -1730,7 +1730,7 @@ msgstr ""
 
 #: MorphicExtras-Flaps,FlapTab>>changeTabText,ReferenceMorph>>changeTabText
 msgid "new wording for this tab:"
-msgstr ""
+msgstr "这个标签新的名称："
 
 #: MorphicExtras-Flaps,FlapTab>>changeTabThickness
 msgid "New thickness:"
@@ -1738,13 +1738,15 @@ msgstr ""
 
 #: MorphicExtras-Flaps,FlapTab>>compactFlapString
 msgid "compact flap"
-msgstr ""
+msgstr "让滑动板紧凑一点"
 
 #: MorphicExtras-Flaps,FlapTab>>destroyFlap
 msgid ""
 "Caution -- this is permanent!  Do\n"
 "you really want to do this? "
 msgstr ""
+"注意 -- 这是永久性的！\n"
+"你确定要这样做吗？"
 
 #: MorphicExtras-Flaps,FlapTab>>destroyFlap
 msgid ""
@@ -1768,7 +1770,7 @@ msgstr "是"
 
 #: MorphicExtras-Flaps,FlapTab>>dragoverString
 msgid "pop out on dragover"
-msgstr ""
+msgstr "在拖动时弹出"
 
 #: MorphicExtras-Flaps,FlapTab>>edgeString
 msgid "cling to edge... (current: {1})"
@@ -1788,11 +1790,11 @@ msgstr "使用图片标签"
 
 #: MorphicExtras-Flaps,FlapTab>>isGlobalFlapString
 msgid "shared by all projects"
-msgstr ""
+msgstr "在所有作品中共享"
 
 #: MorphicExtras-Flaps,FlapTab>>mouseoverString
 msgid "pop out on mouseover"
-msgstr ""
+msgstr "在鼠标滑过时弹出"
 
 #: MorphicExtras-Flaps,FlapTab>>partsBinString
 msgid "parts-bin"
@@ -1804,11 +1806,11 @@ msgstr ""
 
 #: MorphicExtras-Flaps,FlapTab>>solidTabString
 msgid "use solid tab"
-msgstr ""
+msgstr "使用纯色标签"
 
 #: MorphicExtras-Flaps,FlapTab>>textualTabString
 msgid "change tab wording..."
-msgstr "修改标签名称"
+msgstr "修改标签名称..."
 
 #: MorphicExtras-Flaps,FlapTab>>textualTabString
 msgid "use textual tab"
@@ -2265,7 +2267,7 @@ msgstr "获取多种对象的位置"
 
 #: MorphicExtras-PartsBin,ObjectsTool>>addCustomMenuItems:hand:,ObjectsTool>>modeTabs
 msgid "alphabetic"
-msgstr "字母顺序的"
+msgstr "字母顺序"
 
 #: MorphicExtras-PartsBin,ObjectsTool>>addCustomMenuItems:hand:,ObjectsTool>>modeTabs
 msgid "categories"
@@ -2305,7 +2307,7 @@ msgstr ""
 
 #: MorphicExtras-PartsBin,ObjectsTool>>modeTabs
 msgid "A separate tab for each letter of the alphabet"
-msgstr "字母表中每个字母的分开的标签"
+msgstr "字母表中每个字母一个单独的标签"
 
 #: MorphicExtras-PartsBin,ObjectsTool>>modeTabs
 msgid "Grouped by category"
@@ -2313,7 +2315,7 @@ msgstr "按类分组"
 
 #: MorphicExtras-PartsBin,ObjectsTool>>modeTabs
 msgid "Provides a type-in pane allowing you to match"
-msgstr "提供可录入文字可以匹配的面板"
+msgstr "提供一个用于匹配的可以输入的面板"
 
 #: MorphicExtras-PartsBin,ObjectsTool>>newSearchPane
 msgid "Type here and all entries that match will be shown."
@@ -2321,7 +2323,7 @@ msgstr "在这里录入，所有匹配的条目就会显示出来"
 
 #: MorphicExtras-PartsBin,ObjectsTool>>presentHelp
 msgid "Objects Catalog"
-msgstr "对象目录"
+msgstr "物体目录簿"
 
 #: MorphicExtras-PartsBin,ObjectsTool>>tabsForCategories
 msgid " Basic"
@@ -3110,7 +3112,7 @@ msgstr ""
 
 #: Morphic-Kernel,Morph>>dismissButton
 msgid "dismiss"
-msgstr ""
+msgstr "关闭"
 
 #: Morphic-Kernel,TheWorldMenu>>formulateFlapsMenu:
 msgid "about flaps..."

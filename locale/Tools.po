@@ -692,11 +692,11 @@ msgstr "查找..."
 
 #: Tools-FileList,FileList2_class>>morphicViewProjectLoader2InWorld:reallyLoad:dirFilterType:
 msgid "Load A Project"
-msgstr "装载项目"
+msgstr "载入一个作品"
 
 #: Tools-FileList,FileList2_class>>morphicViewProjectSaverFor:
 msgid "Publish This Project"
-msgstr "发布该项目"
+msgstr "发布这个作品"
 
 #: Tools-FileList,FileList2>>directoryNamesFor:,FileList2>>setSelectedDirectoryTo:
 msgid "Network Error"
@@ -748,7 +748,7 @@ msgstr ""
 
 #: Tools-FileList,FileList2>>updateLoginButtonAppearance
 msgid "Login"
-msgstr ""
+msgstr "登录"
 
 #: Tools-FileList,FileList2>>updateLoginButtonAppearance
 msgid "Logout"
@@ -760,7 +760,7 @@ msgstr ""
 
 #: Tools-FileList,FileList2>>updateLoginButtonAppearance
 msgid "(not logged in)"
-msgstr ""
+msgstr "（没有登录）"
 
 #: Tools-FileList,FileList2>>update:fileTypeRow:morphUp:,FileList2_class>>buildLoadButtons:fileList:reallyLoad:,FileList2_class>>buildSaveButtons:fileList:,FileList2_class>>buildSaveButtons:fileList:,PopUpMenu_class>>confirm:orCancel:
 msgid "Cancel"

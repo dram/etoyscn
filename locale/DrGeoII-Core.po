@@ -15,23 +15,23 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>angleButtonData
 msgid "Angle"
-msgstr ""
+msgstr "角度"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>angleButtonData
 msgid "Angle defined by three points or two vectors."
-msgstr ""
+msgstr "以三点或者两个向量定义角度"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>arcButtonData
 msgid "Arc"
-msgstr ""
+msgstr "圆弧"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>arcButtonData
 msgid "Arc-circle defined by three points."
-msgstr ""
+msgstr "以三点定义圆弧"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>circleButtonData
 msgid "Circle"
-msgstr "圆圈"
+msgstr "圆"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>circleButtonData
 msgid "Circle defined by its center and a point or by its center and radius, a value."
@@ -39,7 +39,7 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>coordinatesButtonData,DrGeoPresenter>>pointByCoordinatesButtonData
 msgid "Coordinates"
-msgstr ""
+msgstr "坐标"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>coordinatesButtonData
 msgid "Vector or point coordinates, circle or line equation."
@@ -79,15 +79,15 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>freePointButtonData
 msgid "Point"
-msgstr "绘画"
+msgstr "点"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>gridButtonData
 msgid "Grid"
-msgstr ""
+msgstr "网格"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>gridButtonData
 msgid "Show or hide grid."
-msgstr ""
+msgstr "显示或隐藏网格"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>griddedString
 msgid "snap to grid"
@@ -127,11 +127,11 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>lineButtonData
 msgid "Line"
-msgstr "线"
+msgstr "直线"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>lineButtonData
 msgid "Line defined by two points"
-msgstr ""
+msgstr "两点确定的直线"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>locusButtonData
 msgid "Locus"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>middleButtonData
 msgid "Middle"
-msgstr ""
+msgstr "中点"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>middleButtonData
 msgid "The midpoint of a segment or between two points."
@@ -175,11 +175,11 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>moveButtonData
 msgid "Select and Move"
-msgstr ""
+msgstr "选取和移动"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>moveButtonData
 msgid "Select and move an object."
-msgstr ""
+msgstr "选取和移动物体"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>multipleModeButtonData
 msgid "Create Multiple"
@@ -211,7 +211,7 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>polygonButtonData
 msgid "Polygon"
-msgstr "多变形"
+msgstr "多边形"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>polygonButtonData
 msgid "Polygon defined by n points. Last choosen point must be the initial point to terminate the selection."
@@ -223,11 +223,11 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>propertyButtonData
 msgid "Property"
-msgstr ""
+msgstr "属性"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>rayButtonData
 msgid "Half-Line defined by two points, the first selected point is the origin."
-msgstr ""
+msgstr "由两点决定射线，第一点是原点"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>rayButtonData
 msgid "Ray"
@@ -255,7 +255,7 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>rotationButtonData
 msgid "Rotation"
-msgstr ""
+msgstr "旋转"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>scriptButtonData
 msgid "Insert a Smalltalk script in the drawing area."
@@ -275,7 +275,7 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>segmentButtonData
 msgid "Segment"
-msgstr ""
+msgstr "线段"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>segmentButtonData
 msgid "Segment defined by two points."
@@ -303,7 +303,7 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>translationButtonData
 msgid "Translation"
-msgstr ""
+msgstr "平移"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>undoButtonData
 msgid "Undo"
@@ -315,7 +315,7 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGeoPresenter>>vectorButtonData
 msgid "Vector"
-msgstr ""
+msgstr "向量"
 
 #: DrGeoII-Core-App,DrGeoPresenter>>vectorButtonData
 msgid "Vector defined by two points."
@@ -351,19 +351,19 @@ msgstr ""
 
 #: DrGeoII-Core-App,DrGService>>addLineBtnMenuItems:hand:,DrGService>>addLineMenuItems:hand:
 msgid "Curves"
-msgstr ""
+msgstr "曲线"
 
 #: DrGeoII-Core-App,DrGService>>addMacroBtnMenuItems:hand:,DrGService>>addMacroMenuItems:hand:
 msgid "Macro-construction"
-msgstr ""
+msgstr "录制宏"
 
 #: DrGeoII-Core-App,DrGService>>addNumericBtnMenuItems:hand:,DrGService>>addNumericMenuItems:hand:
 msgid "Numerics"
-msgstr ""
+msgstr "数字"
 
 #: DrGeoII-Core-App,DrGService>>addOtherBtnMenuItems:hand:,DrGService>>addOtherMenuItems:hand:
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 #: DrGeoII-Core-App,DrGService>>addOtherMenuItems:hand:
 msgid "default position and scale"
@@ -372,11 +372,11 @@ msgstr ""
 #: DrGeoII-Core-App,DrGService>>addPointBtnMenuItems:hand:,DrGService>>addPointMenuItems:hand:
 #, fuzzy
 msgid "Points"
-msgstr "绘画"
+msgstr "点"
 
 #: DrGeoII-Core-App,DrGService>>addTransformationBtnMenuItems:hand:,DrGService>>addTransformationMenuItems:hand:
 msgid "Transformations"
-msgstr ""
+msgstr "变换"
 
 #: DrGeoII-Core-Builder,DrGMacroBuilder>>apply
 msgid "Input and output items don't match"
@@ -392,19 +392,19 @@ msgstr ""
 
 #: DrGeoII-Core-Item,DrGAngle2VectorsItem>>adaptiveDescriptiveName
 msgid "This oriented angle %1"
-msgstr ""
+msgstr "这个有向角 %1"
 
 #: DrGeoII-Core-Item,DrGAngle3PointsItem>>adaptiveDescriptiveName
 msgid "This geometric angle %1"
-msgstr ""
+msgstr "这个几何角 %1"
 
 #: DrGeoII-Core-Item,DrGArcItem>>adaptiveDescriptiveName
 msgid "This Arc Circle %1"
-msgstr ""
+msgstr "这段圆弧 %1"
 
 #: DrGeoII-Core-Item,DrGCircleItem>>adaptiveDescriptiveName
 msgid "This circle %1"
-msgstr ""
+msgstr "这个圆 %1"
 
 #: DrGeoII-Core-Item,DrGCompositeItem>>adaptiveDescriptiveName
 msgid "This composite object %1"
@@ -412,7 +412,7 @@ msgstr ""
 
 #: DrGeoII-Core-Item,DrGLineItem>>adaptiveDescriptiveName
 msgid "This line %1"
-msgstr ""
+msgstr "这条直线 %1"
 
 #: DrGeoII-Core-Item,DrGLocusItem>>adaptiveDescriptiveName
 msgid "This locus %1"
@@ -424,7 +424,7 @@ msgstr ""
 
 #: DrGeoII-Core-Item,DrGParallelLineItem>>adaptiveDescriptiveName
 msgid "This parallel line %1"
-msgstr ""
+msgstr "这条平行线 %1"
 
 #: DrGeoII-Core-Item,DrGPerpendicularlLineItem>>adaptiveDescriptiveName
 msgid "This perpendicular line %1"
@@ -432,15 +432,15 @@ msgstr ""
 
 #: DrGeoII-Core-Item,DrGPointItem>>adaptiveDescriptiveName
 msgid "This point %1"
-msgstr ""
+msgstr "这个点 %1"
 
 #: DrGeoII-Core-Item,DrGPolygonItem>>adaptiveDescriptiveName
 msgid "This polygon %1"
-msgstr ""
+msgstr "这个多边形 %1"
 
 #: DrGeoII-Core-Item,DrGRayItem>>adaptiveDescriptiveName
 msgid "This half-line %1"
-msgstr ""
+msgstr "这条射线 %1"
 
 #: DrGeoII-Core-Item,DrGScriptItem>>adaptiveDescriptiveName
 msgid "This script {1}>>{2}"
@@ -448,7 +448,7 @@ msgstr ""
 
 #: DrGeoII-Core-Item,DrGSegmentItem>>adaptiveDescriptiveName
 msgid "This segment %1"
-msgstr ""
+msgstr "这条线段 %1"
 
 #: DrGeoII-Core-Item,DrGValueArcLengthItem>>adaptiveDescriptiveName
 msgid "This arc length %1"
@@ -464,15 +464,15 @@ msgstr ""
 
 #: DrGeoII-Core-Item,DrGValueDistancePointsItem>>adaptiveDescriptiveName
 msgid "This distance between two points %1"
-msgstr ""
+msgstr "两点之间的距离 %1"
 
 #: DrGeoII-Core-Item,DrGValueItem>>adaptiveDescriptiveName
 msgid "This value %1"
-msgstr ""
+msgstr "这个值 %1"
 
 #: DrGeoII-Core-Item,DrGValueLineSlopeItem>>adaptiveDescriptiveName
 msgid "This line slope %1"
-msgstr ""
+msgstr "这条直线的斜率 %1"
 
 #: DrGeoII-Core-Item,DrGValueSegmentLengthItem>>adaptiveDescriptiveName
 msgid "This segment length %1"
@@ -484,7 +484,7 @@ msgstr ""
 
 #: DrGeoII-Core-Item,DrGVectorItem>>adaptiveDescriptiveName
 msgid "This vector %1"
-msgstr ""
+msgstr "这个向量 %1"
 
 #: DrGeoII-Core-Item-View,DrGCompositeStyle>>addMyMenus:
 msgid "disband this group"
@@ -492,11 +492,11 @@ msgstr ""
 
 #: DrGeoII-Core-Item-View,DrGCompositeStyle>>addShapeMenu:,DrGPointCostumeStyle>>addShapeMenu:
 msgid "shape"
-msgstr ""
+msgstr "形状"
 
 #: DrGeoII-Core-Item-View,DrGCostumeStyle>>addColorMenu:
 msgid "colour"
-msgstr ""
+msgstr "颜色"
 
 #: DrGeoII-Core-Item-View,DrGCostumeStyle>>popupMenu
 msgid " edit style... "
@@ -560,7 +560,7 @@ msgstr ""
 
 #: DrGeoII-Core-Tool,DrGFlyPointBuildToolState>>handleMouseAt:
 msgid "This intersection"
-msgstr ""
+msgstr "这个交点"
 
 #: DrGeoII-Core-UI,DrGWizardMacroBuild>>firstPage
 msgid "Build a macro-construction"
@@ -575,10 +575,17 @@ msgid ""
 " 3. Next chose a name and a description,\n"
 " 4. Last apply the selection."
 msgstr ""
+"如果要制作宏：\n"
+"\n"
+"1. 首先要选取输入的参数，\n"
+"2. 再选取输出的参数，\n"
+"3. 最后指定宏的名称和加上说明，\n"
+"4. Last apply the selection."
+
 
 #: DrGeoII-Core-UI,DrGWizardMacroBuild>>fourthPage,DrGWizardMacroPlay>>secondPage,DrGWizardScript>>secondPage
 msgid "Description:"
-msgstr ""
+msgstr "描述："
 
 #: DrGeoII-Core-UI,DrGWizardMacroBuild>>fourthPage
 msgid "Give a name and a description"
@@ -590,15 +597,15 @@ msgstr ""
 
 #: DrGeoII-Core-UI,DrGWizardMacroBuild>>secondPage
 msgid "Select input parameters"
-msgstr ""
+msgstr "指定输入的参数"
 
 #: DrGeoII-Core-UI,DrGWizardMacroBuild>>thirdPage
 msgid "Select output parameters"
-msgstr ""
+msgstr "指定输出的参数"
 
 #: DrGeoII-Core-UI,DrGWizardMacroPlay>>firstPage
 msgid "Execute a macro-construction"
-msgstr ""
+msgstr "执行宏"
 
 #: DrGeoII-Core-UI,DrGWizardMacroPlay>>firstPage
 msgid ""
